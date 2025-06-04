@@ -1,0 +1,6267 @@
+Auteur,Degré,Communauté
+Yoshua Bengio,75,3
+Ian J. Goodfellow,53,3
+Quoc V. Le,47,4
+Aaron C. Courville,40,3
+Koray Kavukcuoglu,37,10
+Geoffrey E. Hinton,35,4
+Oriol Vinyals,33,4
+Jianfeng Gao,32,76
+Daniel Rueckert,32,52
+Stephen M. Smith,32,18
+Ilya Sutskever,31,4
+Kyunghyun Cho,29,3
+Trevor Darrell,29,6
+Ross B. Girshick,28,6
+Ruslan Salakhutdinov,28,3
+Jürgen Schmidhuber,27,10
+Alex Graves,27,10
+Razvan Pascanu,26,3
+Alan L. Yuille,26,11
+Richard S. Zemel,25,3
+Timothy P. Lillicrap,25,10
+Kurt Keutzer,24,6
+Dawn Song,24,34
+Dong Yu,24,76
+Xiaogang Wang,24,28
+Ryan Kiros,23,3
+Honglak Lee,23,249
+Yangqing Jia,23,6
+Michael Auli,23,44
+Noam Shazeer,23,4
+Li Deng,22,76
+Christian F. Beckmann,22,18
+Daan Wierstra,21,10
+Barret Zoph,21,4
+Arno Villringer,21,151
+H. Vincent Poor,21,178
+Ming-Hsuan Yang,21,81
+Sergey Levine,21,4
+Mark Jenkinson,21,18
+Yann LeCun,21,4
+Christopher D. Manning,21,249
+yoshua bengio,20,40
+Alessandro Sordoni,20,44
+Alexandre Gramfort,20,229
+Lukasz Kaiser,20,4
+Antonio Torralba,20,6
+"Bengio, Yoshua",19,22
+Yi Yang,19,30
+Cho-Jui Hsieh,19,6
+Jure Leskovec,19,117
+Rahul Sukthankar,19,11
+Thomas Brox,19,5
+Pieter Abbeel,19,4
+Clare Kelly,18,258
+Karen Simonyan,18,10
+Bo Li,18,34
+Karl Zilles,18,18
+Philip H. S. Torr,18,81
+Tat-Seng Chua,18,249
+Alexey Dosovitskiy,18,5
+Jun-Yan Zhu,18,6
+Hugo Larochelle,18,3
+Lei Zhang,18,42
+Jitendra Malik,18,6
+Klaus-Robert Müller,18,151
+William J. Dally,17,24
+Max Welling,17,83
+Benjamin Blankertz,17,151
+Peter T. Fox,17,18
+Li Fei-Fei,17,11
+Kevin Murphy,17,11
+Alexei A. Efros,17,6
+Noah A. Smith,17,44
+Ueli Meier,17,10
+Kilian Q. Weinberger,16,78
+Richard Socher,16,249
+Andrew Y. Ng,16,249
+Kaiming He,16,6
+Ryan P. Adams,16,3
+Zidong Du,16,42
+Yunji Chen,16,42
+"Pascanu, Razvan",16,10
+David Silver,16,10
+Zhiyuan Liu,16,30
+Qingyang Li,16,258
+Jeff Donahue,16,6
+Ping Luo,16,28
+Tianshi Chen,16,42
+Jakob Uszkoreit,15,4
+"kavukcuoglu, koray",15,10
+Dacheng Tao,15,81
+Rui Zhao,15,4
+Raquel Urtasun,15,3
+Abdel-rahman Mohamed,15,4
+Guang-Bin Huang,15,107
+David K. Duvenaud,15,3
+Wojciech Zaremba,15,4
+Dumitru Erhan,15,249
+Ming-Ming Cheng,15,81
+Hubert Soyer,15,10
+hugo larochelle,15,40
+Daniel Ramage,15,68
+Justin Gilmer,15,4
+Fei Sun,15,6
+Çaglar Gülçehre,15,3
+Xiangnan He,15,249
+David C. Glahn,15,18
+Charles Blundell,15,10
+Andrei A. Rusu,14,10
+Xiaoou Tang,14,28
+Jing Li,14,6
+Nal Kalchbrenner,14,10
+F Xavier Castellanos,14,258
+Xi-Nian Zuo,14,258
+John Paul Strachan,14,194
+Michael P Milham,14,258
+R. Stanley Williams,14,194
+null null,14,260
+Miao Hu,14,194
+Alan C Evans,14,18
+Sebastian Nowozin,14,4
+Hartwig Adam,14,11
+Bo Chen,14,11
+Liang Wang,14,178
+Silvio Savarese,14,11
+H. Brendan McMahan,14,68
+George E. Dahl,14,4
+Jun Li,14,178
+Diederik P. Kingma,14,4
+Liang-Chieh Chen,14,11
+Liwei Wang,14,126
+Christian Szegedy,13,249
+Tara N. Sainath,13,4
+John V. Arthur,13,318
+Yee Whye Teh,13,3
+Yang Liu,13,126
+Maosong Sun,13,30
+Aäron van den Oord,13,10
+Luca Maria Gambardella,13,10
+Ye Yuan,13,70
+Kuncheng Li,13,178
+Zhuowen Tu,13,81
+Tianzi Jiang,13,178
+Xiaodong Liu,13,76
+F Crivello,13,13
+Ling Li,13,42
+Jascha Sohl-Dickstein,13,4
+Ekin D. Cubuk,13,4
+N Tzourio-Mazoyer,13,13
+Min Chen,13,408
+William L. Hamilton,13,117
+Jason Weston,13,3
+Jie Zhou,13,30
+Marc'Aurelio Ranzato,13,6
+Paul Merolla,13,318
+Deng-Ping Fan,13,28
+Adriana Di Martino,13,258
+Ling Shao,13,28
+Xiang Li,12,28
+Vinod Menon,12,61
+Andrew Zisserman,12,10
+U. Rajendra Acharya,12,80
+Marcus Rohrbach,12,6
+B Mazoyer,12,13
+"Abbeel, Pieter",12,1
+Pheng-Ann Heng,12,212
+Stephen M Smith,12,18
+Li Shen,12,10
+Jonathan T. Barron,12,591
+Marco Catani,12,230
+Qi Dou,12,212
+Mehdi Mirza,12,3
+Volodymyr Mnih,12,10
+Percy Liang,12,117
+Yu Liu,12,143
+Cheng-Xiang Wang,12,107
+Song Han,12,24
+Joel S. Emer,12,24
+Konrad Schindler,12,400
+Chang Huang,12,81
+"Yosinski, Jason",12,22
+Shenghua Gao,12,195
+Ananthram Swami,12,70
+Wei Xu,12,30
+Rui Zhang,12,107
+Ben Glocker,12,52
+Mike Schuster,12,4
+George Toderici,12,11
+Matthias Bethge,12,53
+Raia Hadsell,12,3
+Tomas Mikolov,12,4
+Sheng-Kwei Song,11,149
+Bradley L. Schlaggar,11,37
+Shu-Wei Sun,11,149
+Anne H Cross,11,149
+Pascal Lamblin,11,3
+Naveen Suda,11,246
+Jonathan D. Power,11,37
+Wenqi Ren,11,81
+Vikas Chandra,11,246
+Tao Qin,11,126
+Xiang Bai,11,81
+Sander Dieleman,11,10
+Yang Song,11,4
+Tie-Yan Liu,11,126
+"Ganguli, Surya",11,22
+Matthew Botvinick,11,10
+Hang Li,11,126
+Chrisantha Fernando,11,10
+Garrison W. Cottrell,11,70
+Kate Saenko,11,6
+Ben Poole,11,4
+Steven E. Petersen,11,37
+Karl J. Friston,11,247
+Simon B Eickhoff,11,18
+wei xu,11,11
+"Sutskever, Ilya",11,1
+Bichen Wu,11,6
+Ronan Collobert,11,3
+tianqi chen,11,82
+Chandra Bhagavatula,11,44
+Olivier Temam,11,42
+Yi Zhang,11,126
+Sung Jin Hwang,11,11
+Ding Liang,11,28
+James Bergstra,11,3
+Michael I. Jordan,11,4
+Anderson M. Winkler,11,18
+"Liu, Tie-Yan",11,499
+Yan Duan,11,4
+John Schulman,11,4
+"Qin, Tao",11,499
+Jamie Parker,11,120
+"Duan, Yan",11,1
+Mert R. Sabuncu,11,120
+Xiaodong He,11,76
+Qing Li,11,28
+Vince D Calhoun,11,598
+Alexander M. Rush,11,44
+David Minnen,11,11
+Philip S Yu,11,51
+Thomas Leung,11,11
+Paul A. Yushkevich,11,29
+James C. Gee,11,29
+Simon B. Eickhoff,11,18
+Angela R. Laird,11,18
+Bruce Fischl,11,120
+Katrin Amunts,10,18
+Tao Zhang,10,234
+Andrew Rabinovich,10,249
+Keping Long,10,107
+Yan Xu,10,249
+Tomás Kociský,10,10
+Yukun Zhu,10,3
+Tieniu Tan,10,178
+Sanja Fidler,10,3
+Zettlemoyer Luke,10,60
+Wenhai Wang,10,28
+Rob Fergus,10,4
+Joan Bruna,10,4
+Sergey Karayev,10,6
+Huan Zhang,10,6
+David Ha,10,10
+Gholamreza Salimi Khorshidi,10,18
+Joelle Pineau,10,3
+Simon S. Du,10,126
+Jose Caballero,10,52
+Yong-Deok Kim,10,446
+Léon Bottou,10,3
+Minh-Thang Luong,10,4
+Hanwang Zhang,10,249
+Liu Yinhan,10,60
+Shuiwang Ji,10,30
+Lewis Mike,10,60
+Mani B. Srivastava,10,6
+Vladimir Fonov,10,173
+Goyal Naman,10,60
+Ghazvininejad Marjan,10,60
+Tor D Wager,10,47
+Vivek Srikumar,10,194
+"Wang, Liwei",10,499
+Vijay Vasudevan,10,4
+Pierre Vandergheynst,10,4
+Christopher Morris,10,117
+Thomas E. Nichols,10,18
+Geoffrey Ye Li,10,107
+Chen Change Loy,10,28
+Mark D'Esposito,10,183
+Frank Seide,10,76
+D. A. Boas,10,584
+James C Gee,10,72
+Brian B Avants,10,72
+Jeff Clune,10,5
+Thomas S. Huang,10,76
+"Vinyals, Oriol",10,10
+Chuanqi Tan,10,114
+yutian li,9,82
+Jeff Dean,9,4
+Jian Sun,9,6
+Chupin Marie,9,260
+Habert Marie-Odile,9,260
+Lehéricy Stéphane,9,260
+Auzias Guillaume,9,260
+Andreas Geiger,9,5
+Benjamin Falcon,9,900
+Gerardin Emilie,9,260
+Gabriel Curio,9,151
+Matthieu Cord,9,122
+Brian Patenaude,9,18
+Caiming Xiong,9,249
+zhiheng huang,9,11
+"Guibas, Leonidas J.",9,22
+Marco Tettamanti,9,289
+Giovanni Buccino,9,289
+Zhangyang Wang,9,76
+Ruqiang Yan,9,4
+Samuel S. Schoenholz,9,4
+Françoise Beaufays,9,68
+Mohammad Norouzi,9,4
+Jasper Snoek,9,3
+Ming Yang,9,30
+Iasonas Kokkinos,9,11
+Zhen Li,9,522
+K Zilles,9,284
+G R Fink,9,284
+N J Shah,9,284
+W Maier,9,284
+P Falkai,9,284
+F Happé,9,284
+Xiaohu You,9,107
+Xiqi Gao,9,107
+Fourat Haider,9,107
+Declan G. M. Murphy,9,230
+Steven C Williams,9,230
+Zhao Song,9,6
+Christopher D. Frith,9,675
+Jan Dirk Wegner,9,400
+R. Devon Hjelm,9,3
+Stefan Haufe,9,151
+Jo Schlemper,9,52
+Scott E. Reed,9,249
+John D. E. Gabrieli,9,183
+Elaine R. Robertson,9,183
+Jeffrey C. Cooper,9,183
+Kevin N. Ochsner,9,183
+Stan Birchfield,9,670
+Shaad Boochoon,9,670
+Eric Cameracci,9,670
+Peter Vajda,9,6
+Yuandong Tian,9,6
+Yiming Wu,9,6
+Ning Ge,9,194
+Sity Lam,9,194
+Catherine Graves,9,194
+Noraica Davila,9,194
+A Newen,9,284
+P Bussfeld,9,284
+K Vogeley,9,284
+Vittorio Gallese,9,289
+Maria Cristina Saccuman,9,289
+Robin Murray,9,230
+Muriel Walshe,9,230
+Matthew Allin,9,230
+Flavio Dell'Acqua,9,230
+Jianhua Joshua Yang,9,194
+Alberto Bizzi,9,230
+Michel Thiebaut de Schotten,9,230
+Dominic H Ffytche,9,230
+Emmanuelle M. Grafals,9,194
+Zhiyong Li,9,194
+Hadi Aggoune,9,107
+Dongfeng Yuan,9,107
+Yang Yang,9,107
+Thang To,9,670
+Cem Anil,9,670
+David Reese McKay,9,18
+Kimberly L. Ray,9,18
+Jessica A. Turner,9,18
+Israel Liberzon,9,47
+P. Mickle Fox,9,18
+Javier Ortega-García,9,266
+Teva Merlin,9,266
+Sylvain Meignier,9,266
+Ivan Magrin-Chagnolleau,9,266
+Jun Ma,9,6
+Wojciech Matusik,9,6
+Petr Kellnhofer,9,6
+Varun Jampani,9,670
+Mark Brophy,9,670
+David Acuna,9,670
+Jonathan Tremblay,9,670
+Aayush Prakash,9,670
+Patrick D. McDaniel,9,70
+mu li,9,82
+Harald Haas,9,107
+Yanghan Wang,9,6
+Peizhao Zhang,9,6
+Xiaoliang Dai,9,6
+Guillaume Gravier,9,266
+Corinne Fredouille,9,266
+Jean-François Bonastre,9,266
+Frédéric Bimbot,9,266
+Douglas A. Reynolds,9,266
+Dijana Petrovska-Delacrétaz,9,266
+Yann N. Dauphin,9,44
+Luke Zettlemoyer,9,44
+Saad Jbabdi,9,18
+jeffrey earp,9,291
+grant gray,9,291
+thomas m connolly,9,291
+thomas hainey,9,291
+elizabeth boyle,9,291
+Daniela Perani,9,289
+Stefano F Cappa,9,289
+Giacomo Rizzolatti,9,289
+Ferruccio Fazio,9,289
+Paola Scifo,9,289
+S Herrmann,9,284
+Kwabena Boahen,9,318
+Rodrigo Alvarez-Icaza,9,318
+Massimo Danna,9,289
+j s pereira,9,291
+claudia ribeiro,9,291
+manuel ninaus,9,291
+theodore lim,9,291
+michela ott,9,291
+Donald F Klein,9,258
+bing xu,9,82
+Zhu Han,9,107
+Shinji Watanabe,9,718
+John R. Hershey,9,718
+Erol Hepsaydir,9,107
+S. Fletcher,9,107
+Benali Habib,9,260
+Lajos Hanzo,9,107
+Dongjin Song,9,70
+R Cameron Craddock,9,258
+Stan Colcombe,9,258
+Chao-Gan Yan,9,258
+Brian Cheung,9,258
+Holly J Garringer,9,900
+Garib Murshudov,9,900
+Alexey G Murzin,9,900
+Wenjuan Zhang,9,900
+Anand Chandrasekaran,9,318
+Swadesh Choudhary,9,318
+Emmett McQuinn,9,318
+Peiran Gao,9,318
+Ben Varkey Benjamin,9,318
+Yan Liu,9,44
+Michael M. Bronstein,9,4
+Iulian Vlad Serban,9,3
+Erich Elsen,9,10
+Aditya Khosla,9,6
+Jun Liu,9,6
+Hoifung Poon,9,76
+Andrea Vedaldi,9,10
+Li Zhang,9,68
+Alán Aspuru-Guzik,9,3
+Jorge Aguilera-Iparraguirre,9,3
+Jiawei Han,9,76
+Deng Cai,9,76
+Cuingnet Rémi,9,260
+Colliot Olivier,9,260
+naiyan wang,9,82
+Yash Sharma,9,6
+Florian Stimberg,9,10
+Yi Li,9,67
+Edward Lockhart,9,10
+Norman Casagrande,9,10
+Seb Noury,9,10
+Kai Chen,9,4
+Yang Chen,9,126
+Zhen Lei,9,158
+Jean-Marie Bussat,9,318
+Michel Goedert,9,900
+Sjors H W Scheres,9,900
+Bernardino Ghetti,9,900
+R Anthony Crowther,9,900
+Ruben Vidal,9,900
+Tessieras Jérôme,9,260
+James Demmel,9,6
+Xiaodan Song,9,6
+Srinadh Bhojanapalli,9,6
+Sanjiv Kumar,9,6
+Jonathan Hseu,9,6
+Ashish Vaswani,9,4
+zheng zhang,9,82
+chiyuan zhang,9,82
+tianjun xiao,9,82
+minjie wang,9,82
+min lin,9,82
+Yang You,9,6
+Philipp Fischer,9,5
+Sashank Reddi,9,6
+Junhua Mao,9,30
+Niki Parmar,8,4
+Robert Tinn,8,76
+Yu Gu,8,76
+Hao Cheng,8,76
+Michael Lucas,8,76
+Naoto Usuyama,8,76
+Tristan Naumann,8,76
+Dzmitry Bahdanau,8,3
+Esteban Real,8,4
+Lixia Tian,8,178
+Walter F. Stewart,8,354
+Xinqing Zhang,8,178
+Meng Liang,8,178
+Yong He,8,178
+Yufeng Zang,8,178
+Rangharajan Venkatesan,8,24
+Antonio Puglielli,8,24
+Anurag Mukkara,8,24
+Minsoo Rhu,8,24
+Angshuman Parashar,8,24
+Tao Wu,8,178
+Saad Sadiq,8,431
+Xiaobing Feng,8,42
+Tao Luo,8,42
+"Fridovich-Keil, Sara",8,591
+"Mildenhall, Ben",8,591
+"Tancik, Matthew",8,591
+Pratul P. Srinivasan,8,591
+jiang wang,8,11
+yi yang,8,11
+junhua mao,8,11
+Ying-Chang Liang,8,107
+Jawad Nagi,8,10
+Frederick Ducatelle,8,10
+Henrik Nielsen,8,634
+Sanjeev Arora,8,126
+Bharath Hariharan,8,78
+Maja Pantic,8,76
+Godfrey D Pearlson,8,598
+Robert T Schultz,8,598
+Xiaowei Hu,8,81
+Qibin Hou,8,81
+Shiow-Jiuan Lin,8,149
+Ming Zhou,8,114
+Furu Wei,8,114
+Daniel Cremers,8,5
+Patrick van der Smagt,8,5
+Vladimir Golkov,8,5
+Caner Hazirbas,8,5
+Philip Häusser,8,5
+Eddy Ilg,8,5
+Farrukh Nagi,8,10
+Gianni A. Di Caro,8,10
+"Ramamoorthi, Ravi",8,591
+"Singhal, Utkarsh",8,591
+"Raghavan, Nithin",8,591
+David Grangier,8,44
+Rich Caruana,8,79
+Heikki Huttunen,8,839
+Stefano Ermon,8,4
+Geoffrey Zweig,8,76
+Han Hu,8,67
+Jifeng Dai,8,67
+Akira Hirose,8,585
+Daiju Nakano,8,585
+Hidetoshi Numata,8,585
+Seiji Takeda,8,585
+Naoki Kanazawa,8,585
+Ryosho Nakane,8,585
+Jean Benoit Héroux,8,585
+Toshiyuki Yamane,8,585
+Gouhei Tanaka,8,585
+Jane X. Wang,8,10
+Bharat B Biswal,8,258
+Dylan G Gee,8,258
+Zarrar E Shehzad,8,258
+May-Britt Moser,8,652
+Jean Kossaifi,8,229
+Andreas Mueller,8,229
+Philippe Gervais,8,229
+Michael Eickenberg,8,229
+Fabian Pedregosa,8,229
+Alexandre Abraham,8,229
+Allan L. Reiss,8,61
+Mattia Rigotti,8,256
+John Ashburner,8,247
+Gaël Varoquaux,8,229
+Bertrand Thirion,8,229
+Qingming Huang,8,81
+Yuki Hagiwara,8,80
+Shu Lih Oh,8,80
+Zhiheng Huang,8,30
+Thomas N. Kipf,8,83
+Nicolas Papernot,8,4
+Ekin Dogus Cubuk,8,4
+Chris Dyer,8,44
+Miguel Ballesteros,8,44
+Guillaume Lample,8,44
+Matt Botvinick,8,10
+Dharshan Kumaran,8,10
+Rémi Munos,8,10
+Joel Z. Leibo,8,10
+Dhruva Tirumala,8,10
+Zeb Kurth-Nelson,8,10
+Jérôme Louradour,8,3
+Michele Covell,8,11
+Shumeet Baluja,8,11
+Xiaohui Xie,8,10
+Stephen Tyree,8,78
+Bernt Schiele,8,249
+Damien Vincent,8,11
+Mahadev Satyanarayanan,8,57
+James Bailey,8,34
+Grant Schoenebeck,8,34
+Michael E. Houle,8,34
+Tong Lu,8,28
+Sudanthi N. R. Wijewickrema,8,34
+Sarah M. Erfani,8,34
+Yisen Wang,8,34
+Xingjun Ma,8,34
+Junliang Xing,8,10
+Cuiling Lan,8,10
+Kwang-Cheng Chen,8,107
+Aliaksei Severyn,8,527
+Ting Liu,8,114
+Duyu Tang,8,114
+"Müller, Klaus-Robert",8,678
+David Warde-Farley,8,3
+Nicolas Bouchard,8,3
+Arnaud Bergeron,8,3
+Frédéric Bastien,8,3
+Scott Makeig,8,181
+Kaitao Song,8,28
+Enze Xie,8,28
+Dinggang Shen,8,30
+Marinka Zitnik,8,117
+Yejin Choi,8,44
+Cheng Yang,8,30
+Zhengyan Zhang,8,30
+Shengding Hu,8,30
+Ganqu Cui,8,30
+Andrew Tulloch,8,6
+Aapo Kyrola,8,6
+Lukasz Wesolowski,8,6
+Pieter Noordhuis,8,6
+Priya Goyal,8,6
+Piotr Dollár,8,6
+Zhaowen Wang,8,175
+Benjamin Recht,8,4
+Chengqi Zhang,8,51
+Guodong Long,8,51
+Wenjun Zeng,8,10
+Emily Allaway,8,44
+Ronan LeBras,8,44
+Maarten Sap,8,44
+Lin Shi,8,212
+Vincent C. T. Mok,8,212
+Defeng Wang,8,212
+Jing Qin,8,212
+Lei Zhao,8,212
+Lequan Yu,8,212
+Hao Chen 0011,8,212
+Francisco Pereira,8,10
+Alan C. Evans,8,173
+Changcheng Li,8,30
+Lifeng Wang,8,30
+Shirui Pan,8,51
+K. J. Friston,8,50
+Christian Beckmann,8,18
+pierremarc jodoin,8,40
+chris pal,8,40
+aaron courville,8,40
+antoine biard,8,40
+david wardefarley,8,40
+mohammad havaei,8,40
+axel davy,8,40
+Timothy Behrens,8,18
+Salima Makni,8,18
+Michael Chappell,8,18
+Karn Seth,8,68
+Aaron Segal,8,68
+Brendan Roof,8,44
+Hannah Rashkin,8,44
+Nicholas Lourie,8,44
+George Saon,8,4
+Brian Kingsbury,8,4
+Anima Anandkumar,8,693
+Kamyar Azizzadenesheli,8,693
+Mark W Woolrich,8,18
+Dan C. Ciresan,8,10
+Sarvar Patel,8,68
+Antonio Marcedone,8,68
+Ben Kreuter,8,68
+Vladimir Ivanov,8,68
+Keith Bonawitz,8,68
+Yelong Shen,8,76
+"Blundell, Charles",8,10
+Vince D. Calhoun,8,3
+Xi Chen,8,4
+Hui Jiang,8,4
+George Papandreou,8,11
+Mubeena Mirza,8,712
+David W. Shattuck,8,712
+David Vázquez,8,3
+Phillip Isola,8,6
+Yurong Liu,8,91
+Nianyin Zeng,8,91
+Alessandro Giusti,8,10
+Hagen Soltau,8,4
+Christian Theobalt,8,455
+Dan Casas,8,455
+Weipeng Xu,8,455
+Hans-Peter Seidel,8,455
+Mohammad Shafiei,8,455
+Helge Rhodin,8,455
+Oleksandr Sotnychenko,8,455
+Fernando Calamante,8,327
+Luis A. Plana,8,329
+Steve Temple,8,329
+Vivek Singh,8,18
+June Sic Kim,8,18
+Arthur W. Toga,8,712
+Robert M. Bilder,8,712
+Russell A. Poldrack,8,712
+Katherine Narr,8,712
+Georges Salamon,8,712
+Cornelius Hojatkashani,8,712
+Vitria Adisetiyo,8,712
+Wei Li,8,70
+Peter J. Liu,8,4
+Srinath Sridhar,8,455
+Dushyant Mehta,8,455
+Shahram Izadi,8,444
+Emma Berry,8,444
+Steve Hodges,8,444
+Lyndsay Williams,8,444
+charles w monroe,8,443
+L-M Duan,8,443
+Guido Gerig,8,29
+Sean Ho,8,29
+Sun I Kim,8,18
+Jong Min Lee,8,18
+David MacDonald,8,18
+Yasser Ad-Dab'bagh,8,18
+Jason Lerch,8,18
+Jun Ki Lee,8,18
+Ken Wood,8,444
+Alan Connelly,8,327
+S. S. Iyengar,8,431
+M-S Chang,8,443
+Shuicheng Yan,8,26
+Min Lin,8,26
+Jimei Yang,8,249
+Lior Wolf,8,30
+G-D Lin,8,443
+J K Freericks,8,443
+E E Edwards,8,443
+R Islam,8,443
+S Korenblit,8,443
+kinam kim,8,443
+Narinder Kapur,8,444
+Gavin Smyth,8,444
+Alex Butler,8,444
+James Srinivasan,8,444
+Chen Zhang,8,133
+Qi Guo,8,42
+Shaoli Liu,8,42
+Huiying Lan,8,42
+Shijin Zhang,8,42
+Sangdoo Yun,8,105
+Dongyoon Han,8,105
+Shu-Ching Chen,8,431
+Mei-Ling Shyu,8,431
+Maria E. Presa Reyes,8,431
+Yudong Tao,8,431
+Haiman Tian,8,431
+Yilin Yan,8,431
+Samira Pouyanfar,8,431
+Won-Yeol Lee,8,23
+Zhe Lin,8,175
+Paolo Ienne,8,42
+Robert Fasthuber,8,42
+Myle Ott,8,44
+Stephen W. Keckler,8,24
+Brucek Khailany,8,24
+Tony Q. S. Quek,8,178
+Shi Jin,8,178
+Farhad Farokhi,8,178
+Howard H. Yang,8,178
+Chuan Ma,8,178
+Ming Ding,8,178
+Kang Wei,8,178
+Karol Gregor,8,10
+Jonathan Masci,8,10
+Jason Cong,8,133
+Guangyu Sun,8,133
+Matthias Moosmann,8,151
+Rex Ying,8,117
+Kang Zhou,8,195
+Huazhu Fu,8,195
+Zaiwang Gu,8,195
+Jun Cheng,8,195
+Bill Dolan,8,44
+Jian-Yun Nie,8,44
+Margaret Mitchell,8,44
+Yangfeng Ji,8,44
+Chris Brockett,8,44
+Michel Galley,8,44
+Jiang Liu,8,195
+Tianyang Zhang,8,195
+Yitian Zhao,8,195
+Huaying Hao,8,195
+Jacqueline G O'Boyle,8,598
+Robert Sahl,8,598
+Michael C Stevens,8,598
+Laura Miller,8,598
+Michal Assaf,8,598
+Kanchana Jagannathan,8,598
+Wei Wu,8,522
+"Ng, Ren",8,591
+Alex Krizhevsky,8,4
+Hellmuth Obrig,8,151
+Birol Taskin,8,151
+Felix Blankenburg,8,151
+Sebastian Thees,8,151
+Andrea Brink,8,151
+Ina Krastel,8,151
+Petra Ritter,8,151
+Jessica A. Church,7,37
+"Xu, Miao",7,261
+"Niu, Gang",7,261
+Nico U. F. Dosenbach,7,37
+Bingbing Ni,7,26
+Vimla L. Patel,7,770
+Llion Jones,7,4
+Jian Dong,7,26
+Francis M. Miezin,7,37
+Yao Zhao,7,26
+"Hu, Weihua",7,261
+Mohamed Abdelrahman,7,60
+"Sugiyama, Masashi",7,261
+Ivor W. Tsang,7,261
+Jasha Droppo,7,76
+Xiangyu Zhang,7,6
+"Yu, Xingrui",7,261
+"Yao, Quanming",7,261
+"Han, Bo",7,261
+Shen Dinggang,7,260
+Yixin Chen,7,78
+Svenja Caspers,7,18
+Stoyanov Ves,7,60
+Jonathan Long,7,6
+Randy L. Buckner,7,120
+Hervé Jégou,7,122
+Md. Mostofa Ali Patwary,7,3
+Narayanan Sundaram,7,3
+Nadathur Satish,7,3
+Kevin Swersky,7,3
+Oren Rippel,7,3
+Chen-Yu Lee,7,81
+Andreas Stolcke,7,76
+Mike Seltzer,7,76
+Xuedong Huang,7,76
+W. Xiong,7,76
+Jack L Gallant,7,255
+Xu Jia,7,868
+Sarah Parisot,7,868
+Marc Masana,7,868
+Forrest N. Iandola,7,6
+Paul M. Thompson,7,81
+Andrew Hard,7,68
+D Papathanassiou,7,13
+B Landeau,7,13
+Marco Andreetto,7,11
+Tobias Weyand,7,11
+Weijun Wang,7,11
+Dmitry Kalenichenko,7,11
+Menglong Zhu,7,11
+Andrew G. Howard,7,11
+Sergio Guadarrama,7,6
+Pascal Frossard,7,4
+Tinne Tuytelaars,7,868
+Shixiang Gu,7,4
+"Wu, Qingyao",7,867
+"Guo, Yong",7,867
+"Liu, Jing",7,867
+Ling Zhao,7,143
+Chloé Kiddon,7,68
+Hubert Eichner,7,68
+Sean Augenstein,7,68
+Rajiv Mathews,7,68
+Kanishka Rao,7,68
+"Zhuang, Bohan",7,867
+"Zhuang, Zhuangwei",7,867
+"Tan, Mingkui",7,867
+Gregory Slabaugh,7,868
+Aleš Leonardis,7,868
+Jing Jiang,7,51
+Hao Li,7,249
+Gang Wang,7,6
+Yujiao Song,7,143
+José Miguel Hernández-Lobato,7,3
+Markham Andrew,7,541
+Trigoni Niki,7,541
+Wang Zhihua,7,541
+Guo Yulan,7,541
+Rosa Stefano,7,541
+Xie Linhai,7,541
+Darryl G. Thelen,7,58
+Eran Guendelman,7,58
+Chand T. John,7,58
+Ayman Habib,7,58
+Peter Loan,7,58
+Allison S. Arnold,7,58
+Scott L. Delp,7,58
+Frank C. Anderson,7,58
+Yang Bo,7,541
+Anatole Lécuyer,7,739
+Olivier Bertrand,7,739
+Vincent Delannoy,7,739
+Emmanuel Maby,7,739
+Marco Congedo,7,739
+Guillaume Gibert,7,739
+Yann Renard,7,739
+Amir Rahmati,7,34
+Atul Prakash,7,34
+Tadayoshi Kohno,7,34
+Haifeng Li,7,143
+Min Deng,7,143
+Tao Lin,7,143
+Pu Wang,7,143
+Chao Zhang,7,143
+Fabien Lotte,7,739
+Zhi Jin,7,249
+Hao Peng,7,249
+Sarma B. K. Vrudhula,7,246
+Yufei Ma,7,246
+Abinash Mohanty,7,246
+Ganesh Dasika,7,246
+Peter Pastor,7,4
+Hu Qingyong,7,541
+U Rajendra Acharya,7,80
+Sean M. O'Malley,7,11
+Tor Wager,7,47
+Xia Hu,7,249
+Liqiang Nie,7,249
+Frank Hutter,7,5
+ananthram swami,7,70
+somesh jha,7,70
+nicolas papernot,7,70
+M Joliot,7,13
+N Delcroix,7,13
+O Etard,7,13
+Ge Li,7,249
+Lili Mou,7,249
+Joseph V. Hajnal,7,52
+Luisa Verdoliva,7,280
+Davide Cozzolino,7,280
+Yixuan Li,7,78
+Yu Wang,7,234
+Yongpan Liu,7,234
+Jishen Zhao,7,234
+Cong Xu,7,234
+Shuangchen Li,7,234
+Ping Chi,7,234
+Yuan Xie,7,234
+"Schneider, Jonas",7,1
+"Jonathan Ho, OpenAI",7,1
+Bradly C. Stadie,7,1
+"Andrychowicz, Marcin",7,1
+KyungHyun Cho,7,3
+Christian Brodbeck,7,229
+Daniel Strohmeier,7,229
+Denis A Engemann,7,229
+Eric Larson,7,229
+Martin Luessi,7,229
+Zehan Wang,7,52
+Rob Bishop,7,52
+Andrew P. Aitken,7,52
+Johannes Totz,7,52
+Ferenc Huszár,7,52
+Wenzhe Shi,7,52
+Matti S Hämäläinen,7,229
+Lauri Parkkonen,7,229
+Alan Loddon Yuille,7,11
+Yu Cao,7,246
+Jae-sun Seo,7,246
+G. Hinton,7,50
+Jian Ma,7,6
+"Zaremba, Wojciech",7,1
+Sheng Wang,7,522
+Fuzheng Zhang,7,611
+Edunov Sergey,7,60
+Li Xian,7,60
+Gu Jiatao,7,60
+Sean M. O&apos;Malley,7,11
+J. Ashburner,7,50
+C. Phillips,7,50
+S. Kiebel,7,50
+Xing Xie,7,611
+fei wu,7,888
+minghsuan yang,7,888
+Earlence Fernandes,7,34
+Kevin Eykholt,7,34
+Ivan Evtimov,7,34
+ronald m summers,7,716
+lauren kim,7,716
+cherry kevin,7,716
+lina wei,7,888
+xi li,7,888
+liming zhao,7,888
+Zhi-Hua Zhou,7,103
+ari seff,7,716
+jianhua yao,7,716
+jiamin liu,7,716
+le lu,7,716
+holger roth,7,716
+Ramesh Nallapati,7,3
+Bowen Zhou,7,3
+Arumugam Nallanathan,7,107
+Xi Peng,7,643
+Leslie Ying,7,643
+Zhenghang Su,7,643
+Shanshan Wang,7,643
+Dan Claudiu Ciresan,7,10
+Jianxiong Xiao,7,6
+Fan Zhang,7,70
+Vladlen Koltun,7,5
+Dong Liang,7,643
+Dagan Feng,7,643
+Feng Liang,7,643
+Shun Zhu,7,643
+Kelvin Xu,7,3
+Jimmy Ba,7,3
+L WILLIAMS,7,794
+E GORDON,7,794
+A PEDUTO,7,794
+P DAS,7,794
+M BARTON,7,794
+A KEMP,7,794
+K BROWN,7,794
+B LIDDELL,7,794
+Yang He,7,30
+Huchuan Lu,7,28
+Suman Jana,7,296
+David D. Cox,7,429
+Kui Jia,7,81
+Youngjin Yoo,7,423
+"Chen, Xi",7,1
+Geoff Pleiss,7,78
+Christian Gaser,7,839
+Raymond J. Mooney,7,6
+Subhashini Venugopalan,7,6
+Andrew Zalesky,7,494
+Alex Fornito,7,494
+S B Eickhoff,7,488
+P T Fox,7,488
+J B Schulz,7,488
+A R Laird,7,488
+K Reetz,7,488
+David Sontag,7,44
+I Dogan,7,488
+R Langner,7,488
+C Rottschy,7,488
+Jasjit S. Suri,7,80
+Andrew W. Senior,7,4
+R. Nathan Spreng,7,204
+Moustapha Cissé,7,44
+Andreas Heinz,7,151
+Jana Wrase,7,151
+Brian Knutson,7,151
+Torsten Wüstenberg,7,151
+Michael Koslowski,7,151
+Georg Juckel,7,151
+Florian Schlagenhauf,7,151
+jingdong wang,7,888
+Eric P. Xing,7,3
+Zhiting Hu,7,3
+Omer Levy,7,249
+Joshua Jeffries,7,258
+Stefanie Beck,7,258
+William T Oliver,7,258
+Cynthia Krafft,7,258
+Aisha Siddiqui,7,258
+Erica E Fortune,7,258
+Dean Sabatinelli,7,258
+Jing Gao,7,70
+Lu Su,7,70
+Zhengdong Lu,7,126
+haibin ling,7,888
+yueting zhuang,7,888
+Aaron P Batista,7,911
+Byron M Yu,7,911
+Elizabeth C Tyler-Kabara,7,911
+Stephen I Ryu,7,911
+Steven M Chase,7,911
+Matthew D Golub,7,911
+Alexander N. W. Taylor,7,436
+Rabab K. Ward,7,76
+Xinying Song,7,76
+Jianshu Chen,7,76
+Hamid Palangi,7,76
+Kenton Lee,7,44
+Ivana Isgum,7,464
+Alexander Pritzel,7,10
+Yori Zwols,7,10
+Dylan Banarse,7,10
+Somesh Jha,7,70
+Max A. Viergever,7,464
+Birgit A. Völlm,7,436
+Adrià Puigdomènech Badia,7,10
+Fei-Fei Li,7,11
+Alexandre Alahi,7,11
+Thang Luong,7,249
+Matthew Webster,7,18
+Karla L. Miller,7,18
+Stan Z. Li,7,158
+Dan Hendrycks,7,4
+James Kirkpatrick,7,10
+Guillaume Desjardins,7,10
+Neil C. Rabinowitz,7,10
+Mark William Woolrich,7,18
+Joseph D. Ramsey,7,18
+Rebecca Elliott,7,436
+John F. W. Deakin,7,436
+Shane McKie,7,436
+John Stirling,7,436
+Joseph Gomes,7,117
+Rhiannon Corcoran,7,436
+Paul Richardson,7,436
+victor lempitsky,7,40
+mario marchand,7,40
+H Duffau,7,13
+P Y Hervé,7,13
+V Beaucousin,7,13
+M Vigneau,7,13
+Hayit Greenspan,7,188
+Rajeev Balasubramonian,7,194
+Naveen Muralimanohar,7,194
+jiwei li,7,163
+Tim Harley,7,10
+Mihai Datcu,7,400
+Raquel E. Gur,7,337
+Ruben C. Gur,7,337
+Hakon Hakonarson,7,337
+Anirban Nag,7,194
+Ali Shafiee,7,194
+Dalong Du,7,81
+Zhizhong Su,7,81
+Vibhav Vineet,7,81
+Bernardino Romera-Paredes,7,81
+Shuai Zheng,7,81
+Sadeep Jayasumana,7,81
+O Houdé,7,13
+Tsui-Wei Weng,7,6
+Surya Ganguli,7,4
+joelle pineau,7,3
+Daniel H. Wolf,7,337
+Hanxiao Liu,7,10
+Patrick T Sadtler,7,911
+Kristin M Quick,7,911
+Robert Oostenveld,7,25
+Weihua Hu,7,117
+Bowen Liu,7,117
+Prafulla Dhariwal,7,4
+Michael Collins,7,527
+Slav Petrov,7,527
+Kuzman Ganchev,7,527
+Alessandro Presta,7,527
+David Weiss,7,527
+Daniel Andor,7,527
+Chris Alberti,7,527
+Kishlay Jha,7,70
+Guangxu Xun,7,70
+francois laviolette,7,40
+David K. Menon,7,52
+Andrew D. Kane,7,52
+Joanna P. Simpson,7,52
+pascal germain,7,40
+hana ajakan,7,40
+yaroslav ganin,7,40
+evgeniya ustinova,7,40
+Zhiwei Jin,7,70
+Yaqing Wang,7,70
+Fenglong Ma,7,70
+Luca Daniel,7,6
+Inderjit S. Dhillon,7,6
+Duane S. Boning,7,6
+Hongge Chen,7,6
+Andrej Karpathy,7,11
+Seunghoon Hong,7,249
+Mark A. Elliott,7,337
+Kosha Ruparel,7,337
+James Loughead,7,337
+Theodore D. Satterthwaite,7,337
+"Lee, Honglak",7,317
+Tao Wang,7,249
+Zhiguo Ding,7,178
+Jin Fan,7,68
+Tim Salimans,7,4
+Saurabh Gupta,7,6
+Maciej A. Mazurowski,7,176
+Abraham Z. Snyder,7,37
+Florian Schroff,7,11
+Ge Wang,7,126
+Jiliu Zhou,7,126
+Peixi Liao,7,126
+Feng Lin,7,126
+Mannudeep K. Kalra,7,126
+Hu Chen,7,126
+Edgar Simo-Serra,7,11
+Soroush Mehri,7,3
+Kundan Kumar,7,3
+Dimitrios Marmanis,7,400
+Virginia F. J. Newcombe,7,52
+Konstantinos Kamnitsas,7,52
+Christian Ledig,7,52
+Ravindranath Duggirala,7,18
+Laura Almasy,7,18
+John Blangero,7,18
+Peter Kochunov,7,18
+Jose Sotelo,7,3
+Shubham Jain,7,3
+Rithesh Kumar,7,3
+Ishaan Gulrajani,7,3
+James Davidson,7,6
+Pierre Baldi,7,4
+Guoliang Kang,7,30
+Liang Zheng,7,30
+Damien A. Fair,7,37
+Alexander L. Cohen,7,37
+Evan Shelhamer,7,6
+Junshi Huang,7,26
+Yunchao Wei,7,26
+Wei Xia,7,26
+Illia Polosukhin,7,4
+Aidan N. Gomez,7,4
+Rahaf Aljundi,7,868
+Matthias De Lange,7,868
+Jin-Hui Zhu,7,867
+"Huang, Junzhou",7,867
+Levy Omer,7,60
+Bart van Merriënboer,7,3
+Sven Dähne,6,151
+Christopher D. White,6,61
+Ilana S. Warsofsky,6,61
+Gary H. Glover,6,61
+Çağlar Gu̇lçehre,6,3
+Fethi Bougares,6,3
+Yuanshun Yao,6,559
+Shawn Shan,6,559
+Huiying Li,6,559
+Bimal Viswanath,6,559
+Haitao Zheng,6,559
+A Razavi,6,383
+ASM Eslami,6,383
+Jianke Zhu,6,375
+Pengcheng Wu,6,375
+Steven Chu-Hong Hoi,6,375
+Ji Wan,6,375
+Dayong Wang,6,375
+Felix Bießmann,6,151
+John-Dylan Haynes,6,151
+Joy Zhang,6,558
+Pang Wu,6,558
+Jiang Zhu,6,558
+Ole J. Mengshoel,6,558
+Bo Yu,6,558
+Ming Zeng,6,558
+Le T. Nguyen,6,558
+Bernhard Kainz,6,52
+Mattias P. Heinrich,6,52
+Phillipp Koehn,6,4
+Thorsten Brants,6,4
+Rachel Gimpel Smith,6,29
+Heather Cody Hazlett,6,29
+Joseph Piven,6,29
+Manuel Costa,6,4
+Kapil Vaswani,6,4
+Aastha Mehta,6,4
+Tianhe Yu,6,6
+Angela S. Lin,6,6
+Yonghui Li,6,178
+Yong Liu,6,178
+Jesse Bettencourt,6,3
+Ciprian Chelba,6,4
+J-Donald Tournier,6,327
+Rory Sayres,6,4
+"Chmiela, Stefan",6,678
+Huziel Enoc Sauceda Felix,6,678
+"Schütt, Kristof",6,678
+"Kindermans, Pieter-Jan",6,678
+Paul W. Burgess,6,675
+Johannes Ballé,6,11
+Wei Hua,6,11
+Chenxi Liu,6,11
+Li-Jia Li,6,11
+Dan Popovici,6,3
+Qi Ge,6,4
+Kezhi Mao,6,4
+Chunshui Yu,6,178
+Wen Qin,6,178
+Wei He,6,330
+Tony Robinson,6,4
+Edward H. Shortliffe,6,770
+Chih-Lin I,6,178
+Maged Elkashlan,6,178
+Qi Sun,6,178
+Jinho Choi,6,178
+Yuanwei Liu,6,178
+Chengyong Wu,6,42
+Jia Wang,6,42
+Ninghui Sun,6,42
+Stephen M. Lawrie,6,675
+J. Douglas Steele,6,675
+Jon S. Simons,6,675
+Stephanie Spengler,6,675
+Sam J. Gilbert,6,675
+"Sauceda Felix, Huziel Enoc",6,678
+"Tkatchenko, Alexandre",6,678
+Rebecca Hutchinson,6,10
+Ameen Abu-Hanna,6,770
+Riccardo Bellazzi,6,770
+Xinyang Geng,6,6
+Laurent Charlin,6,3
+Ryan Lowe,6,3
+florian solzbacher,6,441
+richard a normann,6,441
+Daniel J. Black,6,441
+Robert O. Lovejoy,6,441
+Ryan J. Kier,6,441
+Reid R. Harrison,6,441
+Paul T. Watkins,6,441
+Michael R. Berthold,6,770
+Peter Szolovits,6,770
+Mario Stefanelli,6,770
+Xuerui Wang,6,10
+Daojian Zeng,6,100
+John Pluta,6,72
+Paul Yushkevich,6,72
+Christo Pantev,6,802
+Atsuko Gunji,6,802
+Ryouhei Ishii,6,802
+Michael J. Black,6,690
+Dimitrios Tzionas,6,690
+Ahmed A. A. Osman,6,690
+Timo Bolkart,6,690
+Nima Ghorbani,6,690
+Vasileios Choutas,6,690
+Georgios Pavlakos,6,690
+Radu S. Niculescu,6,10
+Tom M. Mitchell,6,10
+Sita Chopra,6,183
+Rebecca D. Ray,6,183
+Jan Kautz,6,78
+Pavlo Molchanov,6,78
+Huizi Mao,6,24
+Miao Zheng,6,76
+Jiajun Bu,6,76
+John Detre,6,72
+Marc Korczykowski,6,72
+David Minkoff,6,72
+Bhuvana Ramabhadran,6,4
+Agnieszka Grabska-Barwinska,6,3
+Wojciech M. Czarnecki,6,3
+Jonathan Schwarz,6,3
+Jelena Luketina,6,3
+Marcel Just,6,10
+Austin Rovinski,6,458
+Cao Gao,6,458
+Yiping Kang,6,458
+Johann Hauswald,6,458
+Sharlene Newman,6,10
+Ryan Sepassi,6,4
+Ben Goodrich,6,4
+Etienne Pot,6,4
+Mohammad Saleh,6,4
+Jian Cheng,6,11
+Guang Qiu,6,76
+Lijun Zhang,6,76
+Can Wang,6,76
+Chun Chen,6,76
+Xiyu Zhai,6,126
+James J. Gross,6,183
+Ivan Titov,6,83
+Efstratios Gavves,6,10
+Lingjia Tang,6,458
+Ian F. Akyildiz,6,23
+Hieu Pham,6,4
+David Dohan,6,4
+Adams Wei Yu,6,4
+Wilkin Chau,6,802
+Cheryl Grady,6,802
+Fergus I M Craik,6,802
+Ellen Bialystok,6,802
+Vijay Pande,6,117
+Navdeep Jaitly,6,4
+Vijay S. Pande,6,117
+Jason Mars,6,458
+Trevor N. Mudge,6,458
+"Studer, Christoph",6,657
+Andy Davis,6,4
+Krzysztof Maziarz,6,4
+Azalia Mirhoseini,6,4
+Ishan Misra,6,4
+Kees A. Vissers,6,432
+Magnus Jahre,6,432
+Philip Heng Wai Leong,6,432
+Michaela Blott,6,432
+Giulio Gambardella,6,432
+Yaman Umuroglu,6,432
+Nicholas J. Fraser,6,432
+Juha R. Koikkalainen,6,52
+Robin Wolz,6,52
+Sen Wang,6,479
+Simon J. Thorpe,6,181
+"Ren, Yi",6,499
+David R. Lester,6,329
+Zehua Huang,6,70
+Ding Liu,6,70
+Pengfei Chen,6,70
+Panqu Wang,6,70
+"Suciu, Octavian",6,657
+"Najibi, Mahyar",6,657
+"Shafahi, Ali",6,657
+"Huang, W. Ronny",6,657
+Mykel J. Kochenderfer,6,196
+Jean Ponce,6,6
+Victor O. K. Li,6,249
+Jiatao Gu,6,249
+"Goldstein, Tom",6,657
+"Dumitras, Tudor",6,657
+Andrew D. Brown,6,329
+Eustace Painkras,6,329
+Jim D. Garside,6,329
+Steve B. Furber,6,329
+Jyrki M. P. Lötjönen,6,52
+Richard Zhang,6,6
+Michael J. Milford,6,429
+Peter I. Corke,6,429
+"Petroski Such, Felipe",6,22
+"Molino, Piero",6,22
+"Liu, Rosanne",6,22
+"Lehman, Joel",6,22
+"Zhao, Zhou",6,499
+"Zhao, Sheng",6,499
+"Tan, Xu",6,499
+"Ruan, Yangjun",6,499
+"Hermann, Karl Moritz",6,10
+Yu Zheng,6,203
+silvio savarese,6,202
+"Battaglia, Peter",6,10
+"Malinowski, Mateusz",6,10
+David G. T. Barrett,6,10
+"Santoro, Adam",6,10
+"Raposo, David",6,10
+Xiaodi Hou,6,70
+Bernardo Severino,6,485
+Fernando Lanas,6,485
+Rodrigo Palma-Behnke,6,485
+Carlos Benavides,6,485
+Wangmeng Zuo,6,42
+Kai Zhang,6,42
+sumit chopra,6,6
+Xue Gu,6,349
+Tin Zhang,6,349
+Yi-Lan Liao,6,349
+Doris Sáez,6,485
+Jacqueline Llanos,6,485
+Lorenzo Reyes,6,485
+James S. Plank,6,651
+Garrett S. Rose,6,651
+Mark E. Dean,6,651
+J. Douglas Birdwell,6,651
+Robert M. Patton,6,651
+"Blunsom, Phil",6,10
+"Suleyman, Mustafa",6,10
+"Kay, Will",6,10
+"Espeholt, Lasse",6,10
+"Grefenstette, Edward",6,10
+Rafael Bombarell,6,3
+"Xia, Yingce",6,499
+"He, Di",6,499
+Edward T Bullmore,6,494
+Yoon Kim,6,44
+Pedram Ghamisi,6,150
+Satrajit S. Ghosh,6,708
+Michael L. Waskom,6,708
+Yaroslav O. Halchenko,6,708
+Dav Clark,6,708
+Cindee M. Madison,6,708
+Krzysztof J. Gorgolewski,6,708
+Christopher D. Burns,6,708
+"Sergeev, Alex",6,22
+"Frank, Eric",6,22
+Xiao-Ying Zheng,6,349
+Kaheer Suleman,6,44
+Philip Bachman,6,44
+Justin Harris,6,44
+Xingdi Yuan,6,44
+Dougal Maclaurin,6,3
+"Cho, Kyunghyun",6,22
+Thomas E. Potok,6,651
+Catherine D. Schuman,6,651
+Timothée Masquelier,6,181
+Saeed Reza Kheradpisheh,6,181
+Alex Kurakin,6,4
+Yutaka Leon Suematsu,6,4
+Saurabh Saxena,6,4
+Andrew Selle,6,4
+Sherry Moore,6,4
+Timothy Hirzel,6,3
+"Ma, Wei-Ying",6,499
+"Yu, Nenghai",6,499
+Hao Chen,6,212
+George Christakos,6,349
+Xin-Hu Li,6,349
+Jin-Feng Wang,6,349
+John J. Leonard,6,429
+Paul Newman 0001,6,429
+Stephanie M. Lowry,6,429
+Niko Sünderhauf,6,429
+Mark A. Horowitz,6,24
+Ardavan Pedram,6,24
+Jing Pu,6,24
+Xingyu Liu,6,24
+"Sohl-Dickstein, Jascha",6,22
+"Sahami, Mehran",6,22
+"Huang, Jonathan",6,22
+"Piech, Chris",6,22
+"Bassen, Jonathan",6,22
+Dhruv Batra,6,17
+Devi Parikh,6,17
+Xinbo Gao,6,792
+Wei-Ying Ma,6,126
+Nenghai Yu,6,126
+Yingce Xia,6,126
+Di He,6,126
+Shih-Chii Liu,6,417
+Michael P. Milham,6,258
+F. Xavier Castellanos,6,258
+Bharat B. Biswal,6,258
+Lucina Q. Uddin,6,258
+Stephan Günnemann,6,500
+Chang Liu,6,34
+"Tomioka, Ryota",6,215
+Junhui Hou,6,81
+Runmin Cong,6,81
+Chunle Guo,6,81
+Chongyi Li,6,81
+Jussi Tohka,6,839
+Aude Oliva,6,6
+Tong Wang,6,44
+Adam Trischler,6,44
+Cheng-Lin Liu,6,645
+Alex Martin,6,11
+Hang Joon Jo,6,11
+Gang Chen,6,11
+Ziad S. Saad,6,11
+Stephen J. Gotts,6,11
+Christopher J. Pal,6,3
+Nicolas Ballas,6,3
+Li Yao,6,3
+Atousa Torabi,6,3
+David C. Kale,6,110
+Roberto Cabeza,6,146
+Jens Steinbrink,6,151
+Siamac Fazli,6,151
+Jan Mehnert,6,151
+Jianming Liang,6,102
+Michael B. Gotway,6,102
+Thomas Ristenpart,6,70
+Jae Y. Shin,6,102
+Bolei Zhou,6,6
+Marie-Helene Grosbras,6,18
+Tomas Paus,6,18
+Martin Riedmiller,6,10
+Ioannis Antonoglou,6,10
+Meeyoung Cha,6,419
+Kam-Fai Wong,6,419
+Hilkka Soininen,6,52
+Gunhild Waldemar,6,52
+Hakan Erdogan,6,718
+Christopher B. Kendall,6,102
+Ah Chung Tsoi,6,48
+Thomas Nichols,6,47
+Martin Grohe,6,117
+Gaurav Rattan,6,117
+Jan Eric Lenssen,6,117
+Matthias Fey,6,117
+Martin Ritzert,6,117
+Robert W. Cox,6,11
+Guo Chaoxu,6,521
+Raman Arora,6,519
+Zhe Chen,6,81
+Michael Breakspear,6,494
+"Choi, Yejin",6,846
+"Roesner, Franziska",6,846
+"Farhadi, Ali",6,846
+"Bisk, Yonatan",6,846
+"Rashkin, Hannah",6,846
+"Zellers, Rowan",6,846
+Zonghan Wu,6,51
+W. Penny,6,50
+Santiago Fernández,6,10
+Philipp Krähenbühl,6,6
+Jun Zhao,6,100
+Kang Liu,6,100
+Suryakanth R. Gurudu,6,102
+Nima Tajbakhsh,6,102
+francis eustache,6,719
+V de la Sayette,6,719
+brigitte landeau,6,719
+guy perchey,6,719
+beatrice desgranges,6,719
+gael chetelat,6,719
+J C Baron,6,719
+Jonathan Le Roux,6,718
+Li Hongsheng,6,521
+Wang Xiaogang,6,521
+Shi Jianping,6,521
+Wang Zhe,6,521
+Jiang Li,6,521
+Shi Shaoshuai,6,521
+John C Morris,6,120
+Daniel Marcus,6,120
+Anthony F Fotenos,6,120
+Randy L Buckner,6,120
+Denise Head,6,120
+Craig Packer,6,5
+Meredith S Palmer,6,5
+Matthew D. Hoffman,6,4
+Shuzhi Sam Ge,6,525
+Huimin Ma,6,3
+Andrew G. Berneshawi,6,3
+Xiaozhi Chen,6,3
+Kaustav Kundu,6,3
+"Holtzman, Ari",6,846
+Sam Kwong,6,81
+R. Todd Hurst,6,102
+W E Kaufmann,6,852
+B Stieltjes,6,852
+"Salakhutdinov, Russ R.",6,3
+"Wang, Ruosong",6,3
+"Li, Zhiyuan",6,3
+"Hu, Wei",6,3
+"Du, Simon S.",6,3
+"Arora, Sanjeev",6,3
+Rafal Józefowicz,6,4
+Alexandros Karatzoglou,6,139
+Lennart Thurfjell,6,52
+Bernard J. Jansen,6,419
+Sejeong Kwon,6,419
+Dragomir Anguelov,6,249
+Xiaorong Gao,6,522
+Abraham Z Snyder,6,120
+Yanghao Li,6,10
+Wentao Zhu,6,10
+"Yan, Feng",6,128
+"Xu, Cong",6,128
+Matthias Nießner,6,280
+Justus Thies,6,280
+Yong Yu,6,283
+Alexandra Swanson,6,5
+Margaret Kosmala,6,5
+Mohammad Sadegh Norouzzadeh,6,5
+Anh Nguyen,6,5
+S Mori,6,852
+M Solaiyappan,6,852
+G D Pearlson,6,852
+K Fredericksen,6,852
+P C van Zijl,6,852
+R. J. Gaudette,6,584
+Yunchao Gong,6,30
+Weili Lin,6,30
+Li Wang,6,30
+Andrew Stuart,6,693
+Kaushik Bhattacharya,6,693
+Burigede Liu,6,693
+Zongyi Li,6,693
+Nikola Kovachki,6,693
+Martin A. Riedmiller,6,5
+Murat Yücel,6,494
+Luca Cocchi,6,494
+Ian H Harding,6,494
+Houtao Deng,6,30
+Wenlu Zhang,6,30
+Rongjian Li,6,30
+Zemel Richard,6,530
+Michaelis Claudio,6,530
+Jacobsen Jörn-Henrik,6,530
+Geirhos Robert,6,530
+Yizhou Yu,6,529
+Steven Lemm,6,151
+Jiang Wang,6,30
+Xiang Wang,6,249
+"Carin, Lawrence",6,586
+"Stevens, Andrew",6,586
+"Li, Chunyuan",6,586
+"Yuan, Xin",6,586
+"Henao, Ricardo",6,586
+"Pu, Yunchen",6,586
+"Gan, Zhe",6,586
+Quan Zhang,6,584
+Mohamed Ishmael Belghazi,6,3
+Aristide Baratin,6,3
+Prasenjit Mitra,6,419
+Wei Gao,6,419
+Jing Ma,6,419
+Stefan Wrobel,6,782
+J D Gabrieli,6,731
+K J Holyoak,6,731
+J K Kroger,6,731
+Z Zhao,6,731
+J Dorfman,6,731
+V Prabhakaran,6,731
+K Christoff,6,731
+Wichmann Felix A.,6,530
+Bethge Matthias,6,530
+Brendel Wieland,6,530
+Shengping Zhang,6,81
+E. L. Miller,6,584
+D. H. Brooks,6,584
+Kunal Talwar,6,68
+Ilya Mironov,6,68
+Martín Abadi,6,68
+Andy Chu,6,68
+Yichen Wei,6,67
+Hojjat Adeli,6,80
+Xinggang Wang,6,81
+Baoguang Shi,6,81
+M. Kilmer,6,584
+C. A. DiMarzio,6,584
+Felix Weninger,6,718
+Sherjil Ozair,6,3
+Sai Rajeshwar,6,3
+Björn W. Schuller,6,718
+Emmanuel Vincent,6,718
+Weizhu Chen,6,76
+Timothy D. Hirzel,6,3
+Daniel S. Park,6,4
+"Wen, Wei",6,128
+Hado van Hasselt,6,10
+Matteo Hessel,6,10
+Gabriel Barth-Maron,6,10
+David Budden,6,10
+John Quan,6,10
+Dan Horgan,6,10
+Jongwoo Lim,6,81
+Hongxun Yao,6,81
+Lei Qin,6,81
+Yuankai Qi,6,81
+"Wang, Yandan",6,128
+"Wu, Chunpeng",6,128
+Kyle Krafka,6,6
+Liang Lin,6,542
+Pengcheng He,6,76
+Liyuan Liu,6,76
+Haoming Jiang,6,76
+Yaguo Lei,6,582
+Naipeng Li,6,582
+Liang Guo,6,582
+Christos Pantelis,6,494
+Guodong Zhang,6,67
+Yuwen Xiong,6,67
+Haozhi Qi,6,67
+Qihui Wu,6,107
+Guoru Ding,6,107
+Changhua Pei,6,6
+Jian Wu,6,6
+Zan Huang,6,250
+Hsinchun Chen,6,250
+Kenneth H. Buetow,6,363
+Timo Hannay,6,363
+Matthew Day,6,363
+Jeffrey Buchoff,6,363
+Shiva Krupa,6,363
+Natalia V. Andrienko,6,782
+Gennady L. Andrienko,6,782
+John F. Kihsltrom,6,183
+Jennifer S. Beer,6,183
+Rafael Gómez-Bombarelli,6,3
+"Li, Hai",6,128
+"Chen, Yiran",6,128
+Bai Wang,6,51
+Chuan Shi,6,51
+Xiao Wang,6,51
+Houye Ji,6,51
+Regina C Armstrong,6,149
+Tuan Q Le,6,149
+Jun Yoshino,6,149
+Paulo Cortez,6,267
+Suchendra Bhandarkar,6,6
+Harini Kannan,6,6
+Georg Northoff,6,253
+Sebastian Thrun,6,3
+Jianbing Shen,6,28
+Peng Jiang,6,6
+Wenwu Ou,6,6
+Xiao Lin,6,6
+Rudra P. K. Poudel,6,870
+James H. Cole,6,870
+Kira Anthony,6,363
+Carl F. Schaefer,6,363
+Huanbo Luan,6,30
+Alan M. MacEachren,6,782
+Abhinav Gupta,6,6
+Chung-Cheng Chiu,6,4
+Yu Zhang,6,4
+William Chan,6,4
+Menno-Jan Kraak,6,782
+Daniel A. Keim,6,782
+Jinlong Wang,6,107
+Zhiyong Du,6,107
+Peng Cui,6,51
+Yanfang Ye,6,51
+Philip A. Cook,6,29
+Michiel Schaap,6,52
+Piotr Jankowski,6,782
+Junwei Han,6,402
+Dawei Yin,6,28
+Jiliang Tang,6,28
+Eric Zhao,6,28
+Yuan He,6,28
+Ozan Oktay,6,52
+Nicholas J. Tustison,6,29
+Brian B. Avants,6,29
+Giovanni Montana,6,870
+Tim D. Spector,6,870
+Claire Steves,6,870
+Matthan W. A. Caan,6,870
+Dimosthenis Tsagkrasoulis,6,870
+Earl K. Miller,6,256
+Melissa R. Warden,6,256
+Nathaniel D. Daw,6,256
+Xiao-Jing Wang,6,256
+Stefano Fusi,6,256
+Yao Ma,6,28
+Wenqi Fan,6,28
+Joshua B. Tenenbaum,6,119
+Omri Barak,6,256
+Shuo Feng,6,107
+Yuhua Xu,6,107
+Christian Grefkes,6,18
+Hartmut Mohlberg,6,18
+Klaas E Stephan,6,18
+Alexander Egan,6,29
+Yuanjie Zheng,6,29
+Ossama Abdel-Hamid,6,4
+Kai Görgen,6,151
+Frank Meinecke,6,151
+C Doersch,6,383
+Nancy E. Adleman,6,61
+Christine M. Blasey,6,61
+J De Fauw,6,383
+A Srinivas,6,383
+Olivier Henaff,6,383
+OJ Hénaff,6,383
+Holger Schwenk,6,3
+Gereon R Fink,6,18
+Ben Y. Zhao,6,559
+Bolun Wang,6,559
+Jintao Li,6,375
+Yongdong Zhang,6,375
+Fernanda B. Viégas,6,4
+James Wexler,6,4
+Carrie Cai,6,4
+Martin Wattenberg,6,4
+Been Kim,6,4
+Cédric Fournet,6,4
+Jimmy Lei Ba,6,3
+Olga Ohrimenko,6,4
+Felix Schuster,6,4
+Nicola De Stefano,6,18
+Antonio Federico,6,18
+P. M. Matthews,6,18
+Jacqueline Chen,6,18
+Yongyue Zhang,6,18
+Ruining He,6,117
+Gerald Penn,6,4
+Chunhong Pan,5,645
+andreas damianou,5,2
+zhenwen dai,5,2
+cesar lincoln c mattos,5,2
+Gabriele Lohmann,5,767
+Angela D. Friederici,5,767
+Hui Jiang 0001,5,4
+Kaifeng Chen,5,117
+Pong Eksombatchai,5,117
+ Cheng Gong,5,28
+ Yang Cao,5,28
+ Bo Ren,5,28
+Shiming Xiang,5,645
+Juha Pärkkä,5,393
+Miikka Ermes,5,393
+Alexandre Sablayrolles,5,122
+Dennis A. Benson,5,118
+Karen Clark,5,118
+Ilene Karsch-Mizrachi,5,118
+David J. Lipman,5,118
+Deanna M. Barch,5,18
+Timothy Edward John Behrens,5,18
+Essa Yacoub,5,18
+Kamil Ugurbil,5,18
+Hedy Kober,5,47
+Lisa Feldman Barrett,5,47
+Josh Joseph,5,47
+Eliza Bliss-Moreau,5,47
+Kristen Lindquist,5,47
+Wang Yaping,5,260
+Philipp Berens,5,53
+Tom Baden,5,53
+katharina j franke,5,53
+Miroslav Román Rosón,5,53
+Thomas Euler,5,53
+Zhang Daoqiang,5,260
+J Vanthienen,5,561
+Federico D'Agata,5,562
+Franco Cauda,5,562
+Katiuscia Sacco,5,562
+Sergio Duca,5,562
+Giuliano Geminiani,5,562
+Jens Pruessner,5,173
+Montserrat Robles,5,173
+D Louis Collins,5,173
+Matthew W. Moskewicz,5,6
+B Baesens,5,561
+T Van Gestel,5,561
+S Viaene,5,561
+M Stepanova,5,561
+Jaak Panksepp,5,253
+David C. Van Essen,5,18
+Alexander Heinzel,5,253
+Moritz de Greck,5,253
+Felix Bermpohl,5,253
+Henrik Dobrowolny,5,253
+Jorge Albericio,5,567
+Patrick Judd,5,567
+Tayler H. Hetherington,5,567
+Tor M. Aamodt,5,567
+Natalie D. Enright Jerger,5,567
+Andreas Moshovos,5,567
+Gao Huang,5,78
+Zhuang Liu,5,78
+John E. Hopcroft,5,78
+José V Manjón,5,173
+Pierrick Coupé,5,173
+J Suykens,5,561
+"Kim, Been",5,3
+Steven C H Hoi,5,28
+Catriona D. Good,5,247
+Ingrid Johnsrude,5,247
+Richard N. A. Henson,5,247
+Richard S. J. Frackowiak,5,247
+Edward Grefenstette,5,10
+Phil Blunsom,5,10
+Arthur Szlam,5,4
+Christophe Garcia,5,543
+Mang Ye,5,28
+Gaojie Lin,5,28
+Tao Xiang,5,28
+David Held,5,4
+"Adebayo, Julius",5,3
+Alessandro Vercelli,5,562
+Kai Zhao,5,81
+Xinyu Zhang,5,81
+Rupert Lanzenberger,5,856
+Ewald Moser,5,856
+K. Luan Phan,5,47
+Meng Li,5,246
+Yue Zhao,5,246
+Liangzhen Lai,5,246
+Damon Civin,5,246
+Si Liu,5,81
+Hua Zhang,5,81
+Jin-shan Pan,5,81
+Xiaochun Cao,5,81
+"Gilmer, Justin",5,3
+"Muelly, Michael",5,3
+"Hardt, Moritz",5,3
+taelim choi,5,446
+lu yang,5,446
+dongjun shin,5,446
+Luc J. Van Gool,5,400
+Inkyu Sa,5,535
+ZongYuan Ge,5,535
+Feras Dayoub,5,535
+Ben Upcroft,5,535
+Tristan Perez,5,535
+Chris McCool,5,535
+Lizi Liao,5,249
+Joonho Lee,5,5
+Dario Bellicoso,5,5
+Vassilios Tsounis,5,5
+Marco Hutter,5,5
+Shanghua Gao,5,81
+Ali Borji,5,81
+Stefan Schaal,5,4
+haoyuan gao,5,11
+Andreas Rössler,5,280
+eunhyeok park,5,446
+sungjoo yoo,5,446
+Christian Windischberger,5,856
+Ivan Laptev,5,3
+patrick mcdaniel,5,70
+matt fredrikson,5,70
+z berkay celik,5,70
+G. E. Dahl,5,50
+Zhenman Fang,5,133
+Peipei Zhou,5,133
+Peichen Pan,5,133
+Abhishek Kumar,5,4
+Zhenyu Qi,5,855
+Suncong Zheng,5,855
+Jiaming Xu,5,855
+Hongyun Bao,5,855
+Bo Xu,5,855
+Andreas Weissenbacher,5,856
+Christian Kasess,5,856
+Florian Gerstl,5,856
+Jost Tobias Springenberg,5,5
+Seungjun Nah,5,56
+Kyoung Mu Lee,5,56
+Annamalai Narayanan,5,126
+Mahinthan Chandramohan,5,126
+Simon Kornblith,5,4
+Won-Kyu Ju,5,149
+Arthur H Neufeld,5,149
+"Li, Yijun",5,590
+"Yang, Jimei",5,590
+"Wang, Zhaowen",5,590
+"Lu, Xin",5,590
+"Yang, Ming-Hsuan",5,590
+Zhenye Li,5,850
+Yazhuo Zhang,5,850
+Yong Fan,5,850
+Christian Riess,5,280
+Alexander Ku,5,4
+Meng-Hsiang Hsu,5,54
+jie zhou,5,11
+lei wang,5,11
+Haoyuan Gao,5,30
+Lei Wang,5,30
+Peng Zhou,5,855
+R. Pickholtz,5,599
+Wei-Lun Chao,5,78
+Yan Wang,5,78
+Divyansh Garg,5,78
+Mark Campbell,5,78
+Rajasekar Venkatesan,5,126
+Lihui Chen,5,126
+Shantanu Jaiswal,5,126
+Danilo Jimenez Rezende,5,10
+Taco S. Cohen,5,83
+Nicholas J Tustison,5,72
+Gang Song,5,72
+Philip A Cook,5,72
+Arno Klein,5,72
+"Fang, Chen",5,590
+Anna Choromanska,5,4
+Chaohui Wang,5,81
+Xue Mei,5,81
+Danil V. Prokhorov,5,81
+eitan sharon,5,881
+jason j corso,5,881
+shishir dube,5,881
+suzie elsaden,5,881
+usha sinha,5,881
+alan yuille,5,881
+Robert J Howard,5,230
+Derek K Jones,5,230
+I. Stanojev,5,599
+O. Simeone,5,599
+S. Savazzi,5,599
+Y. Bar-Ness,5,599
+U. Spagnolini,5,599
+Swarat Chaudhuri,5,624
+Martin T. Vechev,5,624
+Tao Shen,5,51
+Fengwen Chen,5,51
+Hanjun Dai,5,882
+NAN DU,5,882
+Rakshit Trivedi,5,882
+Utkarsh Upadhyay,5,882
+Manuel Gomez-Rodriguez,5,882
+Li Dong,5,114
+Ke Xu,5,114
+JunYoung Gwak,5,11
+Xiaomei Zhao,5,850
+Yihong Wu,5,850
+Guidong Song,5,850
+Zhibin Hong,5,81
+Zichen Zhang,5,510
+Chenyang Huang,5,510
+Chao Gao,5,510
+Masood Dehghan,5,510
+Martin Jägersand,5,510
+Le Song,5,882
+Jonathan S Adelstein,5,258
+Hamido Fujita,5,80
+Jen-Hong Tan,5,80
+Muhammad Adam,5,80
+D. E. Glaser,5,50
+R. N. A. Henson,5,50
+Matthew Mirman,5,624
+Timon Gehr,5,624
+Dana Drachsler-Cohen,5,624
+Petar Tsankov,5,624
+Weidong Cai,5,28
+Yun Zhou,5,28
+David Dagan Feng,5,28
+Mei Chen,5,28
+Yin Lou,5,79
+Johannes Gehrke,5,79
+Paul Koch,5,79
+Marc Sturm,5,79
+Noemie Elhadad,5,79
+Samuel R. Bowman,5,249
+Chenzi Jiang,5,107
+Daquan Feng,5,107
+Gubong Lim,5,107
+Leonard J. Cimini Jr.,5,107
+Gang Feng,5,107
+Xuebin Qin,5,510
+Jonathan Binas,5,417
+Matthew Cook,5,417
+Wanli Ouyang,5,28
+Michael Pfeiffer,5,417
+Peter L. Bartlett,5,4
+Jingyuan Chen,5,249
+Wei Liu,5,249
+Xiaojuan Qi,5,212
+Chi-Wing Fu,5,212
+Gwenaëlle Douaud,5,18
+Matthew F. Glasser,5,18
+Ludovica Griffanti,5,18
+CireşanDan Claudiu,5,10
+GambardellaLuca Maria,5,10
+Nan Yang,5,114
+Tianyi Zhou,5,51
+Matthew Brett,5,47
+Nathan Dowlin,5,210
+Ran Gilad-Bachrach,5,210
+Kim Laine,5,210
+Kristin E. Lauter,5,210
+Michael Naehrig,5,210
+John Wernsing,5,210
+Xiaomeng Li,5,212
+"Schulman, John",5,1
+"Chung, Junyoung",5,22
+"Kastner, Kyle",5,22
+"Dinh, Laurent",5,22
+"Goel, Kratarth",5,22
+"Courville, Aaron C.",5,22
+Daniel Neil,5,417
+Peter U. Diehl,5,417
+Jeffrey Donahue,5,6
+"Dauphin, Yann N.",5,22
+Tom Brosch,5,423
+"De Turck, Filip",5,1
+Luke E. Stoeckel,5,648
+Rosalyn E. Weller,5,648
+Edwin W. Cook III,5,648
+Donald B. Twieg,5,648
+Robert C. Knowlton,5,648
+James E. Cox,5,648
+"Mikolov, T.",5,207
+"Burget, L.",5,207
+Wei Zhang,5,208
+Hasim Sak,5,4
+Yonatan Belinkov,5,44
+"Houthooft, Rein",5,1
+Trygve Solstad,5,652
+Kristian Frøland,5,652
+Edvard I Moser,5,652
+Hasan Ayaz,5,654
+Patricia A Shewokis,5,654
+Francesc Moreno-Noguer,5,11
+Hanne Stensola,5,652
+Weicong Kong,5,249
+Zhao Yang Dong,5,249
+Youwei Jia,5,249
+David J. Hill,5,249
+Yuan Zhang,5,249
+David K. B. Li,5,423
+Anthony Traboulsee,5,423
+Roger C. Tam,5,423
+Abbas Khosravi,5,838
+Jacob Goldberger,5,188
+Eduard Trulls,5,11
+Luis Ferraz,5,11
+Pascal Fua,5,11
+Hao Ye,5,249
+Jun Xiao,5,249
+Fei Wu,5,249
+Daniel Brüderle,5,663
+Johannes Schemmel,5,663
+Andreas Grübl,5,663
+Matthias Hock,5,663
+Scott Bunce,5,654
+Kurtulus Izzetoglu,5,654
+Ben Willems,5,654
+Banu Onaral,5,654
+Tor Stensola,5,652
+Yasaman Bahri,5,4
+Jeffrey Pennington,5,4
+Adriënne M. Mendrik,5,464
+Linda S. de Vries,5,464
+Manon J. N. L. Benders,5,464
+Gary H Glover,5,471
+Mamoun Alazab,5,475
+R. Vinayakumar,5,475
+K. P. Soman,5,475
+Prabaharan Poornachandran,5,475
+Ameer Al-Nemrat,5,475
+Sitalakshmi Venkatraman,5,475
+Idit Diamant,5,188
+Maayan Frid-Adar,5,188
+Eyal Klang,5,188
+Michal Amitai,5,188
+Stephen J. Shellhammer,5,314
+Winston Caldwell,5,314
+John A. Stankovic,5,6
+Andreas Terzis,5,6
+Matt Welsh,5,6
+Jacob Andreas,5,6
+Pim Moeskops,5,464
+Z. Berkay Celik,5,70
+Michael Schlichtkrull,5,83
+Peter Bloem,5,83
+Rianne van den Berg,5,83
+Lisa Y. W. Tang,5,423
+Karlheinz Meier,5,663
+Sebastian Millner,5,663
+Jaehoon Lee,5,4
+Lechao Xiao,5,4
+Jocelyn Faubert,5,229
+Xiaofei Wang,5,408
+Yiwen Han,5,408
+Yezhou Yang,5,529
+Yongcheng Jing,5,529
+Zunlei Feng,5,529
+"Odena, Augustus",5,4
+"Oliver, Avital",5,4
+"Raffel, Colin A.",5,4
+"Cubuk, Ekin Dogus",5,4
+Chenyang Lu,5,6
+JeongGil Ko,5,6
+Carl R. Stevenson,5,314
+Gerald Chouinard,5,314
+Zhongding Lei,5,314
+Wendong Hu,5,314
+Bing Zhang,5,674
+Antonio Plaza,5,674
+Ziwei Liu,5,28
+Arnaud Delorme,5,181
+Danfeng Hong,5,674
+Lianru Gao,5,674
+Chenyang Wang,5,408
+Qiyang Zhao,5,408
+Xu Chen,5,408
+Zeynep Akata,5,249
+Xinchen Yan,5,249
+Lajanugen Logeswaran,5,249
+Hubert J. Banville,5,229
+Yannick Roy,5,229
+Isabela Albuquerque,5,229
+Tiago H. Falk,5,229
+Zhaochun Ren,5,6
+Tao Lian,5,6
+Qian Chen,5,4
+Xiaodan Zhu,5,4
+Zhen-Hua Ling,5,4
+Si Wei,5,4
+Diana Inkpen,5,4
+Jingwen Ye,5,529
+Mingli Song,5,529
+Nikolay Savinov,5,400
+Timo Hackel,5,400
+Lubor Ladicky,5,400
+Marc Pollefeys,5,400
+Vivienne Sze,5,24
+Yu-Hsin Chen,5,24
+Jing Yao,5,674
+Ioannis Krikidis,5,451
+Stelios Timotheou,5,451
+Symeon Nikolaou,5,451
+Gan Zheng,5,451
+Derrick Wing Kwan Ng,5,451
+Robert Schober,5,451
+Mirella Lapata,5,324
+Pengjie Ren,5,6
+Zhumin Chen,5,6
+Dimitris Samaras,5,676
+Le Hou,5,676
+Tahsin M Kurc,5,676
+Yi Gao,5,676
+James E Davis,5,676
+Joel H Saltz,5,676
+Jocelyn Chanussot,5,674
+D. Louis Collins,5,173
+Zhenghua Chen,5,4
+Peng Wang,5,4
+Robert X. Gao,5,4
+Sumit Chopra,5,44
+Sherif Shehata,5,812
+Didier Mutter,5,812
+Amos J. Storkey,5,445
+Antreas Antoniou,5,445
+Eunhyeok Park,5,446
+Sungjoo Yoo,5,446
+Taelim Choi,5,446
+Lu Yang,5,446
+Dongjun Shin,5,446
+Mike Lewis,5,44
+Nicholas Carlini,5,34
+Adam R. Kosiorek,5,3
+Seungjin Choi,5,3
+David Bau,5,171
+Leilani H. Gilpin,5,171
+Jacques Marescaux,5,812
+Michel de Mathelin,5,812
+Nicolas Padoy,5,812
+Yonglong Tian,5,28
+Moustafa Alzantot,5,6
+Ahmed Elgohary,5,6
+Bo-Jhang Ho,5,6
+Kai-Wei Chang,5,6
+Bing Qin,5,114
+Kelly N. Botteron,5,173
+C. Robert Almli,5,173
+Robert C. McKinstry,5,173
+R Kikinis,5,335
+Daniel S. Marcus,5,120
+Tracy H. Wang,5,120
+John G. Csernansky,5,120
+John C. Morris,5,120
+Sanketh Shetty,5,11
+Chao Dong,5,28
+Filipp Akopyan,5,318
+Nabil Imam,5,318
+Rajit Manohar,5,318
+Dharmendra S. Modha,5,318
+Michael Specter,5,171
+Lalana Kagal,5,171
+Juho Lee,5,3
+Yoonho Lee,5,3
+Jungtaek Kim,5,3
+Dun Liang,5,687
+Zhe Zhu,5,687
+Song-Hai Zhang,5,687
+Xiaolei Huang,5,687
+Baoli Li,5,687
+Shi-Min Hu,5,687
+Varun Tolani,5,6
+Tzyy-Ping Jung,5,181
+Martin J McKeown,5,181
+Anthony J Bell,5,181
+Te-Won Lee,5,181
+Terrence J Sejnowski,5,181
+Jing Zhou,5,688
+Nemanja Djuric,5,688
+A Nabavi,5,335
+F A Jolesz,5,335
+Vladan Radosavljevic,5,688
+Narayan Bhamidipati,5,688
+Patricia Rubisch,5,53
+Robert Geirhos,5,53
+Claudio Michaelis,5,53
+Felix A. Wichmann,5,53
+Wieland Brendel,5,53
+Syed Ali Jafar,5,88
+Sixin Zhang,5,4
+Philip Holmes,5,811
+Gordon Wetzstein,5,440
+C-F Westin,5,335
+S E Maier,5,335
+H Mamata,5,335
+Ben Z. Yuan,5,171
+Ayesha Bajwa,5,171
+Balaji Lakshminarayanan,5,4
+Wei-Cheng Chang,5,10
+Yiming Yang,5,10
+Vincent Sitzmann,5,440
+Deng Kuan,5,336
+He Xiangnan,5,336
+Wang Xiang,5,336
+Li Yan,5,336
+Zhang Yongdong,5,336
+Wang Meng,5,336
+Mengye Ren,5,3
+Andru Putra Twinanda,5,812
+Jianxun Lian,5,611
+Huaguang Zhang,5,804
+Robin Morris,5,688
+Mihajlo Grbovic,5,688
+Jiaxuan You,5,117
+Xiang Ren,5,117
+Silvano Galliani,5,400
+Uwe Stilla,5,400
+David S. Pellinen,5,695
+Patrick J. Rousche,5,695
+Mohamad M. Al Rahhal,5,805
+Yakoub Bazi,5,805
+Haikel Salem Alhichri,5,805
+Naif Alajlan,5,805
+Farid Melgani,5,805
+Ronald R. Yager,5,805
+Xiaohuan Zhou,5,611
+Zhongxia Chen,5,611
+Guangzhong Sun,5,611
+Norman Mu,5,4
+Yuntian Deng,5,44
+Tong He,5,340
+Zhi Zhang,5,340
+Hang Zhang,5,340
+Zhongyue Zhang,5,340
+Junyuan Xie,5,340
+Mu Li,5,340
+Huijuan Xu,5,6
+Weibo Liu,5,91
+Zidong Wang,5,91
+Xiaohui Liu,5,91
+Fuad E. Alsaadi,5,91
+David P. Pivin Jr.,5,695
+Justin C. Williams,5,695
+Rio J. Vetter,5,695
+Daryl R. Kipke,5,695
+Erik McDermott,5,345
+Ignacio Lopez Moreno,5,345
+Javier Gonzalez-Dominguez,5,345
+"Lopez Moreno, I.",5,345
+J Li,5,346
+M Galley,5,346
+Lasse Espeholt,5,10
+Antoine Bordes,5,3
+Michael Karlen,5,3
+Pavel Kuksa,5,3
+Nicholas Cummins,5,699
+Stefan Scherer,5,699
+Jarek Krajewski,5,699
+Sebastian Schnieder,5,699
+Julien Epps,5,699
+Thomas F. Quatieri,5,699
+Kenneth M Prkachin,5,10
+Jacob Devlin,5,700
+Rabih Zbib,5,700
+Zhongqiang Huang,5,700
+Thomas Lamar,5,700
+Richard M. Schwartz,5,700
+John Makhoul,5,700
+Bert Arnrich,5,702
+Cornelia Setz,5,702
+Johannes Schumm,5,702
+Roberto La Marca,5,702
+David R. J. Snead,5,347
+Ian A. Cree,5,347
+Nasir M. Rajpoot,5,347
+Ehsan Variani,5,345
+Xin Lei,5,345
+Yair Rivenson,5,350
+Nezih T. Yardimci,5,350
+Muhammed Veli,5,350
+Mona Jarrahi,5,350
+Aydogan Ozcan,5,350
+C Brockett,5,346
+GP Spithourakis,5,346
+J Gao,5,346
+B Dolan,5,346
+Korsuk Sirinukunwattana,5,347
+Shan e Ahmed Raza,5,347
+Yee-Wah Tsang,5,347
+Amishi P Jha,5,10
+Lauren M Bylsma,5,10
+Sara A Fabian,5,10
+Patricia E Solomon,5,10
+Michael J Ramsbottom,5,149
+Chen Chang,5,149
+Wei Cheng,5,70
+Guofei Jiang,5,70
+Anjali Krishnan,5,47
+Xing Lin,5,350
+Jia-Bin Huang,5,81
+Daniel Soudry,5,3
+Itay Hubara,5,3
+Wojciech Samek,5,151
+Gerhard Tröster,5,702
+Ulrike Ehlert,5,702
+Jonas Uhrig,5,5
+Nick Schneider,5,5
+Lukas Schneider,5,5
+Uwe Franke,5,5
+Siwei Lai,5,100
+Michael Cogswell,5,17
+Ramprasaath R. Selvaraju,5,17
+Abhishek Das,5,17
+Ramakrishna Vedantam,5,17
+Yao Qin,5,70
+Haifeng Cheng,5,70
+Kuan-Hung Cho,5,327
+Ching-Po Lin,5,327
+Anish Mitra,5,37
+Timothy O. Laumann,5,37
+Tong Xiao,5,28
+Shifeng Zhang,5,158
+Xiangyu Zhu,5,158
+Hailin Shi,5,158
+Xiaobo Wang,5,158
+Seong Joon Oh,5,105
+Sanghyuk Chun,5,105
+Junsuk Choe,5,105
+Youngjoon Yoo,5,105
+Takeru Miyato,5,3
+Subramanian Sundaram,5,6
+Yunzhu Li,5,6
+Chunxiao Jiang,5,107
+Haijun Zhang,5,107
+Yong Ren,5,107
+"Bahadori, Mohammad Taha",5,354
+"Choi, Edward",5,354
+Chun-Hung Yeh,5,327
+Cícero Nogueira dos Santos,5,3
+John Russell,5,149
+Liheng Xu,5,100
+Ang Li,5,920
+Jonathon Shlens,5,4
+"Sun, Jimeng",5,354
+"Kulas, Joshua",5,354
+"Schuetz, Andy",5,354
+Junyoung Chung,5,3
+Gwanggil Jeon,5,522
+Yanming Guo,5,143
+Ard Oerlemans,5,143
+Songyang Lao,5,143
+Song Wu,5,143
+Michael S. Lew,5,143
+Jinglei Yang,5,522
+Zheng Liu,5,522
+Xiaomin Yang,5,522
+Ivo Danihelka,5,10
+Mehrdad Farajtabar,5,920
+Seyed Iman Mirzadeh,5,920
+Patricia A Carpenter,5,785
+Nancy J Minshew,5,785
+Vladimir L Cherkassky,5,785
+Timothy A Keller,5,785
+Marcel Adam Just,5,785
+Zachary C. Lipton,5,110
+Charles Elkan,5,110
+Yunchuan Chen,5,249
+Jean Decety,5,138
+Peng Li,5,133
+Yijin Guan,5,133
+Bingjun Xiao,5,133
+Sungjin Ahn,5,3
+Hideya Koshino,5,785
+Yang Shen,5,76
+A. L. S. King,5,753
+A. M. ValençA,5,753
+Matthias Krauledat,5,151
+Piotr A. Habas,5,176
+Jacek M. Zurada,5,176
+Joseph Y. Lo,5,176
+Jay A. Baker,5,176
+Georgia D. Tourassi,5,176
+Dimitri Van De Ville,5,409
+Chaowei Xiao,5,34
+Warren He,5,34
+Mingyan Liu,5,34
+Danqi Chen,5,249
+Tianlong Chen,5,76
+Yuning You,5,76
+W Martin,5,373
+C Beaulieu,5,373
+Han Kai,5,371
+Wang Yunhe,5,371
+Tian Qi,5,371
+Guo Jianyuan,5,371
+Nir Levine,5,920
+Akihiro Matsukawa,5,920
+Hassan Ghasemzadeh,5,920
+Jason Bolton,5,249
+Gong Cheng,5,402
+Kratarth Goel,5,11
+Vignesh Ramanathan,5,11
+Alexandre Robicquet,5,11
+Yongduo Sui,5,76
+Ting Chen,5,76
+T. Baczynski,5,753
+M. R. Carvalho,5,753
+A. E. Nardi,5,753
+F. Merrikh-Bayat,5,121
+M. Prezioso,5,121
+B. D. Hoskins,5,121
+G. C. Adam,5,121
+D. B. Strukov,5,121
+K. K. Likharev,5,121
+Wen-tau Yih,5,76
+Hugo Touvron,5,122
+Matthijs Douze,5,122
+Francisco Massa,5,122
+M Gee,5,373
+R Camicioli,5,373
+M Wieler,5,373
+James Ostell,5,118
+Eric W. Sayers,5,118
+Stefan Koelsch,5,767
+Thomas C. Gunter,5,767
+Panu Korpipää,5,393
+Jani Mäntyjärvi,5,393
+Johannes Peltola,5,393
+Ilkka Korhonen,5,393
+John V. Guttag,5,120
+Bastian Leibe,5,400
+Jiwei Li,5,4
+Dan Jurafsky,5,4
+Xu Chunjing,5,371
+Xu Chang,5,371
+C Lebel,5,373
+A. C. O. Silva,5,753
+Geoffrey Hinton,5,4
+A. M. Clare Kelly,5,258
+Daniel S. Margulies,5,258
+Kiryong Ha,5,57
+Zhuo Chen,5,57
+Wenlu Hu,5,57
+Wolfgang Richter,5,57
+Padmanabhan Pillai,5,57
+Fuchun Sun,5,114
+ Ming-Ming Cheng,5,28
+ Ali Borji,5,28
+Tao Kong,5,114
+Wenchang Zhang,5,114
+Chao Yang,5,114
+D Yves v  Cramon,5,767
+Stefan Zysset,5,767
+Zhou Luping,5,260
+Yuan Hong,5,260
+jeremy forth,5,2
+guilherme a barreto,5,2
+neil d lawrence,5,2
+"Roelofs, Rebecca",5,379
+"Wilson, Ashia C.",5,379
+"Stern, Mitchell",5,379
+Nathan Srebro,5,379
+"Recht, Benjamin",5,379
+"Srebro, Nati",5,379
+Jeffrey Dean,5,4
+Chunfang Liu,5,114
+Marcus Liwicki,5,10
+Roman Bertolami,5,10
+Horst Bunke,5,10
+Dmitri B. Chklovskii,4,16
+X Pennec,4,703
+Junshui Ma,4,381
+Robert P Sheridan,4,381
+Andy Liaw,4,381
+George E Dahl,4,381
+Vladimir Svetnik,4,381
+Alexander R. Statnikov,4,378
+Constantin F. Aliferis,4,378
+Germán Ros,4,3
+Laura Sellart,4,3
+Joanna Materzynska,4,3
+Antonio M. Lopez,4,3
+Adam Paszke,4,156
+Eugenio Culurciello,4,156
+N Ayache,4,703
+Clément Hongler,4,153
+Dan C. Cireşan,4,10
+Luca M. Gambardella,4,10
+ali farhadi,4,6
+dragomir anguelov,4,9
+wei liu,4,9
+dumitru erhan,4,9
+christian szegedy,4,9
+Anh Mai Nguyen,4,5
+Jason Yosinski,4,5
+A Roche,4,703
+S Ourselin,4,703
+G Subsol,4,703
+Chunyang Li,4,150
+Xiuping Jia,4,150
+Guillaume Klein,4,44
+Jean Senellart,4,44
+anh nguyen,4,148
+Úlfar Erlingsson,4,34
+Jernej Kos,4,34
+"Le, Quoc V.",4,10
+Shaoqing Ren,4,6
+Erik Winfree,4,374
+Elizabeth Rawson,4,390
+Jeremy R. Gray,4,390
+Deena Skolnick Weisberg,4,390
+Frank C. Keil,4,390
+Joshua Goodstein,4,390
+thomas fuchs,4,148
+hod lipson,4,148
+Bolun Cai,4,81
+Xiangmin Xu,4,81
+Chunmei Qing,4,81
+Hanlu Jiang,4,150
+Yushi Chen,4,150
+Kelvin Guu,4,44
+Zora Tung,4,44
+Panupong Pasupat,4,44
+Mingwei Chang,4,44
+"Schmidhuber, Jürgen",4,10
+Angela Fan,4,44
+Levent Eren,4,395
+Murat Askar,4,395
+Moncef Gabbouj,4,395
+Qin-Yu Zhu,4,107
+German I. Parisi,4,161
+Ronald Kemker,4,161
+Jose L. Part,4,161
+Christopher Kanan,4,161
+Stefan Wermter,4,161
+Amy Zhao,4,120
+Guha Balakrishnan,4,120
+Adrian V. Dalca,4,120
+Yixin Cao,4,249
+Meng Liu,4,249
+Wang Ling,4,44
+Austin Matthews,4,44
+Serkan Kiranyaz,4,395
+Turker Ince,4,395
+michel galley,4,163
+chris brockett,4,163
+jianfeng gao,4,163
+bill dolan,4,163
+Alexis Conneau,4,44
+Ludovic Denoyer,4,44
+Marc’Aurelio Ranzato,4,44
+Da Xiao,4,3
+Olaf Sporns,4,21
+Mingxing Tan,4,4
+alessandro sordoni,4,3
+Andriy Mnih,4,3
+Germain Forestier,4,147
+Hassan Ismail Fawaz,4,147
+Jonathan Weber,4,147
+Lhassane Idoumghar,4,147
+Pierre-Alain Muller,4,147
+jason yosinski,4,148
+Guo Huifeng,4,168
+Guangyou Zhou,4,100
+Saibo Xing,4,582
+Tao Yan,4,582
+jeff clune,4,148
+Peng Qi,4,249
+Lucas Beyer,4,400
+Will Monroe,4,4
+Tianlin Shi,4,4
+Alan Ritter,4,4
+Bing Xiang,4,3
+Tang Ruiming,4,168
+Ye Yunming,4,168
+Li Zhenguo,4,168
+He Xiuqiang,4,168
+haonan yu,4,11
+Matthieu Courbariaux,4,3
+Ran El-Yaniv,4,3
+Murray B. Stein,4,682
+Franck Mamalet,4,543
+Moez Baccouche,4,543
+Hailin Jin,4,175
+Quanzeng You,4,175
+Chen Fang,4,175
+Christian Wolf,4,543
+Atilla Baskurt,4,543
+Lei Guo,4,402
+Catherine Lebel,4,404
+Lindsay Walker,4,404
+Alexander Leemans,4,404
+Linda Phillips,4,404
+Christian Beaulieu,4,404
+Kenneth R. Koedinger,4,405
+Charles Ruizhongtai Qi,4,19
+Hao Su,4,19
+Leonidas J. Guibas,4,19
+Shiqi Shen,4,30
+Yankai Lin,4,30
+Guido Dornhege,4,151
+Yuhao Zhang,4,249
+Yuhui Zhang,4,249
+Ceyuan Yang,4,402
+Xiwen Yao,4,402
+Liu Jiang-Jiang,4,81
+Jiashi Feng,4,81
+Jianmin Jiang,4,81
+Corianne Rogalsky,4,682
+Martin P. Paulus,4,682
+Alan Simmons,4,682
+Justin S. Feinstein,4,682
+Shubham Tulsiani,4,6
+Tinghui Zhou,4,6
+Weilun Sun,4,6
+Jiabin Huang,4,722
+Xueyang Fu,4,722
+Xinghao Ding,4,722
+Yinghao Liao,4,722
+John Paisley,4,722
+Jong Chul Ye,4,410
+Sungho Tak,4,410
+Kwang Eun Jang,4,410
+Jinwook Jung,4,410
+Yin Zheng,4,913
+Zhuxi Jiang,4,913
+Huachun Tan,4,913
+Bangsheng Tang,4,913
+Hanning Zhou,4,913
+Jiebo Luo,4,175
+Pablo Arbelaez,4,6
+Michal Drozdzal,4,3
+Simon Jégou,4,3
+Adriana Romero,4,3
+Rong Ge,4,126
+Yingyu Liang,4,126
+Christopher J. C. Burges,4,412
+Huimin Lu,4,408
+Yujie Li,4,408
+Hyoungseop Kim,4,408
+Seiichi Serikawa,4,408
+Ying-chang Liang,4,107
+Thomas Serre,4,30
+Stanley Bileschi,4,30
+Maximilian Riesenhuber,4,30
+Tomaso Poggio,4,30
+Gustavo Deco,4,494
+Viktor K Jirsa,4,494
+Peter A Robinson,4,494
+Karl Friston,4,494
+Shi Guo,4,42
+Zifei Yan,4,42
+Tengyu Ma,4,126
+Ashraf M. Abdul,4,724
+Jo Vermeulen,4,724
+Connelly Barnes,4,249
+Yi Zhou,4,249
+Jingwan Lu,4,249
+"Bourgeois, Dylan",4,912
+"Ying, Zhitao",4,912
+"You, Jiaxuan",4,912
+"Zitnik, Marinka",4,912
+"Leskovec, Jure",4,912
+Jaeduck Jang,4,410
+aditya khosla,4,27
+Danding Wang,4,724
+Brian Y. Lim,4,724
+Mohan S. Kankanhalli,4,724
+Emery N. Brown,4,727
+Bruce D McCandliss,4,68
+John Fossella,4,68
+Jonathan I Flombaum,4,68
+Michael I Posner,4,68
+Riccardo Barbieri,4,727
+Valérie Ventura,4,727
+Robert E. Kass,4,727
+Loren M. Frank,4,727
+Changchuan Yin,4,671
+Mérouane Debbah,4,671
+Tero Karras,4,78
+Timo Aila,4,78
+Basura Fernando,4,10
+Guillaume Bouchard,4,134
+Suyog Gupta,4,137
+Toni Heittola,4,839
+Tuomas Virtanen,4,839
+Joshua H Balsters,4,907
+Jörn Diedrichsen,4,907
+Jonathan Flavell,4,907
+Emma Cussans,4,907
+Narender Ramnani,4,907
+Jianrui Cai,4,42
+Tao Dai,4,42
+Yongbing Zhang,4,42
+Shu-Tao Xia,4,42
+Ruben Villegas,4,249
+Xunyu Lin,4,249
+Lei Jimmy Ba,4,3
+bolei zhou,4,27
+agata lapedriza,4,27
+aude oliva,4,27
+Le Trieu Phong,4,425
+Yoshinori Aono,4,425
+Takuya Hayashi,4,425
+Lihua Wang,4,425
+Shiho Moriai,4,425
+antonio torralba,4,27
+Emre Çakir,4,839
+Giambattista Parascandolo,4,839
+Hakan Bilen,4,10
+Stephen Gould,4,10
+Mingzhe Chen,4,671
+Ursula Challita,4,671
+Walid Saad,4,671
+Yixue Hao,4,408
+Kai Hwang,4,408
+Lu Wang,4,408
+Lin Wang,4,408
+Timothy E. J. Behrens,4,18
+Jamie Ryan Kiros,4,3
+DeLiang Wang,4,189
+Frederik Maes,4,733
+Koen Van Leemput,4,733
+Dirk Vandermeulen,4,733
+Alan C. F. Colchester,4,733
+Aäron Van Den Oord,4,10
+Johannes Welbl,4,134
+Théo Trouillon,4,134
+Sebastian Riedel,4,134
+yan yan,4,903
+jingkuan song,4,903
+nicu sebe,4,903
+Ricky T. Q. Chen,4,3
+Will Grathwohl,4,3
+Mark W. Woolrich,4,18
+Éric Gaussier,4,134
+Paul Suetens,4,733
+Ethan Fetaya,4,83
+Kuan-Chieh Wang,4,83
+Yi Ma,4,195
+Clark W. Barrett,4,196
+Guy Katz,4,196
+Christopher B. Choy,4,11
+Lyne P. Tchapmi,4,11
+Iro Armeni,4,11
+Gabriel Pereyra,4,4
+George Tucker,4,4
+Jan Chorowski,4,4
+Anbang Yao,4,348
+Aojun Zhou,4,348
+Yiwen Guo,4,348
+Lin Xu,4,348
+Forest Agostinelli,4,4
+Peter J. Sadowski,4,4
+dan xu,4,903
+elisa ricci,4,903
+Desen Zhou,4,195
+Yingying Zhang,4,195
+Siqin Chen,4,195
+Mu Zhou,4,746
+Wei Shen,4,746
+Feng Yang,4,746
+Thomas Huang,4,175
+Zichao Yang,4,3
+Xiaodan Liang,4,3
+Caiyun Yang,4,746
+Jie Tian,4,746
+Yapeng Tian,4,653
+Wei Wang,4,653
+Jing-Hao Xue,4,653
+Xiaomeng Chai,4,107
+Zhongshan Zhang,4,107
+Athanasios V. Vasilakos,4,107
+David L. Dill,4,196
+Kyle Julian,4,196
+Ruobing Xie,4,30
+Jia Jia,4,30
+Rupesh Kumar Srivastava,4,10
+Qiong Cao,4,10
+Weidi Xie,4,10
+Omkar M. Parkhi,4,10
+Dekang Qi,4,203
+Chi Hay Tong,4,901
+Ingmar Posner,4,901
+Ahmad R Hariri,4,342
+Alessandro Tessitore,4,342
+Venkata S Mattay,4,342
+Francesco Fera,4,342
+Daniel R Weinberger,4,342
+P Aljabar,4,343
+R A Heckemann,4,343
+A Hammers,4,343
+J V Hajnal,4,343
+D Rueckert,4,343
+Yurong Chen,4,348
+Jianchao Yang,4,175
+Scott Cohen,4,175
+J Ashburner,4,438
+Kelly Anne Barnes,4,37
+Shuochao Yao,4,899
+Yiran Zhao,4,899
+Aston Zhang,4,899
+Tarek F. Abdelzaher,4,899
+Dushyant Rao,4,901
+Martin Engelcke,4,901
+Dominic Zeng Wang,4,901
+Jiawen Chen,4,591
+Michaël Gharbi,4,591
+Samuel W. Hasinoff,4,591
+Frédo Durand,4,591
+Shaohan Hu,4,899
+Jason D. Lee,4,126
+Haochuan Li,4,126
+Julien N. P. Martel,4,440
+Alexander W. Bergman,4,440
+David B. Lindell,4,440
+Wenming Yang,4,653
+Xuechen Zhang,4,653
+Rasmus M Birn,4,11
+Daniel A Handwerker,4,11
+Tyler B Jones,4,11
+Peter A Bandettini,4,11
+Sanjay Purushotham,4,44
+Zhengping Che,4,44
+Maithra Raghu,4,4
+Jon M. Kleinberg,4,4
+Amirhossein Tavanaei,4,181
+Earl T. Barr,4,334
+Zhendong Su,4,334
+Mark Gabel,4,334
+Premkumar Devanbu,4,334
+Yubo Chen,4,100
+Kazuhiro Nakadai,4,894
+Hiroshi G. Okuno,4,894
+Tetsuya Ogata,4,894
+Masoud Ghodrati,4,181
+Anthony S. Maida,4,181
+Dandelion Mane,4,4
+Junbo Zhang,4,203
+Xuezhe Ma,4,3
+Zhengzhong Liu,4,3
+Eduard H. Hovy,4,3
+Rolf A. Heckemann,4,52
+Paul Aljabar,4,52
+Alexander Hammers,4,52
+Abram Hindle,4,334
+Jianping Shi,4,28
+Xingang Pan,4,28
+Bado Lee,4,105
+Xin Kang,4,107
+Hari Krishna Garg,4,107
+Antti Rasmus,4,209
+Harri Valpola,4,209
+Jinyu Li,4,76
+Jui-Ting Huang,4,76
+Yifan Gong,4,76
+Richard J. Haier,4,892
+Ronald A. Yeo,4,892
+Kevin Head,4,892
+Saurabh Singh,4,11
+Nick Johnston,4,11
+Kang Peng,4,448
+Predrag Radivojac,4,448
+Slobodan Vucetic,4,448
+A Keith Dunker,4,448
+Zoran Obradovic,4,448
+Michael T. Alkire,4,892
+Kuniaki Noda,4,894
+Yuki Yamaguchi,4,894
+Philipp Moritz,4,4
+Yu-Xiao Guo,4,126
+Chun-Yu Sun,4,126
+Xin Tong,4,126
+Rex E. Jung,4,892
+Yunjin Chen,4,42
+Deyu Meng,4,42
+Taesup Kim,4,4
+Nate Kushman,4,4
+Sandy H. Huang,4,4
+S. Vinitha Sree,4,80
+G. Swapna,4,80
+Roshan Joy Martis,4,80
+Kuan Wang,4,24
+Zhijian Liu,4,24
+Yujun Lin,4,24
+Ji Lin,4,24
+Gian Domenico Iannetti,4,891
+Peng-Shuai Wang,4,126
+Marijn van Wingerden,4,25
+Franscesco Battaglia,4,25
+Cyriel M A Pennartz,4,25
+V. Ravi,4,326
+Lu Jiang,4,11
+Zhengyuan Zhou,4,11
+Florian Tramèr,4,70
+Ari Juels,4,70
+Michael K. Reiter,4,70
+Mikko Honkala,4,209
+Mathias Berglund,4,209
+Tapani Raiko,4,209
+Jesper Andersson,4,47
+Jean-Baptiste Poline,4,47
+Youngmin Baek,4,105
+Hwalsuk Lee,4,105
+petr gronat,4,125
+relja arandjelovic,4,125
+akihiko torii,4,125
+tomas pajdla,4,125
+josef sivic,4,125
+Marco Gori,4,48
+Ana Diukova,4,891
+André Mouraux,4,891
+Michael C. Lee,4,891
+Richard G. Wise,4,891
+Zhe Cao,4,126
+Ming-Feng Tsai,4,126
+Klaus Greff,4,10
+Adam Santoro,4,10
+Sergey Bartunov,4,10
+Bishan Yang,4,76
+Pan He,4,216
+"Wierstra, Daan",4,10
+Franco Scarselli,4,48
+Martin Vinck,4,25
+Xiaoyong Yuan,4,216
+Qile Zhu,4,216
+Rajendra Rana Bhat,4,216
+Xiaolin Li,4,216
+Arrate Munoz-Barrutia,4,761
+Xabier Artaechevarria,4,761
+Carlos Ortiz-de-Solorzano,4,761
+"Munoz-Barrutia, A.",4,761
+"Ortiz-de-Solorzano, C.",4,761
+Qi Liu,4,763
+Yi Zheng,4,763
+Enhong Chen,4,763
+Yong Ge,4,763
+J. Leon Zhao,4,763
+Mostafa Dehghani,4,4
+Joshua Zhexue Huang,4,885
+Haider Abbas,4,885
+Yu-Lin He,4,885
+Ron J. Weiss,4,4
+Kevin W. Wilson,4,4
+Jon Atli Benediktsson,4,457
+Johannes R. Sveinsson,4,457
+Stephan Gouws,4,4
+Patrick Gallagher,4,81
+Zhengyou Zhang,4,81
+Søren Kaae Sønderby,4,634
+Ole Winther,4,634
+Scott T. Grafton,4,637
+Ruoming Pang,4,4
+"Chen, Guobin",4,632
+Andrew M. Dai,4,3
+Takaaki Hori,4,718
+Suyoun Kim,4,718
+Tomoki Hayashi,4,718
+Rana Aamir Raza Ashfaq,4,885
+Xi-Zhao Wang,4,885
+"Choi, Wongun",4,632
+"Yu, Xiang",4,632
+Tony X. Han,4,632
+"Chandraker, Manmohan",4,632
+Mathias Lécuyer,4,296
+Vaggelis Atlidakis,4,296
+Roxana Geambasu,4,296
+Daniel J. Hsu,4,296
+Casper Kaae Sønderby,4,634
+José Juan Almagro Armenteros,4,634
+Arun L W Bokde,4,769
+Janaina Mourão-Miranda,4,769
+Patrick F. Riley,4,4
+Chiyuan Zhang,4,4
+Samy Bengio,4,4
+Moritz Hardt,4,4
+Deepak Pathak,4,6
+Markus Hagenbuchner,4,48
+Gabriele Monfardini,4,48
+Ronghang Hu,4,6
+Christine Born,4,769
+Harald Hampel,4,769
+Martin Stetter,4,769
+Melody Y. Guan,4,4
+Chuxu Zhang,4,70
+Chao Huang,4,70
+Nitesh V. Chawla,4,70
+Nicolas Usunier,4,44
+Gábor London,4,468
+Ruth Nussinov,4,468
+Signe Bray,4,471
+Xu Cui,4,471
+Daniel M Bryant,4,471
+Bee Lim,4,56
+Sanghyun Son,4,56
+Heewon Kim,4,56
+Matt Gardner,4,44
+Nelson F. Liu,4,44
+Matthew Peters,4,44
+Chao-Min Chiu,4,54
+Allan L Reiss,4,471
+"Guo, Xiaoxiao",4,317
+"Oh, Junhyuk",4,317
+"Lewis, Richard L.",4,317
+Satinder P. Singh,4,317
+Yun Liu,4,81
+Peter Csermely,4,468
+Tamás Korcsmáros,4,468
+Huba J M Kiss,4,468
+Lars M. Mescheder,4,4
+Michael Oechsle,4,4
+Michael Niemeyer,4,4
+Dirk Gorissen,4,771
+Ivo Couckuyt,4,771
+Piet Demeester,4,771
+Tom Dhaene,4,771
+Karel Crombecq,4,771
+K Luan Phan,4,47
+Satoru Hayasaka,4,47
+Keith J Worsley,4,47
+Thomas E Nichols,4,47
+Kai Wang,4,81
+Daniel Povey,4,310
+Sanjeev Khudanpur,4,310
+Feng Bao,4,773
+Yue Deng,4,773
+Youyong Kong,4,773
+Zhiquan Ren,4,773
+Qionghai Dai,4,773
+Piotr Bojanowski,4,44
+Edouard Grave,4,44
+Yann Dauphin,4,44
+Cihang Xie,4,11
+Jianyu Wang,4,11
+Zhishuai Zhang,4,11
+Zifeng Wu,4,178
+Sandeep Subramanian,4,44
+Kazuya Kawakami,4,44
+Wei Hu,4,126
+Zhiyuan Li,4,126
+Ruosong Wang,4,126
+tao mei,4,775
+yingwei pan,4,775
+ting yao,4,775
+houqiang li,4,775
+yong rui,4,775
+Dimitrios Pantazis,4,480
+Richard M Leahy,4,480
+Merrill Warkentin,4,481
+Erik Cambria,4,482
+Soujanya Poria,4,482
+Jure Zbontar,4,4
+Li Jing,4,4
+Stéphane Deny,4,4
+J D Cohen,4,619
+V van Veen,4,619
+M M Botvinick,4,619
+V A Stenger,4,619
+C S Carter,4,619
+philipp moritz,4,4
+sergey levine,4,4
+pieter abbeel,4,4
+Zhun Zhong,4,30
+Shaozi Li,4,30
+S M Smith,4,303
+E. W. T. Ngai,4,304
+Yong Hu,4,304
+Y. H. Wong,4,304
+Yijun Chen,4,304
+Xin Sun,4,304
+Zhou Ren,4,11
+François Tadel,4,480
+Sylvain Baillet,4,480
+John C Mosher,4,480
+john schulman,4,4
+Shujuan Yi,4,91
+Yang Lu,4,91
+Yong Zhang,4,91
+James Bradbury,4,249
+Yongzhen Huang,4,178
+D. J. Anderson,4,490
+K. D. Wise,4,490
+J. F. Hetke,4,490
+D. R. Kipke,4,490
+K. Najafi,4,490
+Adam Hampshire,4,608
+Samuel R Chamberlain,4,608
+Martin M Monti,4,608
+John Duncan,4,608
+Adrian M Owen,4,608
+Alan G. Sanfey,4,787
+James K Rilling,4,787
+Jessica A. Aronson,4,787
+Leigh E. Nystrom,4,787
+Jonathan D. Cohen,4,787
+Ping Wang,4,107
+Xiao Lu,4,107
+Dusit Niyato,4,107
+Dong In Kim,4,107
+R A P Roche,4,300
+E A Stein,4,300
+De Cheng,4,227
+Yihong Gong,4,227
+Sanping Zhou,4,227
+Jinjun Wang,4,227
+Nanning Zheng,4,227
+Michal Kosinski,4,790
+Yoram Bachrach,4,790
+Thore Graepel,4,790
+Pushmeet Kohli,4,790
+David Stillwell,4,790
+Lu Zhang,4,249
+jiaxiang wu,4,302
+yuhang wang,4,302
+qinghao hu,4,302
+jian cheng,4,302
+C F Beckmann,4,303
+M De Luca,4,303
+N De Stefano,4,303
+P M Matthews,4,303
+Hwanjo Yu,4,597
+Zhiding Yu,4,224
+Yike Guo,4,595
+Chanyoung Park,4,597
+Dong Hyun Kim,4,597
+Jinoh Oh,4,597
+Sungyoung Lee,4,597
+Jarrod R. McClean,4,497
+Sergio Boixo,4,497
+Vadim N. Smelyanskiy,4,497
+Ryan Babbush,4,497
+Hartmut Neven,4,497
+Aleksandar Bojchevski,4,500
+Jiequn Han,4,501
+cong leng,4,302
+Hong-Jian Xue,4,594
+Xinyu Dai,4,594
+Jianbing Zhang,4,594
+Shujian Huang,4,594
+Jiajun Chen,4,594
+Guang Yang,4,595
+Hao Dong,4,595
+Fangde Liu,4,595
+Yuanhan Mo,4,595
+Auke Jan Ijspeert,4,4
+Jun Nakanishi,4,4
+Karl John Friston,4,592
+F. Herrera,4,299
+F. Hoffmann,4,299
+L. Magdalena,4,299
+H Garavan,4,300
+T J Ross,4,300
+K Murphy,4,300
+Weinan E,4,501
+David I. Shuman,4,4
+Jannick Dyrløv Bendtsen,4,634
+David Widdick,4,634
+Tracy Palmer,4,634
+Søren Brunak,4,634
+W. Dale Stevens,4,204
+Jon P. Chamberlain,4,204
+Adrian W. Gilmore,4,204
+Daniel L. Schacter,4,204
+Linfeng Zhang,4,501
+Han Wang,4,501
+Roberto Car,4,501
+alexander binder,4,298
+wojciech samek,4,298
+klausrobert muller,4,298
+F. Gomide,4,299
+O. Cordón,4,299
+Thomas H. B. FitzGerald,4,592
+Francesco Rigoli,4,592
+Philipp Schwartenbeck,4,592
+Giovanni Pezzulo,4,592
+Kenta Nakai,4,505
+Satoru Miyano,4,505
+Jason Ku,4,297
+Melissa Mozifian,4,297
+Jungwook Lee,4,297
+Ali Harakeh,4,297
+Steven Lake Waslander,4,297
+Kuldeep Kulkarni,4,798
+Frank L. Lewis,4,453
+Dmitrii Podoprikhin,4,589
+Pavel Izmailov,4,589
+Timur Garipov,4,589
+Dmitry P. Vetrov,4,589
+Andrew Gordon Wilson,4,589
+Mikael Henaff,4,4
+Michaël Mathieu,4,4
+Gérard Ben Arous,4,4
+sebastian bach,4,298
+Ping Liu,4,30
+Ziwei Wang,4,30
+Zhilan Hu,4,30
+Baoyuan Liu,4,507
+Min Wang,4,507
+Hassan Foroosh,4,507
+Marshall F. Tappen,4,507
+Marianna Pensky,4,507
+Hao Luo,4,508
+Youzhi Gu,4,508
+Xingyu Liao,4,508
+Shenqi Lai,4,508
+Hideo Bannai,4,505
+Yoshinori Tamada,4,505
+Osamu Maruyama,4,505
+Marios Anthimopoulos,4,292
+Stergios Christodoulidis,4,292
+Mo Zhou,4,792
+Zhenxing Niu,4,792
+Le Wang,4,792
+Gang Hua,4,792
+Qing Zhao,4,70
+gregoire montavon,4,298
+Heiko Hoffmann,4,4
+Meng Wang,4,249
+Fuli Feng,4,249
+Anish Athalye,4,4
+Suhas Lohit,4,798
+Pavan K. Turaga,4,798
+Ronan Kerviche,4,798
+Amit Ashok,4,798
+Lukas Ebner,4,292
+Andreas Christe,4,292
+Stavroula G. Mougiakakou,4,292
+Wei Jiang,4,508
+Bruce R Rosen,4,245
+Matthew S Rosen,4,245
+Grégoire Mesnil,4,76
+Pin-Yu Chen,4,6
+Jinfeng Yi,4,6
+Bo Zhu,4,245
+Jeremiah Z Liu,4,245
+Stephen F Cauley,4,245
+Elif Derya íbeyli,4,803
+Nihal Fatma Güler,4,803
+İnan Güler,4,803
+GülerNihal Fatma,4,803
+íbeyliElif Derya,4,803
+Yanhong Luo,4,804
+Zhaopeng Tu,4,126
+Xiaohua Liu,4,126
+Dave Steinkraus,4,71
+Patrice Y. Simard,4,71
+"Platt, John C.",4,71
+PY Simard,4,71
+R. D. Hoge,4,584
+T. J. Huppert,4,584
+S. G. Diamond,4,584
+M. A. Franceschini,4,584
+Jinxing Hao,4,6
+Feng Jia,4,582
+Jing Lin,4,582
+Sunil K. Narang,4,4
+Antonio Ortega,4,4
+"Graves, Alex",4,10
+Yonghong Zeng,4,107
+Anh Tuan Hoang,4,107
+"Pritzel, Alexander",4,10
+Michael Montemerlo,4,3
+Martha Pollack,4,3
+Nicholas Roy,4,3
+Sunjeong Park,4,575
+Junmo Kim,4,575
+Àgata Lapedriza,4,6
+Chia-Jung Hsu,4,250
+Wun-Hwa Chen,4,250
+Li Wan,4,4
+Ewan MacArthur,4,75
+Tim Rocktäschel,4,10
+Karl Moritz Hermann,4,10
+Jiahui Yu,4,76
+Yuning Jiang,4,76
+Zhimin Cao,4,76
+Yonghui Wu,4,4
+"Alistarh, Dan",4,215
+"Grubic, Demjan",4,215
+"Li, Jerry",4,215
+"Vojnovic, Milan",4,215
+Matthew D. Zeiler,4,4
+xi wu,4,70
+Dong Wang,4,28
+Pingping Zhang,4,28
+Hongyu Wang,4,28
+Xiang Ruan,4,28
+Xiaoxiao Li,4,28
+Dominique Maniry,4,151
+Sebastian Bosse,4,151
+Thomas Wiegand,4,151
+Heechul Jung,4,575
+Sihaeng Lee,4,575
+Junho Yim,4,575
+Mei Yuan,4,851
+Yuting Wu,4,851
+Shaopeng Dong,4,851
+Li Lin,4,851
+Yingqi Liu,4,851
+JC Platt,4,71
+Elizabeth A. Boyle,4,75
+Thomas M. Connolly,4,75
+Siqi Sun,4,522
+Renyu Zhang,4,522
+Jinbo Xu,4,522
+Xuanyi Dong,4,30
+Yanwei Fu,4,30
+Michael D Greicius,4,61
+Jiajun Wu,4,564
+Donglai Wei,4,564
+William T. Freeman,4,564
+Jianming Zhang,4,175
+Jonathan Brandt,4,175
+Xiaohui Shen,4,175
+Stan Sclaroff,4,175
+Baian Chen,4,564
+Tianfan Xue,4,564
+Soushan Wu,4,250
+Rama Chellappa,4,251
+Kaustubh Supekar,4,61
+Daniel Rubin,4,61
+Mark Musen,4,61
+"Pu, Hongming",4,499
+"Wang, Feicheng",4,499
+"Hu, Zhiqiang",4,499
+Ruiyuan Li,4,203
+Xiuwen Yi,4,203
+Alexander G Huth,4,255
+Wendy A de Heer,4,255
+Thomas L Griffiths,4,255
+Frédéric E Theunissen,4,255
+dzmitry bahdanau,4,40
+jan chorowski,4,40
+dmitriy serdyuk,4,40
+philemon brakel,4,40
+Xianfeng Gu,4,81
+Yalin Wang,4,81
+Tony F. Chan,4,81
+Shing-Tung Yau,4,81
+Florian Kurth,4,18
+agata lapedriza garcia,4,6
+Thomas Hainey,4,75
+James M. Boyle,4,75
+"Lu, Zhou",4,499
+Manohar Paluri,4,6
+Gerard R. Ridgway,4,18
+Matthew A. Webster,4,18
+Ning Zhang,4,6
+Lubomir Bourdev,4,6
+James T. Wilson,4,78
+Wenlin Chen,4,78
+Dandelion Mané,4,4
+Anthony N. Price,4,52
+Svetlana Lazebnik,4,126
+Danilo Bzdok,4,18
+Luc Van Gool,4,400
+Pengyuan Lv,4,81
+Cong Yao,4,81
+Abhronil Sengupta,4,822
+Yuting Ye,4,822
+Robert Wang,4,822
+Chiao Liu,4,822
+Kaushik Roy,4,822
+B. T. Thomas Yeo,4,120
+Koenraad Van Leemput,4,120
+Dmitry Podoprikhin,4,552
+"Novikov, Alexander",4,552
+"Osokin, Anton",4,552
+"Vetrov, Dmitry P.",4,552
+"Podoprikhin, Dmitrii",4,552
+Himalaya Jain,4,122
+Aaron Courville,4,3
+Tuan-Hung Vu,4,122
+Maxime Bucher,4,122
+Patrick Pérez,4,122
+Polina Golland,4,120
+Tien-Ju Yang,4,24
+Hang Su,4,85
+Muhammad Ghifary,4,531
+W. Bastiaan Kleijn,4,531
+Mengjie Zhang,4,531
+David Balduzzi,4,531
+Wen Li,4,531
+Denis Yarats,4,44
+Matthias Treder,4,151
+Will D. Penny,4,247
+Jean Daunizeau,4,247
+Rosalyn J. Moran,4,247
+Daxiang Dong,4,330
+Hua Wu,4,330
+Dianhai Yu,4,330
+Haifeng Wang,4,330
+Klaas Enno Stephan,4,247
+Fernando Almeida,4,267
+Telmo Matos,4,267
+José Reis,4,267
+António Cerdeira,4,267
+Paul K. Joseph,4,80
+N. Kannathal,4,80
+Choo Min Lim,4,80
+Saining Xie,4,81
+Minghui Liao,4,81
+Wenyu Liu,4,81
+Liu D,4,536
+Wang ZW,4,536
+Yang JC,4,536
+Han W,4,536
+Antonietta Pepe,4,839
+Elaheh Moradi,4,839
+Jonas Gehring,4,44
+Peter W. Battaglia,4,10
+"Lai, Matthew",4,10
+"Jimenez Rezende, Danilo",4,10
+Sijie Song,4,10
+Jiaying Liu,4,10
+Huang T,4,536
+Jen Hong Tan,4,80
+Jianbo Yang,4,274
+Minh Nhut Nguyen,4,274
+Phyo Phyo San,4,274
+Xiaoli Li,4,274
+Shonali Krishnaswamy,4,274
+Kyle Hundman,4,840
+Valentino Constantinou,4,840
+Christopher Laporte,4,840
+Ian Colwell,4,840
+Tom Söderström,4,840
+Ethan Perez,4,3
+Florian Strub,4,3
+Harm de Vries,4,3
+Vincent Dumoulin,4,3
+Xia Da,4,3
+Beth L. Chen,4,16
+Lav R. Varshney,4,16
+Eric Paniagua,4,16
+David H. Hall,4,16
+Ioannis Tsamardinos,4,378
+Douglas P. Hardin,4,378
+Shawn Levy,4,378
+scott reed,4,9
+Nitish Srivastava,4,4
+Thomas Esch,3,400
+kaiming he,3,0
+Fred D. Davis,3,7
+Gordon B. Davis,3,7
+Viswanath Venkatesh,3,7
+Michael G. Morris,3,7
+"Sun, Jian",3,6
+Yoav Goldberg,3,249
+bing xiang,3,380
+bowen zhou,3,380
+Chonglin Sun,3,30
+Chunting Zhou,3,30
+Francis C. M. Lau,3,30
+Francesco Camastra,3,382
+Maurizio Filippone,3,382
+Francesco Masulli,3,382
+Stefano Rovetta,3,382
+Abhishek Chaurasia,3,156
+Sangpil Kim,3,156
+Xiaokang Yang,3,81
+Reza Shokri,3,154
+Makoto Kaneko,3,707
+Akira Otsuka,3,707
+Jun Du,3,271
+Yao Lu,3,842
+N. Asokan,3,842
+Ying Zhu,3,68
+Shihui Han,3,68
+DeTone Daniel,3,533
+Sarlin Paul-Edouard,3,533
+Malisiewicz Tomasz,3,533
+Rabinovich Andrew,3,533
+Alexei Baevski,3,44
+Yong Xu,3,271
+Li-Rong Dai,3,271
+Natasha Lepore,3,839
+Lukasz Kurgan,3,841
+Wojciech Stach,3,841
+Witold Pedrycz,3,841
+Adrian Sampson,3,534
+Hadi Esmaeilzadeh,3,534
+Luis Ceze,3,534
+Doug Burger,3,534
+Sergey M. Plis,3,3
+Yu Sun,3,78
+Hehui Zheng,3,542
+Sirui Xie,3,542
+Chunxiao Liu,3,542
+Wenfei Cao,3,6
+Zongben Xu,3,6
+Jelmer M. Wolterink,3,464
+Tim Leiner,3,464
+"Shin, Hanul",3,270
+"Kim, Jaehong",3,270
+"Kim, Jiwon",3,270
+Jiafeng Guo,3,547
+Yixing Fan,3,547
+Qingyao Ai,3,547
+W. Bruce Croft,3,547
+Chunhua Shen,3,269
+Fayao Liu,3,269
+Guosheng Lin,3,269
+Ian D. Reid,3,269
+Xizhou Zhu,3,67
+Stephen Lin,3,67
+"Lee, Jung Kwon",3,270
+Stephan Zheng,3,4
+Arthur W Toga,3,839
+Eileen Luders,3,839
+Chin-Hui Lee,3,271
+Steffen Schneider,3,44
+Tushar Krishna,3,24
+Alexander Toshev,3,249
+Katerina Fragkiadaki,3,4
+Panna Felsen,3,4
+jacob andreas,3,829
+marcus rohrbach,3,829
+trevor darrell,3,829
+dan klein,3,829
+Juergen Schmidhuber,3,10
+Hongwei Ng,3,831
+Viet Dung Nguyen,3,831
+Vassilios Vonikakis,3,831
+Stefan Winkler,3,831
+Francis Bach,3,6
+Julien Mairal,3,6
+Guillermo Sapiro,3,6
+Yining Li,3,28
+Gabor Angeli,3,249
+Christopher Potts,3,249
+Guinevere F. Eden,3,276
+Peter E. Turkeltaub,3,276
+Karen M. Jones,3,276
+Thomas A. Zeffiro,3,276
+Donald G. McLaren,3,277
+Michele L. Ries,3,277
+Guofan Xu,3,277
+Sterling C. Johnson,3,277
+Liu Liu,3,30
+Michele Nappi,3,279
+Daniel Riccio,3,279
+Gabriele Sabatino,3,279
+Erik G. Learned-Miller,3,85
+Han Chen,3,826
+Manoj Alwani,3,826
+Michael Ferdman,3,826
+Peter Milder,3,826
+Subhransu Maji,3,85
+Evangelos Kalogerakis,3,85
+Andreas Ess,3,400
+Long Wen,3,281
+Xinyu Li,3,281
+Liang Gao,3,281
+Yuyan Zhang,3,281
+Mykola Lavreniuk,3,282
+Nataliia Kussul,3,282
+Sergii Skakun,3,282
+Andrii Shelestov,3,282
+Chen Huang,3,28
+Rasmus Rothe,3,400
+Guido F. Montúfar,3,22
+Qiao Liu,3,821
+Yifu Zeng,3,821
+Refuoe Mokhosi,3,821
+Haibin Zhang,3,821
+Xiao Ding,3,114
+Yue Zhang,3,114
+Junwen Duan,3,114
+Angela R Laird,3,18
+Udo Siewert,3,3
+Elizabeth Bullitt,3,29
+C STAM,3,825
+M VANDENHEUVEL,3,825
+M BOERSMA,3,825
+H HULSHOFFPOL,3,825
+Lubomir D. Bourdev,3,30
+Andrea F. Abate,3,279
+Shiguang Shan,3,526
+Xilin Chen,3,526
+Andreas Deistung,3,528
+Ferdinand Schweser,3,528
+Berengar Wendel Lehr,3,528
+Jürgen Rainer Reichenbach,3,528
+Petri Mähönen,3,107
+Xiaosheng Si,3,283
+Changhua Hu,3,283
+Jianxun Zhang,3,283
+Ruiqi Guo,3,126
+Thomas Naselaris,3,255
+Shinji Nishimoto,3,255
+Radu Timofte,3,400
+Marc Brockschmidt,3,3
+Tian Qi Chen,3,3
+Yulia Rubanova,3,3
+Jeroen Lichtenauer,3,76
+Mohammad Soleymani,3,76
+Thierry Pun,3,76
+Cormac Herley,3,263
+Joseph Bonneau,3,263
+Paul C.  van Oorschot,3,263
+Frank Stajano,3,263
+Marcel Prastawa,3,29
+Rebecca Thomson,3,556
+Zheng Rong Yang,3,556
+Philip McNeil,3,556
+Robert Esnouf,3,556
+Kendrick N Kay,3,255
+Antonio Hernando,3,845
+JesúS Bernal,3,845
+Zhihong Zeng,3,76
+Glenn I. Roisman,3,76
+Peng Zheng,3,77
+Zhong-Qiu Zhao,3,77
+Shou-tao Xu,3,77
+Xindong Wu,3,77
+Melissa Ellamil,3,820
+Mark Beeman,3,820
+Kalina Christoff,3,820
+daniel tarlow,3,3
+yujia li,3,3
+marc brockschmidt,3,3
+Daniel Tarlow,3,3
+Yujia Li,3,3
+Dawen Liang,3,4
+Rahul G. Krishnan,3,4
+Tony Jebara,3,4
+Haomiao Liu,3,526
+Ruiping Wang,3,526
+Alexis Battle,3,249
+Rajat Raina,3,249
+Fei Tian,3,126
+Renqian Luo,3,126
+Rolf Pfeifer,3,560
+Giulio Sandini,3,560
+Mario Geiger,3,83
+Jonas Köhler,3,83
+Chuan Guo,3,78
+Fernando Ortega,3,845
+JesúS Bobadilla,3,845
+Hongye Su,3,816
+Jian Chu,3,816
+Peter H. Jin,3,6
+Charles Dobson,3,820
+Christine D Wilson-Mendenhall,3,563
+Wendy Hasenkamp,3,563
+Erica Duncan,3,563
+Lawrence W Barsalou,3,563
+Vishal M. Patel,3,251
+A P Leff,3,438
+M Brett,3,438
+C Rorden,3,438
+Giorgio Metta,3,560
+Max Lungarella,3,560
+Yangyan Li,3,19
+Nicolas Boulanger-Lewandowski,3,3
+Anna B Smith,3,572
+Katya Rubia,3,572
+Michael J Brammer,3,572
+Eric Taylor,3,572
+B Modrek,3,810
+C Grasso,3,810
+C Lee,3,810
+Robert J. Full,3,811
+daniel e koditschek,3,811
+John Guckenheimer,3,811
+Chin-Chuan Han,3,815
+Hsu-Liang Cheng,3,815
+Chih-Lung Lin,3,815
+Kuo-Chin Fan,3,815
+Peng Shi,3,816
+Zheng-Guang Wu,3,816
+Senén Barro,3,73
+Dinani Gomes Amorim,3,73
+Dídac Surís,3,139
+Joan Serrà,3,139
+Marius Miron,3,139
+Jianhua Zou,3,6
+Christophe Destrieux,3,120
+Anders Dale,3,120
+Eric Halgren,3,120
+Shyang-Lih Chang,3,288
+Yun-Chung Chung,3,288
+Sei-Wang Chen,3,288
+Weiran Wang,3,519
+Karen Livescu,3,519
+Jeff A. Bilmes,3,519
+Yuji Kaneda,3,571
+Ivana Maric,3,88
+Sudhir Srinivasa,3,88
+Robert E. Smith,3,327
+Li-Shien Chen,3,288
+Chong Zhang,3,854
+Pin Lim,3,854
+A. K. Qin,3,854
+Katsuhiko Mori,3,571
+Masakazu Matsugu,3,571
+Yusuke Mitari,3,571
+J Stallkamp,3,286
+M Schlipsing,3,286
+J Salmen,3,286
+C Igel,3,286
+Eva Cernadas,3,73
+Manuel Fernández Delgado,3,73
+"Luo, Wenjie",3,3
+"Urtasun, Raquel",3,3
+Erik Axell,3,178
+Geert Leus,3,178
+Erik G. Larsson,3,178
+Eli Shechtman,3,6
+Gou Jianping,3,576
+Yu Baosheng,3,576
+Maybank Stephen John,3,576
+Tao Dacheng,3,576
+Amir Shahroudy,3,6
+Tian-Tsong Ng,3,6
+Zheng Xu,3,249
+Gavin Taylor,3,249
+Tom Goldstein,3,249
+Andrea Goldsmith,3,88
+Jian Shen,3,283
+Kay Chen Tan,3,854
+"Heess, Nicolas",3,10
+"Mnih, Volodymyr",3,10
+E. C.Y. Peh,3,107
+Jacques-Donald Tournier,3,327
+Dong Tian,3,512
+Meital Zilberstein,3,249
+Yanru Qu,3,283
+Weinan Zhang,3,283
+A Resch,3,810
+Isabelle Guyon,3,577
+Steve R. Gunn,3,577
+Asa Ben-hur,3,577
+Gideon Dror,3,577
+"Li, Yujia",3,3
+Florin Dolcos,3,146
+Reiko Graham,3,146
+Lars Nyberg,3,146
+Kristian Henrickson,3,858
+Alexa Morcom,3,199
+Lihua Huang,3,6
+Kevin P. Murphy,3,11
+Xiaolin Hu,3,28
+Olivier J. Bernier,3,807
+Raphaël Féraud,3,807
+Jean-Emmanuel Viallet,3,807
+Michel Collobert,3,807
+Dai Quoc Nguyen,3,808
+Tu Dinh Nguyen,3,808
+Dat Quoc Nguyen,3,808
+Dinh Q. Phung,3,808
+Andy Schuetz,3,354
+Edward Choi,3,354
+Jimeng Sun,3,354
+Aditya Chattopadhyay,3,243
+Anirban Sarkar,3,243
+Jian Yang,3,28
+Beibei Ren,3,525
+Keng Peng Tee,3,525
+Tong Heng Lee,3,525
+"Zhu, Han",3,244
+"Wang, Jianmin",3,244
+"Jordan, Michael I.",3,244
+Derong Liu,3,804
+David Meunier,3,199
+Uri Alon,3,249
+Eran Yahav,3,249
+Zhiyong Cui,3,858
+Ruimin Ke,3,858
+Chen Feng,3,512
+Shuguang Cui,3,178
+Zhi Quan,3,178
+Ali H. Sayed,3,178
+Yaoqing Yang,3,512
+Yiru Shen,3,512
+M Ding,3,294
+M Kamiński,3,294
+W A Truccolo,3,294
+S L Bressler,3,294
+AS Ecker,3,96
+Jun Ding,3,11
+Hongwei Liu,3,11
+Mengyuan Huang,3,11
+Vineeth N. Balasubramanian,3,243
+"Long, Mingsheng",3,244
+Gang Li,3,76
+Xie Chen,3,76
+Qiang Liu,3,178
+Shu Wu,3,178
+Gorka Labaka,3,3
+Mikel Artetxe,3,3
+Eneko Agirre,3,3
+El-Sayed A. El-Dahshan,3,800
+Heba M. Mohsen,3,800
+Kenneth Revett,3,800
+Abdel-Badeeh M. Salem,3,800
+alexander s ecker,3,96
+l a gatys,3,96
+matthias bethge,3,96
+charles elkan,3,110
+randall wetzell,3,110
+Donald J. Patterson,3,295
+Lin Liao,3,295
+Yinhai Wang,3,858
+Maxime Oquab,3,3
+Josef Sivic,3,3
+ Dong Yu,3,50
+c lawrence zitnick,3,239
+sean bell,3,239
+kavita bala,3,239
+ross girshick,3,239
+Ye Li,3,6
+Thomas R Knösche,3,587
+Alfred Anwander,3,587
+Prantik Howlader,3,243
+J. G. Andrews,3,797
+Dieter Fox,3,295
+Henry Kautz,3,295
+Kexin Pei,3,296
+Yuchi Tian,3,296
+Baishakhi Ray,3,296
+Lijun Wang,3,28
+Deuk Hee Park,3,503
+Hyea Kyeong Kim,3,503
+Il Young Choi,3,503
+Daesik Hong,3,797
+Bhaskar D. Rao,3,238
+Shane F. Cotter,3,238
+Kjersti Engan,3,238
+Maxime Descoteaux,3,587
+Rachid Deriche,3,587
+Yifan Zhang,3,11
+Jae Kyeong Kim,3,503
+Harrison Edwards,3,445
+Yuri Burda,3,445
+Oleg Klimov,3,445
+Anton Slesarev,3,237
+Artem Babenko,3,237
+Alexander Chigorin,3,237
+Victor S. Lempitsky,3,237
+Mohammad Ganjtabesh,3,181
+Chengyao Shen,3,796
+Xun Huang,3,796
+Xavier Boix,3,796
+Qi Zhao,3,796
+Hano Wang,3,797
+Jemin Lee,3,797
+Anna Liu,3,593
+Hanqing Lu,3,11
+Qianru Sun,3,249
+Yaoyao Liu,3,249
+Yiping Lu,3,864
+Zichao Long,3,864
+Xianzhong Ma,3,864
+Bin Dong,3,864
+J Decety,3,866
+Shengyong Ding,3,542
+Guangrun Wang,3,542
+Hongyang Chao,3,542
+Kenneth Kreutz-Delgado,3,238
+ Li Deng,3,50
+A. Acero,3,50
+Lei Shi,3,11
+Rickard Sandberg,3,793
+Torben Schneider,3,99
+hongying zhang,3,99
+Claudia A Wheeler-Kingshott,3,99
+Daniel C Alexander,3,99
+Ming Cheng,3,522
+Shangkai Gao,3,522
+Dingfeng Xu,3,522
+Changshui Zhang,3,522
+Zhonglin Lin,3,522
+Tommi S. Jaakkola,3,596
+Hoda El-Sayed,3,231
+Mohamed Belal,3,231
+Jacky Keung,3,593
+Sadeka Islam,3,593
+Kevin Lee,3,593
+Ortiz Jose Javier Gonzalez,3,791
+Frankle Jonathan,3,791
+Guttag John,3,791
+Bin Fan,3,645
+Yongcheng Liu,3,645
+Daniel Ramsköld,3,793
+Eric T Wang,3,793
+Christopher B Burge,3,793
+Abdullah Almojel,3,231
+Jafaar Gaber,3,231
+Ankur P. Parikh,3,4
+Oscar Täckström,3,4
+Dipanjan Das 0001,3,4
+Venkat Chandrasekaran,3,4
+Pablo A. Parrilo,3,4
+Alan S. Willsky,3,4
+Zachary Chase Lipton,3,110
+Randall C. Wetzel,3,110
+A.K. Qin,3,107
+P.N. Suganthan,3,107
+T Chaminade,3,866
+J Grèzes,3,866
+A N Meltzoff,3,866
+Ken Chatfield,3,10
+Blalock Davis,3,791
+Hsin-Kai Wu,3,104
+Silvia Wen-Yu Lee,3,104
+Hsin-Yi Chang,3,104
+Sinisa Pajevic,3,230
+Markus Diesmann,3,601
+Davide Boscaini,3,4
+Jyh-Chong Liang,3,104
+Andrew Ilyas,3,4
+Logan Engstrom,3,4
+Jessy Lin,3,4
+Jing-Ru Zhang,3,493
+Jun Zhang,3,493
+Tat-Ming Lok,3,493
+Michael R. Lyu,3,493
+Jia Guo,3,62
+Jiankang Deng,3,62
+Niannan Xue,3,62
+Stefanos Zafeiriou,3,62
+Meng Yang,3,224
+"Santurkar, Shibani",3,226
+"Tsipras, Dimitris",3,226
+"Ilyas, Andrew",3,226
+"Madry, Aleksander",3,226
+Hongwei Wang,3,611
+Minyi Guo,3,611
+Anyi Rao,3,604
+Javid Ebrahimi,3,604
+Daniel Lowd,3,604
+Dejing Dou,3,604
+Deniz Yuret,3,4
+Jonathan May,3,4
+Kevin Knight,3,4
+h d cheng,3,108
+x h jiang,3,108
+yijun sun,3,108
+jingli wang,3,108
+Thomas Natschläger,3,66
+Gaurav Srivastava,3,61
+Michael D. Greicius,3,61
+David Nahamoo,3,4
+Michael Picheny,3,4
+Kenneth O. Stanley,3,63
+Carolina Parada,3,4
+Hongbing Jiang,3,6
+Ruoyu Li,3,522
+Feiyun Zhu,3,522
+Junzhou Huang,3,522
+Joshua Achiam,3,4
+Aviv Tamar,3,4
+Craig Partridge,3,483
+M. Shamim Kaiser,3,786
+Mufti Mahmud,3,786
+Amir Hussain,3,786
+Stefano Vassanelli,3,786
+Thorsten Dickhaus,3,151
+David D. Clark,3,483
+J. Christopher Ramming,3,483
+John T. Wroclawski,3,483
+Eunsol Choi,3,44
+Mandar Joshi,3,44
+Daniel S. Weld,3,44
+Alok Aggarwal,3,4
+Yanping Huang,3,4
+Christos-nikolaos Anagnostopoulos,3,612
+I. E. Anagnostopoulos,3,612
+Vassilis Loumos,3,612
+Eleftherios Kayafas,3,612
+Nicolas Scheffer,3,614
+Yun Lei,3,614
+Luciana Ferrer,3,614
+Mitchell McLaren,3,614
+Bo Yang,3,617
+Xiao Fu,3,617
+David Gefen,3,481
+Paul A. Pavlou,3,481
+Gregory M. Rose,3,481
+Luheng He,3,44
+Marta Kwiatkowska,3,479
+Xiaowei Huang,3,479
+Min Wu,3,479
+Daniel Garcia-Romero,3,310
+Nicholas D. Sidiropoulos,3,617
+Mingyi Hong,3,617
+"Klambauer, Günter",3,112
+"Unterthiner, Thomas",3,112
+"Mayr, Andreas",3,112
+"Hochreiter, Sepp",3,112
+Mohammed Yeasin,3,625
+Noel Codella,3,625
+Xueyun Chen,3,645
+Mark R Symms,3,230
+Mara Cercignani,3,230
+Daniel H. Friend,3,776
+Ryan W. Thomas,3,776
+Luiz A. Dasilva,3,776
+Allen B. Mackenzie,3,776
+Darren R. Gitelman,3,247
+William D. Penny,3,247
+Karl J. Fristone,3,247
+Bowen Baker,3,220
+Otkrist Gupta,3,220
+Nikhil Naik,3,220
+Ramesh Raskar,3,220
+David Snyder,3,310
+Seyed-Mohsen Moosavi-Dezfooli,3,4
+B B Avants,3,59
+C L Epstein,3,59
+M Grossman,3,59
+J C Gee,3,59
+Mingsheng Long,3,4
+Yue Cao,3,4
+Jianmin Wang,3,4
+"Bardenet, Rémi",3,22
+irina rish,3,623
+pouya bashivan,3,623
+mohammed yeasin,3,623
+Noel C. F. Codella,3,623
+Irina Rish,3,625
+Pouya Bashivan,3,625
+Lili Cui,3,804
+Xin Zhang,3,804
+Paramvir Bahl,3,57
+Ramón Caceres,3,57
+Nigel Davies,3,57
+Stephan F. Taylor,3,47
+Shalini Gupta,3,78
+Kihwan Kim,3,78
+"Berkenkamp, Felix",3,626
+"Turchetta, Matteo",3,626
+Angela P. Schoellig,3,626
+"Krause, Andreas",3,626
+Ming-Wei Chang,3,76
+Jouni Lampinen,3,628
+Weiyang Liu,3,224
+Yandong Wen,3,224
+Mahdi Jafari Siavoshani,3,877
+Erik M. Altmann,3,875
+J. Gregory Trafton,3,875
+Derek P. Brock,3,875
+Farilee E. Mintz,3,875
+Mohammad Rastegari,3,55
+Vicente Ordonez,3,55
+Yunfei Chen,3,107
+Yanpei Liu,3,34
+"Schrauwen, Benjamin",3,10
+He Pengcheng,3,629
+"Bergstra, James",3,22
+"Kégl, Balázs",3,22
+Alhussein Fawzi,3,4
+Jan Koutník,3,10
+Faustino J. Gomez,3,10
+Amos Storkey,3,445
+Cuong V. Nguyen,3,884
+Yingzhen Li,3,884
+Thang D. Bui,3,884
+Guodong Wu,3,70
+Qian Du,3,70
+Siyu Shao,3,4
+Stephen McAleer,3,4
+Liu Xiaodong,3,629
+Gao Jianfeng,3,629
+Chen Weizhu,3,629
+Hongjian Sun,3,107
+Joseph Redmon,3,55
+Ali Farhadi,3,55
+Mohammad Lotfollahi,3,877
+Ramin Shirali Hossein Zade,3,877
+Srinivasan Iyer,3,44
+Alvin Cheung,3,44
+Anna Goldie,3,4
+Muhan Zhang,3,78
+Zhicheng Cui,3,78
+Marion Neumann,3,78
+Dan Klein,3,6
+Denny Britz,3,4
+Nikos Komodakis,3,116
+Torsten Rohlfing,3,768
+Randolf Menzel,3,768
+Calvin R Maurer,3,768
+Mohammdsadegh Saberian,3,877
+Faustino Gomez,3,10
+Timothy Hospedales,3,445
+Paul Micaelli,3,445
+"Bodel&#243;n, C",3,460
+Michael E. Hasselmo,3,460
+Bradley P. Wyble,3,460
+Clara Bodelón,3,460
+"Osband, Ian",3,10
+"Van Roy, Benjamin",3,10
+Brenden M. Lake,3,119
+Tomer D. Ullman,3,119
+Samuel J. Gershman,3,119
+Yi Sun,3,28
+Anthony I. Jack,3,675
+Helen L. Gallagher,3,675
+Andreas Roepstorff,3,675
+Robert Brandt,3,768
+Richard E. Turner,3,884
+Ioannis Konstas,3,44
+"Lu, Zhengdong",3,214
+E A Maguire,3,760
+N Burgess,3,760
+H J Spiers,3,760
+J O'Keefe,3,760
+Tomer Doitshman,3,641
+Yisroel Mirsky,3,641
+Yuval Elovici,3,641
+Asaf Shabtai,3,641
+Guorui Feng,3,107
+Qingping Lin,3,107
+Robert Gay,3,107
+Joel Emer,3,24
+Duo Wang,3,234
+Yu Cheng,3,234
+Pan Zhou,3,234
+Mantas Lukosevicius,3,3
+"Lee, Kibok",3,317
+"Lee, Kimin",3,317
+Aurko Roy,3,3
+Jacob Buckman,3,3
+Colin Raffel,3,3
+Joseph A. Maldjian,3,45
+Paul J. Laurienti,3,45
+Robert A. Kraft,3,45
+Jonathan H. Burdette,3,45
+Xinyu Zhou,3,6
+Mengxiao Lin,3,6
+V. Parmeshwaran,3,759
+Ethan Holly,3,4
+Xinyun Chen,3,34
+"Hu, Baotian",3,214
+Yong Rui,3,321
+"Aquino, A.",3,322
+"Shin, Jinwoo",3,317
+"Dzamba, Misko",3,22
+Sam Greydanus,3,22
+"Greydanus, Samuel",3,22
+Xiaofei He,3,76
+David N Kennedy,3,18
+"Levy, Omer",3,124
+Teresa L. Ju,3,54
+"Li, Hang",3,214
+"Chen, Qingcai",3,214
+M. Lawley,3,759
+N. Gebraeel,3,759
+R. Liu,3,759
+Herbert Jaeger,3,3
+Young-Seon Jeong,3,646
+Myong-Kee Jeong,3,646
+Mohammad R Arbabshirani,3,598
+Sergey Plis,3,598
+Jing Sui,3,598
+Kazuki Nakashima,3,645
+Hiroshi Sako,3,645
+Hiromichi Fujisawa,3,645
+Chia-Hui Yen,3,54
+Chun-Ming Chang,3,54
+Omar Fawzi,3,4
+David J. Wu,3,249
+Adam Coates,3,249
+Jun Xu,3,321
+Tao Mei,3,321
+Ting Yao,3,321
+Vijay Badrinarayanan,3,249
+Zhao Chen,3,249
+Murad Abu-Khalaf,3,453
+"Marin, D.",3,322
+"Gegundez-Arias, M.E.",3,322
+"Bravo, J.M.",3,322
+fan hu,3,323
+guisong xia,3,323
+jingwen hu,3,323
+liangpei zhang,3,323
+Devamanyu Hazarika,3,482
+Kenneth Kwok,3,482
+Ronald Clark,3,479
+Hongkai Wen,3,479
+Niki Trigoni,3,479
+Manoel Castro-Neto,3,646
+Stephen Merity,3,249
+Kai Yu,3,30
+Federico Monti,3,4
+Ron Levie,3,4
+Xavier Bresson,3,4
+Xiaojian Ding,3,107
+Ali Sharif Razavian,3,43
+Hossein Azizpour,3,43
+Josephine Sullivan,3,43
+Stefan Carlsson,3,43
+Hongyi Zhang,3,44
+David Lopez-Paz,3,44
+L. Upda,3,647
+Robi Polikar,3,647
+S. S. Upda,3,647
+Vasant Honavar,3,647
+"Tran, John",3,24
+Francesco Galluppi,3,329
+"Furber, S.B.",3,329
+Stephan F Taylor,3,47
+David G Gadian,3,327
+Sébastien Jean,3,3
+Hongsheng Li,3,28
+Tackgeun You,3,249
+Suha Kwak,3,249
+Bohyung Han,3,249
+"Kombrink, S.",3,207
+"Cernocky, J.H.",3,207
+Khaled Ben Letaief,3,208
+Kaushik R. Chowdhury,3,23
+David John Hughes,3,205
+Lee D. Han,3,646
+Alejandra Martínez-Monés,3,895
+Amy Soller,3,895
+Patrick Jermann,3,895
+Martin Muehlenbrock,3,895
+Jinjiang Wang,3,4
+Eric H. Huang,3,249
+Marc&apos;Aurelio Ranzato,3,44
+stefanie jegelka,3,202
+G Rizzolatti,3,749
+V Gazzola,3,749
+B Wicker,3,749
+C Keysers,3,749
+Maximilian Mumme,3,500
+Oleksandr Shchur,3,500
+"Han, Song",3,24
+"Pool, Jeff",3,24
+Jingzhou Liu,3,10
+Yuexin Wu,3,10
+Bart van Merrienboer,3,3
+Guokun Lai,3,10
+Wenyuan Zeng,3,3
+Bin Yang,3,3
+Emmanuel Maggiori,3,437
+Yuliya Tarabalka,3,437
+michael auli,3,6
+wojciech zaremba,3,6
+Moss Rowe,3,205
+Mark Batey,3,205
+Andrew Lee,3,205
+Roland Memisevic,3,3
+Bao-Liang Lu,3,331
+Hongming Zhou,3,107
+"Brox, Thomas",3,5
+Max Jaderberg,3,10
+hyun oh song,3,202
+yu xiang,3,202
+Adam Fisch,3,3
+Ed Bullmore,3,199
+Benjamin Bischke,3,748
+Patrick Helber,3,748
+Andreas Dengel,3,748
+Damian Borth,3,748
+Wang-Cheng Kang,3,117
+Guillaume Charpiat,3,437
+Pierre Alliez,3,437
+Deyi Li,3,339
+Kevin Clark,3,249
+Urvashi Khandelwal,3,249
+M D'Haene,3,433
+D Stroobandt,3,433
+J Pärkka,3,434
+M Ermes,3,434
+J Mantyjarvi,3,434
+I Korhonen,3,434
+Sergey Edunov,3,44
+F. Renkens,3,430
+J. Del R. Millan,3,430
+J. Mourino,3,430
+W. Gerstner,3,430
+Giuseppe Masi,3,280
+Giuseppe Scarpa,3,280
+Sophie Achard,3,199
+"Dosovitskiy, Alexey",3,5
+"Springenberg, Jost Tobias",3,5
+Matthew Hoffman,3,4
+P. Ravisankar,3,326
+G. Raghava Rao,3,326
+I. Bose,3,326
+Andre Teixeira Lopes,3,660
+Edilson de Aguiar,3,660
+Alberto F. De Souza,3,660
+Thiago Oliveira-Santos,3,660
+Maximilian Nickel,3,11
+Volker Tresp,3,11
+Evgeniy Gabrilovich,3,11
+Lin Sun,3,81
+Dit-Yan Yeung,3,81
+Bertram E. Shi,3,81
+B Schrauwen,3,433
+D Verstraeten,3,433
+Rogério Schmidt Feris,3,192
+Nuno Vasconcelos,3,192
+fan hong,3,667
+shuzhi sam ge,3,667
+"Lee, T.H.",3,667
+"Li, Yuanzhi",3,735
+Dan Cireşan,3,10
+Deirdre Quillen,3,4
+Adriano Pinto,3,130
+Sérgio Pereira,3,130
+Victor Alves,3,130
+Carlos A. Silva,3,130
+Matthew E. Peters,3,44
+Waleed Ammar,3,44
+Russell Power,3,44
+Jack W. Stokes,3,4
+Anthony Randal McIntosh,3,47
+Hervé Abdi,3,47
+Jimmy S. J. Ren,3,352
+"Xu, Li",3,352
+"Liu, Ce",3,352
+"Jia, Jiaya",3,352
+Ran He,3,178
+Xiaoqian J. Chai,3,426
+Dost Öngür,3,426
+Pedro Pereira Rodrigues,3,190
+"Lu, Jiasen",3,191
+"Yang, Jianwei",3,191
+"Batra, Dhruv",3,191
+"Parikh, Devi",3,191
+Quanfu Fan,3,192
+Zhaowei Cai,3,192
+Seppo Pahnila,3,428
+"Jaderberg, Max",3,10
+"Simonyan, Karen",3,10
+"Zisserman, Andrew",3,10
+"Qi, Charles Ruizhongtai",3,22
+"Yi, Li",3,22
+"Su, Hao",3,22
+Barnabás Póczos,3,126
+luisa verdoliva,3,669
+Chakraborty Rudrasis,3,187
+Yu Stella X.,3,187
+João Gama,3,190
+"Chen, Danqi",3,249
+"Socher, Richard",3,249
+"Manning, Christopher D.",3,249
+Lynne J Williams,3,47
+Yaniv Taigman,3,30
+S Smith,3,31
+Alfonso Nieto-Castañón,3,426
+Kailash Gopalakrishnan,3,137
+Pritish Narayanan,3,137
+Claus Lamm,3,138
+Pedro Medas,3,190
+Gladys Castillo,3,190
+Chen Yubei,3,187
+Wang Jiayun,3,187
+"Hang, C.C.",3,667
+giovanni poggi,3,669
+marco castelluccio,3,669
+carlo sansone,3,669
+Susan L. Whitfield-Gabrieli,3,426
+Mikko Siponen,3,428
+mohit bansal,3,725
+kevin gimpel,3,725
+karen livescu,3,725
+Michael J Tarr,3,672
+J. D. Poplinski,3,177
+Chen Lu,3,6
+Zhen-Ya Wang,3,6
+Wei-Li Qin,3,6
+Bruno Rossion,3,672
+Carrie A Joyce,3,672
+Garrison W Cottrell,3,672
+Ankur Agrawal,3,137
+Austin R. Benson,3,117
+Xiang Wu,3,178
+Zhenan Sun,3,178
+Anish Rajendra Singh,3,126
+Michael Fauser,3,909
+Paul Bergmann,3,909
+David Sattlegger,3,909
+Chelsea Finn,3,4
+Pascal Fries,3,25
+Eric Maris,3,25
+Jan-Mathijs Schoffelen,3,25
+Giacomo Indiveri,3,417
+Madiha J. Jafri,3,3
+Michael C. Stevens,3,3
+Mohit Iyyer,3,416
+Varun Manjunatha,3,416
+Jordan L. Boyd-Graber,3,416
+Hal Daumé III,3,416
+Carsten Steger,3,909
+john wieting,3,725
+Godfrey D. Pearlson,3,3
+iulian serban,3,3
+Ryan S. J. d. Baker,3,407
+Sidney K. D'Mello,3,407
+Ma.Mercedes T. Rodrigo,3,407
+Arthur C. Graesser,3,407
+Timothy W. Simpson,3,177
+P. N. Koch,3,177
+J. K. Allen,3,177
+Hongyu Zhang,3,910
+Xiaodong Gu,3,910
+Dongmei Zhang,3,910
+Sunghun Kim,3,910
+Cheng-Yi Liu,3,81
+Juan Eugenio Iglesias,3,81
+Min Lim Choo,3,80
+"Clune, Jeff",3,22
+"Lipson, Hod",3,22
+Mehmet C. Vuran,3,23
+"Ranzato, M.",3,679
+"Zeiler, M.D.",3,679
+"Monga, R.",3,679
+"Mao, M.",3,679
+Cliff Chiung-Yu Lin,3,249
+Huei-Fang Yang,3,680
+Balázs Hidasi,3,139
+Linas Baltrunas,3,139
+Domonkos Tikk,3,139
+Meng Joo Er,3,413
+Shiqian Wu,3,413
+Juwei Lu,3,413
+Hock Lye Toh,3,413
+Kaichun Mo,3,19
+ashutosh saxena,3,202
+Shantidev Mohanty,3,23
+Narendra Ahuja,3,81
+"Kulkarni, Tejas D.",3,119
+"Whitney, William F.",3,119
+"Kohli, Pushmeet",3,119
+amir roshan zamir,3,202
+ashesh jain,3,202
+nissan pow,3,3
+ryan lowe,3,3
+Yiran Chen,3,681
+N Kannathal,3,80
+P K Sadasivan,3,80
+Wei-Sheng Lai,3,81
+Justin Johnson,3,11
+"Sindhwani, V.",3,683
+"Arisoy, E.",3,683
+Luisa M. Zintgraf,3,83
+Tameem Adel,3,83
+Kevin Lin,3,680
+Jen-Hao Hsiao,3,680
+Chu-Song Chen,3,680
+Mathieu Germain,3,3
+Iain Murray,3,3
+Linghao Song,3,681
+Xuehai Qian,3,681
+Hai Li,3,681
+Angelos Katharopoulos,3,916
+Apoorv Vyas,3,916
+Nikolaos Pappas,3,916
+Francois Fleuret,3,916
+V. Roto,3,686
+J. Kuorelahti,3,686
+Lerrel Pinto,3,6
+Morten Kolbæk,3,76
+Nicholas J Schmansky,3,120
+H Diana Rosas,3,120
+Jongchan Park,3,717
+Sanghyun Woo,3,717
+Joon-Young Lee,3,717
+In So Kweon,3,717
+Shin-ichi Maeda,3,3
+Masanori Koyama,3,3
+Shin Ishii,3,3
+oriol vinyals,3,142
+"Kingsbury, B.",3,683
+"Sainath, T.N.",3,683
+Lang Tong,3,70
+C Brunner,3,368
+G Pfurtscheller,3,368
+A Schlögl,3,368
+F H Lopes da Silva,3,368
+Kai Keng Ang,3,370
+Zhang Yang Chin,3,370
+Haihong Zhang,3,370
+Cuntai Guan,3,370
+Le Kang,3,67
+Peng Ye,3,67
+David S. Doermann,3,67
+Yunxia Chen,3,70
+Martin Reuter,3,120
+A. Oulasvirta,3,686
+S. Tamminen,3,686
+Kai Arulkumaran,3,165
+Marc Peter Deisenroth,3,165
+Zheng-Hua Tan,3,76
+Jesper Jensen,3,76
+Kyong Hwan Jin,3,166
+Michael T. McCann,3,166
+Emmanuel Froustey,3,166
+Michael Unser,3,166
+"Akyildiz, I.F.",3,23
+"Vuran, Mehmet C.",3,23
+Ricardo de Oliveira-Souza,3,715
+Ivanei E Bramati,3,715
+Jordan Grafman,3,715
+olga russakovsky,3,11
+serena yeung,3,11
+greg mori,3,11
+"Bengio, Samy",3,10
+"Jaitly, Navdeep",3,10
+"Shazeer, Noam",3,10
+Theodore Bluche,3,3
+V. Pham,3,3
+Christopher Kermorvant,3,3
+Albert T. Corbett,3,405
+Ryan Shaun Baker,3,405
+Jorge Moll,3,715
+Nicole D Anderson,3,146
+Jill K Locantore,3,146
+Anthony R McIntosh,3,146
+"Mohanty, S.",3,23
+James Martens,3,4
+Beibei Wang,3,167
+Alexander Kolesnikov,3,400
+jason weston,3,6
+F F Leung,3,372
+H K Lam,3,372
+S H Ling,3,372
+P S Tam,3,372
+Stephen Smith,3,18
+Jian Sun 0001,3,6
+Peter Bannister,3,18
+Michael Brady,3,18
+Ankur Handa,3,917
+John McCormac,3,917
+Andrew J. Davison,3,917
+Stefan Leutenegger,3,917
+Saeid Nahavandi,3,838
+Miles Brundage,3,165
+Anil Anthony Bharath,3,165
+Yaguang Li,3,44
+Doug Creighton,3,838
+Amir F Atiya,3,838
+Jason B. Diamond,3,399
+Rasmus M. Birn,3,399
+Monica A. Smith,3,399
+Peter A. Bandettini,3,399
+Rong Zheng,3,250
+Cyrus Shahabi,3,44
+Ke Yu,3,28
+Xintao Wang,3,28
+Emilio Kropff,3,652
+James E. Carmichael,3,652
+Edvard I. Moser,3,652
+antoine bordes,3,6
+felix hill,3,6
+Hinrich Schütze,3,396
+C. L. Philip Chen,3,919
+Guo-Xing Wen,3,919
+Yan-Jun Liu,3,919
+Fei-Yue Wang,3,919
+Chee-Kheong Siew,3,107
+"Schlipsing, M.",3,692
+Jeremy Bernstein,3,693
+Yu-Xiang Wang,3,693
+"Schalk, G.",3,160
+"Hinterberger, T.",3,160
+"Birbaumer, N.",3,160
+Angela Z. Wagner,3,405
+Feng Wang,3,11
+Xiang Xiang,3,11
+Rose Yu,3,44
+daniel jurafsky,3,163
+Adhiguna Kuncoro,3,44
+Xavier Glorot,3,3
+Eduardo Romera,3,376
+Jiexun Li,3,250
+Jose M. Alvarez,3,376
+Luis Miguel Bergasa,3,376
+"Houben, S.",3,692
+"Stallkamp, J.",3,692
+"Salmen, J.",3,692
+Feifei Li,3,194
+Min Du,3,194
+Guineng Zheng,3,194
+Katharina Kann,3,396
+Wenpeng Yin,3,396
+Mo Yu,3,396
+"Povey, D.",3,207
+yann lecun,3,152
+Yacine Jernite,3,44
+Chao Ma,3,81
+"McFarland, D.J.",3,160
+Iñaki Iturrate,3,697
+Javier M. Antelis,3,697
+Andrea Kübler,3,697
+Javier Minguez,3,697
+Andrew Brock,3,698
+Theodore Lim,3,698
+James Millar Ritchie,3,698
+Nicholas J. Weston,3,698
+Ari Seff,3,6
+xinlei chen,3,163
+eduard hovy,3,163
+Roberto Arroyo,3,376
+Andres Milioto,3,924
+Ignacio Vizzo,3,924
+Jens Behley,3,924
+Cyrill Stachniss,3,924
+MaríA José RodríGuez-FóRtiz,3,925
+ÁLvaro FernáNdez-LóPez,3,925
+MaríA Luisa RodríGuez-Almendros,3,925
+Greg Corrado,3,4
+Santosh Kumar Divvala,3,6
+joseph redmon,3,6
+Chenyi Chen,3,6
+Alain L. Kornhauser,3,6
+Dong Yi,3,158
+Shengcai Liao,3,158
+"Deoras, A.",3,207
+"Ren, Shaoqing",3,6
+"Stilla, U.",3,400
+Amitabh Basu,3,519
+jian sun,3,0
+shaoqing ren,3,0
+xiangyu zhang,3,0
+Sebastian Cammerer,3,704
+Sebastian Dörner,3,704
+Jakob Hoydis,3,704
+Stephan ten Brink,3,704
+Kimin Lee,3,249
+Kibok Lee,3,249
+Jinwoo Shin,3,249
+Jurgen Schmidhuber,3,10
+Osamu Fukuda,3,707
+Toshio Tsuji,3,707
+Marek Reformat,3,841
+Kazuma Hashimoto,3,249
+Yoshimasa Tsuruoka,3,249
+Jian Liu,3,842
+Mika Juuti,3,842
+Poorya Mianjy,3,519
+Anirbit Mukherjee,3,519
+Yuxuan Wang,3,189
+Hui Yuan Xiong,3,928
+Michael K. K. Leung,3,928
+Leo J. Lee,3,928
+Brendan J. Frey,3,928
+hinrich schutze,3,380
+wenpeng yin,3,380
+MaríA José MartíNez-Segura,3,925
+"He, Kaiming",3,6
+"Hinton, Geoffrey E.",2,1
+Olaf Ronneberger,2,5
+Kuniaki Saito,2,241
+Yoshitaka Ushiku,2,241
+Tatsuya Harada,2,241
+Arun Narayanan,2,189
+Daniel Holden,2,8
+Jun Saito,2,8
+Taku Komura,2,8
+"Krizhevsky, Alex",2,1
+Seth Rogers,2,389
+Pat Langley,2,389
+John E. Laird,2,389
+Fabrizio Esposito,2,388
+Johan Himberg,2,388
+Aapo Hyvärinen,2,388
+Qiongkai Xu,2,394
+Wei Lu,2,394
+Shaosheng Cao,2,394
+Okyay Kaynak,2,391
+Erdal Kayacan,2,391
+Baris Ulutas,2,391
+Ran El Yaniv,2,3
+Robert Jenke,2,710
+Angelika Peer,2,710
+Zhe Wu,2,81
+Li Su,2,81
+Hugh Herr,2,709
+Samuel Au,2,709
+Max Berniker,2,709
+Thalaiyasingam Ajanthan,2,81
+Namhoon Lee,2,81
+Anant Sahai,2,155
+Anand Rangarajan,2,11
+Russ Tedrake,2,711
+Vincent Tjeng,2,711
+Kai Xiao,2,711
+Martin Buss,2,710
+Cordelia Schmid,2,3
+Guilhem Chéron,2,3
+michael mathieu,2,152
+camille couprie,2,152
+Grégoire Montavon,2,151
+sheng wang,2,117
+Wu-Jun Li,2,117
+Deepak Khosla,2,126
+Yongqiang Cao,2,126
+Robin Jia,2,117
+Pranav Rajpurkar,2,117
+Nicol N. Schraudolph,2,10
+Felix A. Gers,2,10
+Germán Kruszewski,2,159
+Marco Baroni,2,159
+Georgiana Dinu,2,159
+"Greff, Klaus",2,10
+Jehoshua Bruck,2,374
+Lulu Qian,2,374
+Nancy A. Cheever,2,377
+"Saunders, J.R.",2,922
+Gang Sun,2,10
+Jie Hu,2,10
+"Wu, Q.H.",2,922
+"He, S.",2,922
+James J DiCarlo,2,921
+Nicolas Pinto,2,921
+David D Cox,2,921
+Byron C. Wallace,2,12
+Juan Carlos Roca,2,54
+Chris J. Maddison,2,3
+Roberto Cipolla,2,145
+Matthew Grimes,2,145
+Rajkumar Buyya,2,714
+Suraj Pandey,2,714
+Mahmut Ozer,2,689
+Umut Orhan,2,689
+Christian Vecchiola,2,714
+Matt Fredrikson,2,70
+Kouichi Sakurai,2,144
+Jiawei Su,2,144
+Danilo Vasconcellos Vargas,2,144
+Sebastian Gehrmann,2,44
+Tom Mitchell,2,10
+Joseph W Kable,2,170
+Oscar Bartra,2,170
+Joseph T McGuire,2,170
+"Erhan, Dumitru",2,169
+Mahmut Hekim,2,689
+Francisco José Martínez,2,54
+roberto cipolla,2,14
+vijay badrinarayanan,2,14
+alex kendall,2,14
+Steve Lawrence,2,48
+C. Lee Giles,2,48
+"Neubig, Graham",2,124
+"Michel, Paul",2,124
+Melek Acar Boyacioglu,2,397
+Hsun-Ping Hsieh,2,203
+Furui Liu,2,203
+ÖMer Kaan Baykan,2,397
+Yakup Kara,2,397
+baoliang lu,2,918
+"Curio, Gabriel",2,678
+"Blankertz, Benjamin",2,678
+Thomas Elsken,2,5
+Jan Hendrik Metzen,2,5
+Alex Kendall,2,145
+"Toshev, Alexander",2,169
+"Szegedy, Christian",2,169
+Xiao-Wei Wang,2,331
+Dan Nie,2,331
+Soumith Chintala,2,4
+Pierre Sermanet,2,4
+Xiaohua Zhai,2,400
+A M Dale,2,174
+B Fischl,2,174
+A Liu,2,174
+Qiang Wu,2,412
+Ping Li,2,412
+Hiroshi Ishikawa,2,11
+Satoshi Iizuka,2,11
+weilong zheng,2,918
+jiayi zhu,2,918
+Sungyong Seo,2,44
+Natali Ruchansky,2,44
+Alexander Hermans,2,400
+Joost N. Kok,2,369
+sander m bohte,2,369
+johannes a la poutre,2,369
+cordelia schmid,2,401
+ivan laptev,2,401
+gul varol,2,401
+Seunghyun Lee,2,107
+Mohamed Ahmed,2,141
+Mathias Niepert,2,141
+Oral Büyüköztürk,2,140
+Young-Jin Cha,2,140
+Wooram Choi,2,140
+Hai Jiang,2,723
+Saman Atapattu,2,723
+Arsha Nagrani,2,10
+Mateusz Buda,2,176
+Atsuto Maki,2,176
+Chintha Tellambura,2,723
+Peicheng Zhou,2,402
+Glenn A. Woodell,2,673
+Zia-ur Rahman,2,673
+Daniel J. Jobson,2,673
+Ye Jong Chul,2,726
+Park Sangjoon,2,726
+Oh Yujin,2,726
+Konstantin Kutzkov,2,141
+Maxine Eskénazi,2,677
+Tiancheng Zhao,2,677
+Ran Zhao,2,677
+Daniel Zügner,2,500
+Amir Akbarnejad,2,500
+Kaibin Huang,2,107
+martin arjovsky,2,40
+amar shah,2,40
+Rob Hyndman,2,730
+Xiaozhe Wang,2,730
+Kate Smith,2,730
+Marcel Salathé,2,728
+Sharada Prasanna Mohanty,2,728
+David P. Hughes,2,728
+Hehe Fan,2,30
+Joon Son Chung,2,10
+yuan lan,2,180
+dian hui wang,2,180
+Guang-Bin HuangDian,2,180
+Maria-Gabriella Di Benedetto,2,915
+Emilio Calvanese Strinati,2,915
+Antonio De Domenico,2,915
+G. Sandini,2,914
+Ravi Netravali,2,406
+Hongzi Mao,2,406
+Mohammad Alizadeh,2,406
+G. Metta,2,914
+Kolbeinn Arnason,2,457
+Martino Pesaresi,2,457
+M. Veerachary,2,732
+Tania Singer,2,138
+A. Mohamed,2,50
+James L. McClelland,2,4
+Andrew M. Saxe,2,4
+"Chen, Enhong",2,182
+"Xu, Linli",2,182
+"Xie, Junyuan",2,182
+Julian McAuley,2,117
+Terrence Sejnowski,2,181
+K. Uezato,2,732
+T. Senjyu,2,732
+Friedemann Zenke,2,4
+Ronald M. Summers,2,188
+Bram van Ginneken,2,188
+Micah Ortúzar,2,668
+Juan Dixon,2,668
+Jorge Moreno,2,668
+LA Zadeh,2,186
+D. Vernon,2,914
+Thomas A. W. Bolton,2,409
+Maria Giulia Preti,2,409
+Quoc Viet Le,2,412
+robert j ragno,2,412
+Gregory Shakhnarovich,2,411
+Michael Maire,2,411
+Gustav Larsson,2,411
+Cecilia Ovesdotter Alm,2,358
+Brian Funt,2,736
+Vlad Cardei,2,736
+Kobus Barnard,2,736
+"Liang, Yingyu",2,735
+"Allen-Zhu, Zeyuan",2,735
+Carl Kesselman,2,734
+Nicholas R. Jennings,2,734
+Ian T. Foster,2,734
+Natarajan Sriraam,2,666
+Vairavan Srinivasan,2,666
+Ravikumar Balakrishnan,2,23
+Brandon F. Lo,2,23
+Qi Tian,2,30
+Hong-Yuan Mark Liao,2,662
+Chien-Yao Wang,2,662
+Alexey Bochkovskiy,2,662
+cong yao,2,132
+xiang bai,2,132
+baoguang shi,2,132
+Peter R. Conwell,2,738
+Sepp Hochreiter,2,738
+A. Steven Younger,2,738
+Rie Johnson,2,364
+"Wang, M.Q.",2,362
+"Gooi, H.B.",2,362
+"Chen, S.X.",2,362
+Rodney Douglas,2,417
+Elisabetta Chicca,2,417
+Qingquan Song,2,249
+Haifeng Jin,2,249
+H BARBAS,2,742
+H GHASHGHAEI,2,742
+C HILGETAG,2,742
+Robert R. Hoffman,2,741
+Gary Klein,2,741
+Brian Moon,2,741
+Chikkannan Eswaran,2,666
+Mathews Jacob,2,665
+Merry P. Mani,2,665
+Hemant Kumar Aggarwal,2,665
+"Reed, J.H.",2,359
+"Thomson, D.J.",2,359
+"Haykin, Simon",2,359
+Richard Sproat,2,358
+Dan Roth,2,358
+Qiang Chen,2,26
+Nahid Dadmehr,2,80
+Xin Geng,2,103
+De-Chuan Zhan,2,103
+Leonardo Bonilha,2,420
+Hans-Otto Karnath,2,420
+Chris Rorden,2,420
+kyuyeon hwang,2,747
+Wenyan Gan,2,339
+Changyu Liu,2,339
+Samanwoy Ghosh-Dastidar,2,80
+H. T. Kung,2,744
+Surat Teerapittayanon,2,744
+Bradley McDanel,2,744
+wonyong sung,2,747
+sajid anwar,2,747
+Reza Forghani,2,173
+Alex P. Zijdenbos,2,173
+Chukwudi Anyakoha,2,655
+Jonathan Vincent,2,655
+Alec Banks,2,655
+David F. Gleich,2,117
+Charles A. Sutton,2,249
+Miltiadis Allamanis,2,249
+Wang-Chien Lee,2,158
+Tao-Yang Fu,2,158
+Ryan Prescott Adams,2,3
+"Fergus, Rob",2,424
+"szlam, arthur",2,424
+"Sukhbaatar, Sainbayar",2,424
+Nicholas Frosst,2,4
+Alice S. N. Kim,2,204
+Raymond A. Mar,2,204
+Laurent Dinh,2,3
+David Krueger,2,3
+Thomas P. Karnowski,2,201
+"Rose, D.C.",2,201
+Itamar Arel,2,201
+Alexandra Birch,2,127
+Rico Sennrich,2,127
+Barry Haddow,2,127
+Sara Sabour,2,4
+P Mitra,2,422
+S Mitra,2,422
+S K Pal,2,422
+Y Zhang,2,31
+M Brady,2,31
+Alan Evans,2,839
+Alex Zijdenbos,2,839
+Seyed-Ahmad Ahmadi,2,33
+Nassir Navab,2,33
+junyuan xie,2,6
+Sandra Streukens,2,649
+Rita Walczuch,2,649
+Jos Lemmink,2,649
+Ligeng Zhu,2,24
+Han Cai,2,24
+"Leahy, R.M.",2,206
+"Mosher, J.C.",2,206
+"Baillet, S.",2,206
+Fausto Milletari,2,33
+Anthony Vance,2,428
+G Jobard,2,13
+Heiga Ze,2,4
+Fuxin Li,2,353
+Zhongang Qi,2,353
+Wenxuan Wu,2,353
+Mario Fritz,2,6
+Mateusz Malinowski,2,6
+M. Adam Mahmood,2,428
+Ran Li,2,642
+Romain Paulus,2,249
+"Nowozin, Sebastian",2,215
+"Cseke, Botond",2,215
+Robert Turner,2,123
+Thomas R. Knösche,2,123
+Derek K. Jones,2,123
+yishu miao,2,754
+lei yu,2,754
+Abdulkadir Sengur,2,757
+Resul Das,2,757
+Ibrahim Turkoglu,2,757
+Paul C. Miller,2,756
+Niall McLaughlin,2,756
+Jesús Martínez del Rincón,2,756
+phil blunsom,2,754
+Thomas A. Funkhouser,2,5
+Fisher Yu,2,5
+Choong-Wan Woo,2,47
+Tsung-Yi Lin,2,4
+Golnaz Ghiasi,2,4
+Ali Mollahosseini,2,341
+Pouya Samangouei,2,251
+Xiaojun Zeng,2,36
+Johan Bollen,2,36
+Huina Mao,2,36
+Maya Kabkab,2,251
+Andrew Senior,2,68
+Mohammad H. Mahoor,2,341
+Behzad Hassani,2,341
+Zeyuan Allen-Zhu,2,6
+Karl T. Ulrich,2,439
+Karan Girotra,2,439
+Inyeop Lee,2,639
+Yuanqing Lin,2,762
+Wongun Choi,2,762
+Fan Yang,2,762
+Tobias Domhan,2,5
+Tae Hyun Kim,2,56
+Amit Kadam,2,217
+Glenn Walker,2,217
+Dursun Delen,2,217
+Minghao Xu,2,642
+Heng Shi,2,642
+Maxim Egorov,2,196
+John C. Duchi,2,635
+Hongseok Namkoong,2,635
+Aman Sinha,2,635
+Herbert Kimura,2,765
+Flavio Barboza,2,765
+Fatih Porikli,2,764
+Samitha Herath,2,764
+Mehrtash Tafazzoli Harandi,2,764
+Jayesh K. Gupta,2,196
+Christoph M Michel,2,409
+Juliane Britz,2,409
+Christian Lebiere,2,640
+Javier F Lerch,2,640
+Cleotilde Gonzalez,2,640
+Jaewoo Kang,2,639
+Junhyun Lee,2,639
+Vitali Petsiuk,2,6
+Abir Das,2,6
+Edward Altman,2,765
+Koene R. A. Van Dijk,2,120
+Qiang Wang,2,638
+Zhipeng Zhang,2,638
+Houwen Peng,2,638
+Ainur Yessenalina,2,79
+Nikos Karampatziakis,2,79
+Emily S. Cross,2,637
+Antonia F. de C. Hamilton,2,637
+Michael Zollh&ouml;fer,2,440
+Sachin Sudhakar Farfade,2,11
+Mohammad J. Saberian,2,11
+Paulo Rita,2,267
+Sérgio Moro,2,267
+Stephen F Gull,2,631
+"Auld, T.",2,631
+Andrew W Moore,2,631
+Spyros Gidaris,2,116
+Praveer Singh,2,116
+Christian Terwiesch,2,439
+"Vandergheynst, Pierre",2,35
+"Defferrard, Michaël",2,35
+"Bresson, Xavier",2,35
+david silver,2,39
+hado van hasselt,2,39
+arthur guez,2,39
+alexandra birch,2,38
+rico sennrich,2,38
+barry haddow,2,38
+P. Mitra,2,897
+V. Talwar,2,897
+Chris D. Frith,2,247
+James M. Kilner,2,247
+Pingzhi Fan,2,178
+Sida D. Wang,2,4
+"Dieleman, Sander",2,10
+Amanpreet Singh,2,249
+Alex Warstadt,2,249
+Gerald Matthews,2,630
+Raja Parasuraman,2,630
+Joel S. Warm,2,630
+Yanjun Qi,2,221
+Weilin Xu,2,221
+David Evans,2,221
+Peter Shaw,2,4
+Donald S. Williamson,2,189
+"Soudry, Daniel",2,622
+"Hubara, Itay",2,622
+"Hoffer, Elad",2,622
+Joni-Kristian Kamarainen,2,628
+Jarmo Ilonen,2,628
+S. K. Pal,2,897
+Zhanshan Wang,2,804
+Yuanzhi Li,2,6
+jimeng sun,2,333
+mohammad taha bahadori,2,333
+edward choi,2,333
+Nitish Shirish Keskar,2,249
+Zhao Yin,2,330
+Yuhao Chen,2,330
+Martin Haenggi,2,332
+Hesham ElSawy,2,332
+Ekram Hossain,2,332
+Jan Peters,2,4
+Pulkit Agrawal,2,6
+João Carreira,2,6
+Ian D. Reid 0001,2,223
+Vijay Kumar BG,2,223
+Ravi Garg,2,223
+Mihalis A. Nicolaou,2,76
+Hatice Gunes,2,76
+Dan Alistarh,2,3
+Antonio Polino,2,3
+Aleksandar Jovičic,2,449
+K. Letaief,2,208
+R. Mallik,2,208
+Harrison A Edwards,2,445
+Carl Doersch,2,6
+Tomoharu Nagao,2,781
+Shinichi Shirakawa,2,781
+Masanori Suganuma,2,781
+Wey-Shiuan Hwang,2,780
+Yilu Zhang,2,780
+Juyang Weng,2,780
+Jose C. Principe,2,450
+Liuqing Yang,2,450
+Dongliang Duan,2,450
+A. Jovicic,2,449
+Pramod Viswanath,2,449
+Eero P. Simoncelli,2,11
+Valero Laparra,2,11
+Frank L Lewis,2,453
+Asma Al-Tamimi,2,453
+Jesse Rissman,2,183
+Adam Gazzaley,2,183
+Abdelsamea Mohammed M.,2,607
+Chunlei Liu,2,70
+Bing Wu,2,70
+P. S. Sastry,2,783
+Himanshu Kumar,2,783
+Aritra Ghosh,2,783
+Lawrence A. Shepp,2,615
+Pedro C. Pinto,2,615
+Moe Z. Win,2,615
+"Sun, C.",2,613
+"He, W.",2,613
+"Dong, Y.",2,613
+Abbas Asmaa,2,607
+Bart De Moor,2,603
+Joos Vandewalle,2,603
+Victor Zhong,2,249
+Kathy Wachter,2,610
+Young Hoon Kim,2,610
+Dan J. Kim,2,610
+Gaber Mohamed Medhat,2,607
+Susan Reading,2,890
+Tor D. Wager,2,890
+John Jonides,2,890
+Nicole A. Lazar,2,47
+Christopher R. Genovese,2,47
+sepp hochreiter,2,46
+thomas unterthiner,2,46
+Daniel Quang,2,10
+Greg Wayne,2,10
+John Berkowitz,2,110
+Johan A. K. Suykens,2,603
+Narin Ali,2,228
+Kaya Ceren,2,228
+H. Handels,2,225
+M. Egmont-Petersen,2,225
+D. de Ridder,2,225
+Djork-Arné Clevert,2,46
+Yannis Manolopoulos,2,456
+Efstathios Kirkos,2,456
+Charalambos Spathis,2,456
+Tülay Adali,2,3
+Jingyu Liu,2,3
+"Murray, Iain",2,459
+"Pavlakou, Theo",2,459
+"Papamakarios, George",2,459
+Abigail Morrison,2,601
+Zheng Hui,2,792
+Xiumei Wang,2,792
+Wei Tang,2,103
+Jianxin Wu,2,103
+"Doyle, L.E.",2,602
+"Sutton, P.D.",2,602
+"Nolan, K.E.",2,602
+Bernard Voon Ee How,2,525
+Mou Chen,2,525
+Shaul Fox,2,600
+Yair Amichai-Hamburger,2,600
+Galit Wainapel,2,600
+Yifei Chen,2,10
+Emre Sargin,2,97
+Paul Covington,2,97
+Jay Adams,2,97
+Yongle Wu,2,167
+Scott H. Johnson-Frey,2,637
+Kenneth R. Leslie,2,637
+Pamuk Ziynet,2,228
+Sungroh Yoon,2,233
+Seonwoo Min,2,233
+Byunghan Lee,2,233
+Yunhong Wang,2,232
+Zhengxin Zhang,2,232
+Qingjie Liu,2,232
+Wulfram Gerstner,2,601
+Masashi Sugiyama,2,151
+Pall Oskar Gislason,2,457
+Ran Tao,2,10
+Lorenzo Bruzzone,2,312
+Steven M. Seitz,2,463
+Feng Liu,2,795
+Simon Niklaus,2,795
+Long Mai,2,795
+Tao Lei,2,596
+Regina Barzilay,2,596
+Biing Hwang Juang,2,6
+K.J. Ray Liu,2,167
+Andrzej Skowron,2,101
+Jason Gauci,2,63
+David B. D'Ambrosio,2,63
+L. Harrison,2,50
+"LeCun, Yann",2,49
+"Zhao, Junbo",2,49
+"Zhang, Xiang",2,49
+Jonathan D Power,2,467
+Bradley L Schlaggar,2,467
+Rufin van Rullen,2,181
+Brandon Van Der Heide,2,465
+Patric R. Spence,2,465
+"Zhao, Cong",2,799
+"Lin, Xiaofan",2,799
+Shay B. Cohen,2,324
+Shashi Narayan,2,324
+Jianwei Yang,2,17
+Yishay Mansour,2,249
+Michael J. Kearns,2,249
+Shou-Yang Wang,2,240
+Yoshiteru Nakamori,2,240
+Wei Huang,2,240
+Chris Christodoulou,2,588
+Chrisina Draganova,2,588
+Andreas Lanitis,2,588
+Chunhua Sun,2,208
+Meire Fortunato,2,4
+Lei Chen,2,107
+orhan firat,2,40
+kyunghyun cho,2,40
+Orkun Tunçel,2,801
+Kerem Altun,2,801
+Billur Barshan,2,801
+jonathon shlens,2,82
+"Pan, Wei",2,799
+David Westerman,2,465
+Ira Kemelmacher-Shlizerman,2,463
+Supasorn Suwajanakorn,2,463
+Arnold W. M. Smeulders,2,10
+Leon A. Gatys,2,53
+Alexander S. Ecker,2,53
+Shakir Mohamed,2,10
+Jeff Moehlis,2,811
+Abigail See,2,4
+John M. Ollinger,2,183
+Daniel A. Handwerker,2,183
+Xuanjing Huang,2,242
+Xipeng Qiu,2,242
+Pengfei Liu,2,242
+Yongqiang Wang,2,76
+Michael L. Seltzer,2,76
+Joni Dambre,2,10
+Kyle W. Willett,2,10
+Walter Schneider,2,809
+Y Liang,2,248
+S Arora,2,248
+Chaitanya Ekanadham,2,249
+Alfredo Canziani,2,156
+ruslan salakhutdinov,2,581
+shikhar sharma,2,581
+ryan kiros,2,581
+C. Neil Macrae,2,580
+Mahzarin R. Banaji,2,580
+Jason P. Mitchell,2,580
+Eric Brown,2,811
+Henrik I. Christensen,2,876
+Takashi Yokomori,2,470
+Mihai Ionescu,2,470
+Gheorghe Păun,2,470
+Tugrul U. Daim,2,469
+Gulgun Kayakutlu,2,469
+Erkam Guresen,2,469
+Steven E Petersen,2,467
+David Daniel Cox,2,474
+William Edward Lotter,2,474
+Gabriel Kreiman,2,474
+Frank E. Curtis,2,3
+Anshul Kundaje,2,90
+Peyton Greenside,2,90
+Avanti Shrikumar,2,90
+Christoph Feichtenhofer,2,10
+Axel Pinz,2,10
+Jiexiong Tang,2,107
+Chenwei Deng,2,107
+T Ma,2,248
+Paul M. Hubel,2,578
+Steven D. Hordley,2,578
+Graham D. Finlayson,2,578
+sicheng zhao,2,813
+yasi wang,2,813
+hongxun yao,2,813
+Han Zhang,2,570
+Samuel D. Bond,2,570
+Dezhi Yin,2,570
+Carlos Guestrin,2,569
+Tianqi Chen,2,569
+Emily B. Fox,2,569
+Michael Zollhöfer,2,280
+Jorge Nocedal,2,3
+Fabien Michel,2,472
+Olivier Gutknecht,2,472
+Jacques Ferber,2,472
+Eric T. G. Wang,2,54
+Simone Frintrop,2,876
+Erich Rome,2,876
+Claire Cardie,2,873
+Xinya Du,2,873
+Vijayaditya Peddinti,2,310
+Dilip Krishnan,2,6
+Xiaowen Chu,2,568
+Xin He,2,568
+Kaiyong Zhao,2,568
+"Dittenbach, M.",2,814
+"Rauber, A.",2,814
+"Merkl, D.",2,814
+Fabio Roli,2,308
+manjunath kudlur,2,142
+samy bengio,2,142
+Junru Shao,2,873
+Zhihua Qu,2,453
+Hongwei Zhang,2,453
+"Bach, Francis",2,871
+"Oyallon, Edouard",2,871
+Tomasz Malisiewicz,2,249
+Daniel DeTone,2,249
+I. Elamvazuthi,2,259
+Mumtaj Begam,2,259
+Lindasalwa Muda,2,259
+Ray J. Tsai,2,252
+Sheng Wu,2,252
+Cathy S. Lin,2,252
+Rajeev Ranjan,2,251
+Chen Chen,2,819
+Liu Mengyuan,2,819
+Liu Hong,2,819
+johan perols,2,823
+anol bhattacherjee,2,823
+Tal Linzen,2,249
+Emmanuel Dupoux,2,249
+Lifeng Shang,2,126
+Yuan Luo,2,262
+Liang Yao,2,262
+Chengsheng Mao,2,262
+C Daniel Batson,2,138
+"Chizat, Lénaïc",2,871
+Jian-Qiao Sun,2,28
+Qian Ding,2,28
+Rainer Goebel,2,478
+Elia Formisano,2,478
+Alard Roebroeck,2,478
+Maximilian Ilse,2,83
+Jakub M. Tomczak,2,83
+Alexander F. Gelbukh,2,482
+Dengxin Dai,2,400
+Christos Sakaridis,2,400
+M. Mata,2,824
+J.M a Armingol,2,824
+J Dopazo,2,555
+J Herrero,2,555
+A Valencia,2,555
+Claudio Mattiussi,2,554
+Peter Durr,2,554
+Dario Floreano,2,554
+Stefan Falkner,2,5
+Aaron Klein,2,5
+A. de la Escalera,2,824
+clive sanford,2,823
+Tan Mingxing,2,84
+Pang Ruoming,2,84
+T. J. Sejnowski,2,86
+M. S. Bartlett,2,86
+J. R. Movellan,2,86
+"David, Jean-Pierre",2,22
+"Courbariaux, Matthieu",2,22
+Le Quoc V.,2,84
+Philip L. Jackson,2,138
+Andrew N. Meltzoff,2,138
+feifei li,2,265
+justin p johnson,2,265
+andrej karpathy,2,265
+"Tasdizen, Tolga",2,551
+Abubakar Abid,2,832
+"Sajjadi, Mehdi",2,551
+"Javanmardi, Mehran",2,551
+Yin Li,2,126
+Dmitry Vetrov,2,548
+Dmitry Molchanov,2,548
+Arsenii Ashukha,2,548
+Georg Heigold,2,4
+Guoguo Chen,2,4
+Jefersson Alex dos Santos,2,492
+Otávio Augusto Bizetto Penatti,2,492
+Keiller Nogueira,2,492
+Philip S. Yu,2,491
+Vahid Noroozi,2,491
+Lei Zheng,2,491
+Henry Markram,2,66
+Wolfgang Maass,2,66
+Eric Jang,2,4
+luger george f preface bystubblefield william a,2,65
+George F. Luger,2,65
+G. Lugger,2,65
+P Redgrave,2,865
+T J Prescott,2,865
+K Gurney,2,865
+Julie Onton,2,181
+Junlin Hu,2,545
+Jiwen Lu,2,545
+Suk Heung-Il,2,260
+Lee Seong-Whan,2,260
+Amir Sadeghian,2,11
+Phan-Minh Nguyen,2,835
+Song Mei,2,835
+Andrea Montanari,2,835
+Ravi Ramamoorthi,2,833
+Ting-Chun Wang,2,833
+Nima Khademi Kalantari,2,833
+James Y. Zou,2,832
+Amirata Ghorbani,2,832
+Rohan Doshi,2,837
+Noah Apthorpe,2,837
+Min Tan,2,836
+Zeng-Guang Hou,2,836
+Long Cheng,2,836
+V. Tarokh,2,268
+P. Mitran,2,268
+N. Devroye,2,268
+Guodong Zhao,2,6
+"Hafner, V.V.",2,546
+"Oudeyer, P.-Y.",2,546
+"Kaplan, F.",2,546
+Yap-Peng Tan,2,545
+"Newell, Alejandro",2,540
+"Huang, Zhiao",2,540
+Chieh-Jen Wang,2,539
+Mu-Chen Chen,2,539
+Cheng-Lung Huang,2,539
+"Lin, Tsung-Yi",2,10
+"Ghiasi, Golnaz",2,10
+Hao Quan,2,838
+Dipti Srinivasan,2,838
+Nick Feamster,2,837
+Ranjan K. Mallik,2,208
+Francisco Herrera,2,863
+Rosa M. RodríGuez,2,863
+Luis MartıNez,2,863
+Hans J Markowitsch,2,862
+Matthias Brand,2,862
+Kirsten Labudda,2,862
+Johannes Klicpera,2,500
+Xuemin Shen,2,496
+Qian Zhang,2,496
+Juncheng Jia,2,496
+H. C. Watson,2,69
+S. K. Halgamuge,2,69
+Ashwin Paranjape,2,117
+Julia A. Schnabel,2,52
+Alejandro F. Frangi,2,52
+Zhedong Zheng,2,30
+Zoubin Ghahramani,2,273
+Yarin Gal,2,273
+Riashat Islam,2,273
+Qiaozhu Mei,2,537
+Meng Qu,2,537
+Jian Tang,2,537
+"Deng, Jia",2,540
+Rafael M&uuml;ller,2,4
+R. Srikant,2,78
+Monica Agrawal,2,117
+Wenjie Luo,2,3
+Alexander G. Schwing,2,3
+Narasimhan Sundararajan,2,107
+P Saratchandran,2,107
+A. Ratnaweera,2,69
+Michel A Westenberg,2,861
+Nicolai Petkov,2,861
+Cosmin Grigorescu,2,861
+David Sander,2,502
+Ondrej Chum,2,504
+Giorgos Tolias,2,504
+Filip Radenovic,2,504
+Klaus R Scherer,2,502
+Didier Grandjean,2,502
+Christian Keysers,2,860
+Mbemba Jabbi,2,860
+Marte Swart,2,860
+Xiao-Li Li,2,849
+Peilin Zhao,2,849
+Giduthuri Sateesh Babu,2,849
+Amir Houmansadr,2,154
+Milad Nasr,2,154
+Cong Wang,2,525
+Pascal Vincent,2,3
+Jón Atli Benediktsson,2,457
+Kai Sheng Tai,2,249
+Shiyu Liang,2,78
+Florian Metze,2,520
+Yajie Miao,2,520
+Mohammad Gowayyed,2,520
+Christopher Bongsoo Choy,2,11
+Jón Aevar Palmason,2,457
+D. Roose,2,524
+T. Luzyanina,2,524
+K. Engelborghs,2,524
+Hongyu Li,2,523
+Ying Shen,2,523
+Lin Zhang,2,523
+Martial Hebert,2,4
+C. Lawrence Zitnick,2,4
+Jung-Min Park,2,517
+Wilson P. GaviãO Neto,2,516
+Rodrigo Moraes,2,516
+JoãO Francisco Valiati,2,516
+Xiao Xiang Zhu,2,150
+Lichao Mou,2,150
+"Lakshminarayanan, Balaji",2,10
+Özgür Ergül,2,853
+Özgür B. Akan,2,853
+Jacob Steinhardt,2,117
+Aditi Raghunathan,2,117
+O. Karli,2,853
+Joseph S. Valacich,2,859
+Xin Li,2,859
+Traci J. Hess,2,859
+Feifei Zhai,2,3
+Mark P Waller,2,293
+Rosalind W Picard,2,509
+Nicholas C Swenson,2,509
+Ming-Zher Poh,2,509
+Lysander Shen,2,511
+Yu-Chen Chen,2,511
+Rong-An Shang,2,511
+Mike Preuss,2,293
+Marwin H S Segler,2,293
+Christos Louizos,2,83
+Holger Regenbrecht,2,514
+Frank Friedmann,2,514
+E. Thomas Schubert,2,514
+"Telgarsky, Matus J.",2,513
+"Foster, Dylan J.",2,513
+"Bartlett, Peter L.",2,513
+J. H. Reed,2,517
+Ruiliang Chen,2,517
+ronan sicre,2,122
+giorgos tolias,2,122
+yoram singer,2,386
+moritz hardt,2,386
+benjamin recht,2,386
+David Wagner,2,385
+Yuval Ishai,2,385
+Amit Sahai,2,385
+Larry D. Rosen,2,377
+L. Mark Carrier,2,377
+"Jacot, Arthur",2,153
+"Gabriel, Franck",2,153
+Nicholas Léonard,2,3
+Rolf Kötter,2,21
+Giulio Tononi,2,21
+Franck Gabriel,2,153
+Arthur Jacot,2,153
+Robert W. Brodersen,2,155
+Shridhar Mubaraq Mishra,2,155
+D. Zimbra,2,706
+M. Ghiassi,2,706
+J. Skinner,2,706
+Cheryl L. Grady,1,204
+D Y von Cramon,1,705
+M Ullsperger,1,705
+Markos Markou,1,157
+Vitaly Shmatikov,1,154
+Y Amichai-Hamburger,1,923
+Alan C. Schultz,1,384
+Michael A. Goodrich,1,384
+Roman W. Swiniarski,1,101
+Duy Nguyen-Tuong,1,4
+Alessio Zappone,1,926
+Ji Feng,1,103
+Stephan Dreiseitl,1,162
+He Zhang,1,251
+Kevin Gimpel,1,4
+Sameer Singh,1,157
+Lucila Ohno-Machado,1,162
+Daoqiang Zhang,1,30
+Jeremy D. Schmahmann,1,696
+Catherine J. Stoodley,1,696
+E Ben-Artzi,1,923
+Yingjie Zhang,1,12
+Steve Horvath,1,15
+Peter Langfelder,1,15
+Thomas G. Dietterich,1,4
+K. J. Ray Liu,1,167
+Robert Willison,1,481
+Olivier David,1,691
+F. E.H. Tay,1,275
+Pawel Liskowski,1,532
+Krzysztof Krawiec,1,532
+Luiz A. Baccalá,1,278
+Koichi Sameshima,1,278
+Christos Davatzikos,1,30
+Viveck R. Cadambe,1,88
+L. J. Cao,1,275
+"Foody, G.M.",1,506
+Ajay Mathur,1,506
+Brian M. Sadler,1,70
+Howard C. Card,1,848
+Bradley D. Brown,1,848
+Radha K. Mahapatra,1,847
+Indranil Bose,1,847
+Karel Lenc,1,10
+Nian Liu,1,402
+Wei Shao,1,538
+Demetri Terzopoulos,1,538
+Manolis Delakis,1,543
+Raafat Saadé,1,272
+Bouchaib Bahli,1,272
+Yonatan Bisk,1,44
+M. P. Kazmierkowski,1,498
+G. S. Buja,1,498
+Takayuki Nishio,1,495
+Alexandru Niculescu-Mizil,1,79
+Vikas Yadav,1,844
+Steven Bethard,1,844
+Shigeru Shinomoto,1,843
+Hideaki Shimazaki,1,843
+Guanbin Li,1,529
+C D Frith,1,484
+Jesper E. van Engelen,1,305
+Gianluca Pollastri,1,869
+Aoife McLysaght,1,869
+"Chen, Yixin",1,301
+Robert Chia,1,64
+Haridimos Tsoukas,1,64
+Risto Miikkulainen,1,63
+Ryo Yonetani,1,495
+Xiaolong Wang,1,6
+"Zhang, Muhan",1,301
+jennie si,1,544
+Serge O. Dumoulin,1,834
+Brian A. Wandell,1,834
+Yu-Tsung Wang,1,544
+Diego Marcheggiani,1,83
+Piotr D. Adamczyk,1,553
+Brian P. Bailey,1,553
+Venu G. Gudise,1,827
+Ganesh K. Venayagamoorthy,1,827
+Christian Igel,1,830
+Asja Fischer,1,830
+T H Linh,1,828
+S Osowski,1,828
+Lingxi Xie,1,11
+Peter Foreman,1,550
+David A. Whetten,1,550
+Hubert Cecotti,1,549
+Axel Gräser,1,549
+Frank Van Overwalle,1,486
+Sebastian Padó,1,324
+C Farrer,1,484
+Gil Levi,1,254
+Lotfi A. Zadeh,1,186
+Giorgio Giacinto,1,308
+John P. Charlton,1,557
+Ian D. W. Danforth,1,557
+Jie Huang,1,264
+Dan Wang,1,264
+Katrina A. See,1,257
+John D. Lee,1,257
+Holger H. Hoos,1,305
+Lutz Bornmann,1,489
+Hans-Dieter Daniel,1,489
+Jessica A. Grahn,1,47
+Neil C. Ramiller,1,487
+E. Burton Swanson,1,487
+Kris Baetens,1,486
+David Enke,1,817
+Pedro Domingos,1,76
+Morten Nielsen,1,566
+Massimo Andreatta,1,566
+"Itti, Laurent",1,565
+"Baldi, Pierre",1,565
+Battista Biggio,1,308
+Dimitrios Ververidis,1,307
+Constantine Kotropoulos,1,307
+Inna Dubchak,1,306
+Chris H. Q. Ding,1,306
+Ilya Loshchilov,1,5
+Filip Ponulak,1,872
+Andrzej J. Kasinski,1,872
+Frederic Morin,1,3
+Tal Hassncer,1,254
+Bill Hillier,1,579
+Jason M. Chein,1,809
+Shige Makino,1,574
+Daphne Yiu,1,574
+Willemijn van Dolen,1,573
+Tibert Verhagen,1,573
+Jens Frahm,1,473
+Robert F. Murphy,1,874
+Michael V. Boland,1,874
+Mehdi Khashei,1,477
+Mehdi Bijari,1,477
+Ian Sommerville,1,309
+Gordon Baxter,1,309
+Daniel A. Jiménez,1,818
+Calvin Lin,1,818
+Suraphan Thawornwong,1,817
+Sergio Verdú,1,94
+Antonia Maria Tulino,1,94
+Nils Bertschinger,1,66
+William J. Knottenbelt,1,583
+Hei Law,1,87
+Michael W. Cole,1,809
+"Yuan, Yang",1,735
+jure žbontar,1,152
+Shinichi Iida,1,579
+Michael Zhu,1,137
+Plamen P Angelov,1,476
+Dimitar P Filev,1,476
+Sabine Hofer,1,473
+Roger Ratcliff,1,89
+Gail McKoon,1,89
+Jia Deng,1,87
+Antonio R. Damasio,1,93
+Antoine Bechara,1,93
+"Zhang, Tong",1,92
+"Johnson, Rie",1,92
+hyeonseob nam,1,95
+bohyung han,1,95
+E. S. Sousa,1,313
+A. Ghasemi,1,313
+Hao Yu,1,880
+Bogdan M. Wilamowski,1,880
+Travis Dierks,1,879
+Sarangapani Jagannathan,1,879
+Tae Soo Kim,1,878
+Austin Reiter,1,878
+Yaniv Assaf,1,806
+Peter J Basser,1,806
+Shuohang Wang,1,51
+Jason P. Lerch,1,173
+Rakesh Kumar Jha,1,236
+Akhil Gupta,1,236
+Menon V,1,235
+Levitin D J,1,235
+Zdzislaw Pawlak,1,101
+Zenghui Wang,1,98
+Wenguan Wang,1,28
+Pengcheng Yin,1,883
+Graham Neubig,1,883
+Greta L. Polites,1,466
+Elena Karahanna,1,466
+G. Ganesan,1,6
+Kyriakos G. Vamvoudakis,1,453
+Jack Kelly,1,583
+David W. Opitz,1,461
+Andries Petrus Engelbrecht,1,106
+Marc-oliver Gewaltig,1,601
+Waseem Rawat,1,98
+Min-Ling Zhang,1,103
+thien huu nguyen,1,887
+ralph grishman,1,887
+Sam Wiseman,1,44
+Stephan Hamann,1,886
+Sang Hee Kim,1,886
+Gustavo Camps-Valls,1,312
+M. Ismail Gursoy,1,311
+Abdulhamit Subasi,1,311
+Ryan Adams,1,3
+Xia Li,1,462
+Anthony Gar-on Yeh,1,462
+Andrew Burton-Jones,1,454
+Min Qi,1,325
+G. Peter Zhang,1,325
+Philippe Besnard,1,789
+Anthony Hunter,1,789
+Śaunak Sen,1,788
+Zhizhong Li,1,109
+Derek Hoiem,1,109
+F. vandenBergh,1,106
+Dirk Ormoneit,1,788
+Yingli Tian,1,316
+Longlong Jing,1,316
+Liming Zhang,1,315
+Chenlei Guo,1,315
+Gerd Gigerenzer,1,319
+Richard Maclin,1,461
+hakan bilen,1,616
+andrea vedaldi,1,616
+Fereshteh Sadeghi,1,4
+Joseph T Devlin,1,606
+Cathy J Price,1,606
+Hee-dong Yang,1,423
+Iain Brown,1,605
+Christophe Mues,1,605
+Young-Chan Lee,1,609
+Jae H. Min,1,609
+Jun Wang,1,889
+Jinde Cao,1,889
+"Kwak, Nojun",1,320
+Chong-Ho Choi,1,320
+Henry Brighton,1,319
+Detmar W. Straub,1,454
+Catie Chang,1,471
+Terrance Devries,1,111
+Graham W. Taylor,1,111
+Zhaozheng Yin,1,779
+Wenchao Jiang,1,779
+Robert L. Savoy,1,429
+Venugopal V. Veeravalli,1,778
+Jayakrishnan Unnikrishnan,1,778
+Yian-Kui Liu,1,113
+P. Ravi Kumar,1,326
+Martin Simonovsky,1,116
+Jeff Mitchell,1,324
+Utpal M. Dholakia,1,452
+Richard P. Bagozzi,1,452
+Orit Shaer,1,784
+Eva Hornecker,1,784
+O. L. Mangasarian,1,621
+Dimitri P. Bertsekas,1,620
+Angelia Nedic,1,620
+Roger B. Grosse,1,4
+Janardan Misra,1,618
+Indranil Saha,1,618
+Yupeng Zhang,1,222
+Payman Mohassel,1,222
+T. Yucek,1,41
+H. Arslan,1,41
+Kenneth Heafield,1,893
+Alham Fikri Aji,1,893
+Nie Nie,1,447
+Cristina Comaniciu,1,447
+Rebecca Knowles,1,328
+Philipp Koehn,1,328
+Michael Wand,1,219
+Chuan Li,1,219
+Sidney D'Mello,1,218
+Rafael A. Calvo,1,218
+Andrea Kleinsmith,1,777
+Ozan Öktem,1,774
+Jonas Adler,1,774
+"Niyato, D.",1,627
+"Hossain, E.",1,627
+Douglas Eck,1,10
+Jeff Yan,1,896
+Ahmad Salah El Ahmad,1,896
+Wei-Long Zheng,1,331
+Baoding Liu,1,113
+Nadia Bianchi-Berthouze,1,777
+Yuh-Jye Lee,1,621
+M. Cevdet Ince,1,766
+Naveen Chilamkurti,1,636
+Abebe Abeshu Diro,1,636
+Hongyang Gao,1,30
+André Kushniruk,1,770
+Mehdi Noroozi,1,115
+"Mnih, Andriy",1,633
+"Kavukcuoglu, Koray",1,633
+Paolo Favaro,1,115
+Nora Leonardi,1,409
+Sarthak Jain,1,12
+K J Friston,1,438
+Greg Mori,1,898
+Frederick Tung,1,898
+Ulrike Cress,1,772
+Joachim Kimmerle,1,772
+Anne Beaudry,1,344
+Alain Pinsonneault,1,344
+James G Phillips,1,435
+Adriana Bianchi,1,435
+Mohit Bansal,1,902
+Jonathan D Zwi,1,21
+yi du,1,339
+Roberta Lamb,1,338
+Rob Kling,1,338
+Tsendsuren Munkhdalai,1,442
+Hong Yu,1,442
+Claudia Cormio,1,23
+Xu-Ying Liu,1,103
+"Alvarez Melis, David",1,596
+Soraia M. Alarcão,1,758
+Murat Karabatak,1,766
+Jianhua Tao,1,178
+Sébastien Marcel,1,752
+José del R. Millán,1,752
+Manuel J. Fonseca,1,758
+Peyman Milanfar,1,755
+Hossein Talebi Esfandarani,1,755
+Qun Song,1,213
+N. K. Kasabov,1,213
+Tom Heskes,1,644
+Bart Bakker,1,644
+Randy C. Paffenroth,1,351
+Amit Agarwal,1,76
+Yen-Chun Chen,1,902
+Dongyu Meng,1,212
+Nicolas Le Roux,1,3
+Shlomo Shamai,1,88
+Cemil Kirbas,1,751
+Justin Salamon,1,211
+Juan Pablo Bello,1,211
+Ali Rahimi,1,4
+Shravan Vasishth,1,650
+Richard L. Lewis,1,650
+zoubin ghahramani,1,32
+yarin gal,1,32
+Yoshiaki Hayashi,1,904
+Kazuo Kiguchi,1,904
+Chong Zhou,1,351
+Xi Zhang,1,85
+scott gray,1,427
+andrew lavin,1,427
+I. F. Akyildiz,1,23
+"Goldberg, Yoav",1,124
+Bülent Yener,1,908
+Pengmin Qin,1,253
+Prasert Kanawattanachai,1,423
+Cha Zhang,1,224
+Mohammad Nazeeruddin,1,750
+Hesham K. Alfares,1,750
+Sam T. Roweis,1,129
+"Zhang, Zhilu",1,120
+Lawrence K. Saul,1,129
+M Jenkinson,1,31
+W Sturm,1,906
+K Willmes,1,906
+X J Wang,1,905
+N Brunel,1,905
+David A. Wagner,1,34
+Francis Quek,1,751
+Kimon P. Valavanis,1,661
+George S. Atsalakis,1,661
+Xiao-Xiao Niu,1,659
+Ching Y. Suen,1,659
+Neil D. B. Bruce,1,198
+John K. Tsotsos,1,198
+Dirk Walther,1,197
+Christof Koch,1,197
+Song-Chun Zhu,1,658
+Quan-shi Zhang,1,658
+ronen eldan,1,656
+ohad shamir,1,656
+Long Ma,1,200
+Kang G. Shin,1,357
+Hyoil Kim,1,357
+Timothy Dozat,1,249
+Mukta Paliwal,1,418
+Meryem Duygun Fethi,1,360
+Fotios Pasiouras,1,360
+John Sterman,1,743
+Hazhir Rahmandad,1,743
+Joshua B Tenenbaum,1,664
+Charles Kemp,1,664
+Simon Haykin,1,81
+Evrim Acar,1,908
+Sherrie Y. X. Komiak,1,421
+Izak Benbasat,1,421
+Chei Sian Lee,1,200
+Ali H. Shoeb,1,120
+Shijun Wang,1,745
+Ronald M Summers,1,745
+Hui-Yuan Fan,1,628
+Tong Zhang,1,364
+Rudolph van der Merwe,1,193
+Eric A. Wan,1,193
+thomas brox,1,740
+alexey dosovitskiy,1,740
+Taku Kudo,1,131
+John Richardson,1,131
+Edward Chu Yeow Peh,1,107
+Wolfgang Banzhaf,1,737
+Veikko Surakka,1,361
+Timo Partala,1,361
+"Mitola, J.",1,356
+"Joseph Mitola, III",1,356
+Jonas Mueller,1,355
+Aditya Thyagarajan,1,355
+Usha A. Kumar,1,418
+"Neuper, C.",1,135
+Guy J. Brown,1,189
+"Zadeh, Lotfi A.",1,186
+Maira Gatti,1,3
+Naveed Akhtar,1,185
+Ajmal S. Mian,1,185
+"Farhang-Boroujeny, B.",1,184
+Behrouz Farhang-Boroujeny,1,184
+Randall C. O'Reilly,1,415
+Michael Joshua Frank,1,415
+Zhi Tian,1,414
+Georgios B. Giannakis,1,414
+Lucia Maddalena,1,365
+Alfredo Petrosino,1,365
+Tong Zhang 0001,1,364
+Shelly Xiaonan Wu,1,737
+Andreas Bartels,1,179
+Rufin Van Rullen,1,181
+J. Zico Kolter,1,729
+Brandon Amos,1,729
+Semir Zeki,1,179
+Vincent Aleven,1,405
+Hugh Willmott,1,403
+Alessia Contu,1,403
+Shelia R. Cotten,1,367
+Reynol Junco,1,367
+Ozan Sener,1,11
+Sung-Bae Cho,1,366
+Charissa Ann Ronao,1,366
+Francisco Javier Ordóñez,1,136
+Daniel Roggen,1,136
+"Pfurtscheller, G.",1,135
+Rafiah Awang,1,721
+Matthew C. Stamm,1,720
+Belhassen Bayar,1,720
+"Ha, David",1,10
+"Ghahramani, Zoubin",1,172
+"Gal, Yarin",1,172
+Hyungtae Lee,1,685
+Pedro H. O. Pinheiro,1,3
+Mikail Rubinov,1,21
+Tamara G. Kolda,1,20
+Brett W. Bader,1,20
+"Levine, Sergey",1,1
+Mattia Marconcini,1,312
+Rodrigo Nogueira,1,3
+"Hermans, Michiel",1,10
+Heidi Johansen-Berg,1,18
+Karl J Friston,1,691
+"Yuille, Alan L.",1,713
+"Chen, Xianjie",1,713
+Marcus E. Raichle,1,37
+Malik Yousef,1,164
+Larry M. Manevitz,1,164
+Christoph H. Lampert,1,400
+Weihong Deng,1,398
+Shan Li,1,398
+Douglas N. Greve,1,120
+Heesung Kwon,1,685
+L. N. De Castro,1,684
+J. I. Timmis,1,684
+Pang Wei Koh,1,117
+quoc le,1,142
+Sellappan Palaniappan,1,721
+D M Gavrila,1,518
+Kyoung-Su Oh,1,927
+Keechul Jung,1,927
+Sergey Ioffe,1,249
+Eduard A. Jorswieck,1,926
+Kristin A Cook,1,387
+James J Thomas,1,387
+Yuriy V. Pershin,1,392
+Massimiliano Di Ventra,1,392
+S S Ge,1,525
+Yuval Pinter,1,701
+Sarah Wiegreffe,1,701
+Haili Chui,1,11
+Ofir Press,1,30
+Yuezun Li,1,694
+Siwei Lyu,1,694
+Alessandro Moschitti,1,527
+Alfonso Nieto-Castanon,1,74
+Kai Zou,1,285
+Jason W. Wei,1,285
+Luca Rigazio,1,4
+Ravid Shwartz-Ziv,1,287
+Naftali Tishby,1,287
+Susan Whitfield-Gabrieli,1,74
+"Towsley, Don",1,290
+"Atwood, James",1,290
+María-Blanca Ibáñez-Espiga,1,857
+Carlos Delgado Kloos,1,857
+Jianpeng Cheng,1,324
+Steven L. Bressler,1,515
+Anil K. Seth,1,515
+S Munder,1,518
