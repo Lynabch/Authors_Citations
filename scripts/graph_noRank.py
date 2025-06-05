@@ -37,7 +37,7 @@ degree_centrality = nx.degree_centrality(G)
 nx.set_node_attributes(G, degree_centrality, "degree")
 
 # Sous-graphe des 200 nœuds les plus connectés
-top_nodes = sorted(degree_centrality.items(), key=lambda x: x[1], reverse=True)[:200]
+top_nodes = sorted(degree_centrality.items(), key=lambda x: x[1], reverse=True)[:6266]
 subgraph = G.subgraph([n for n, _ in top_nodes])
 
 #  Visualisation
@@ -57,16 +57,16 @@ nx.draw(subgraph, pos,
 important_labels = {n: n for n in subgraph.nodes() if degree_centrality.get(n, 0) > 0.05}
 nx.draw_networkx_labels(subgraph, pos, labels=important_labels, font_size=8)
 
-plt.title("🧠 Graphe de co-auteurs – Neurosciences (Top 200, clusters Louvain)")
+plt.title("🧠 Graphe de co-auteurs – Neurosciences")
 plt.axis("off")
 plt.tight_layout()
 
 # Sauvegarde en image
-image_file = output_dir / "graph_neuro_no_pagerank.png"
+image_file = output_dir / "graph_neuro.png"
 plt.savefig(image_file, dpi=300)
 print(f"🖼️ Graphique sauvegardé dans : {image_file}")
 # Export Gephi
-gexf_file = data_dir / "graph_neuro_no_pagerank.gexf"
+gexf_file = data_dir / "graph_neuro.gexf"
 nx.write_gexf(G, gexf_file)
 print(f"📦 Fichier GEXF exporté pour Gephi : {gexf_file}")
 #  Extraire les infos pour tous les auteurs
